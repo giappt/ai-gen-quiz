@@ -1,21 +1,21 @@
 Grammar,Usage,Meaning,Reference Example,Original Example,Prefix,Chunk1,Chunk2,Chunk3,Chunk4,Suffix,Explanation
-うえ,V－たうえで,,①では、担当の者と相談した上で、改めてご返事させていただきます。,,,,,,,,
-うえ,V－る／V－たうえは,,①やると言ってしまったうえは、何がなんでもやらなければならない。,,,,,,,,
-うえ,～うえ（に）　Nであるうえに　Naなうえに　A／V　うえに,,①今年は冷夏である上に台風の被害も大きくて、野菜は異常な高値を記録している。,,,,,,,,
-うち,Nのうち,,①この三曲のうちでどれが一番気に入りましたか。,,,,,,,,
-うち,～うちにはいらない　Nのうちにはいらない　A－いうちにはいらない　Vうちにはいらない,,①通勤の行き帰りに駅まで歩くだけでは、運動するうちに入らない。,,,,,,,,
-うち,～うちに　Nのうちに　Naなうちに　A－いうちに,,①朝のうちに宿題をすませよう。,,,,,,,,
-うち,V－ている／V－るうちに,,①彼女は話しているうちに顔が真っ赤になった。,,,,,,,,
-うち,V－ないうちに,,①知らないうちに隣は引っ越していた。,,,,,,,,
-うち,V－るかV－ないうちに,,①夕食に手をつけるかつけないうちに、ポケットベルで呼び出された。,,,,,,,,
-うち,～うちは　Nのうちは　Naなうちは　A－いうちは　V－る／V－ているうちは　V－ないうちは,,①明るいうちはこのあたりはにぎやかだが、夜になると人通りもなくなり、一人で歩くのは危ない。,,,,,,,,
-うち,～うちが　Nのうちが　Naなうちが　A－いうちが　V一る／V－ているうちが　V－ていないうちが,,①若いですねと言ってもらえるうちが花だ。,,,,,,,,
-うる,R－うる,,①彼が失敗するなんてありえない。,,,,,,,,
-える,,,①21世紀には人が月で生活することもありえるかもしれない。,,,,,,,,
-お～いたす,おR－いたす　ごNいたす,,①お食事をお持ちいたしましょうか。,,,,,,,,
-お～いただく,おR－いただく　ごNいただく,,①今日は遠いところをわざわざお集まりいただきましてありがとうございます。,,,,,,,,
-お～くださる,おR－くださる　ごNくださる,,①今日お話しくださる先生は、東西大学の山川先生です。,,,,,,,,
-お～する,おR－する　ごNする,,①先生、お荷物をお持ちします。,,,,,,,,
-お～です,おR－だ　ごNだ,,①林先生は信州に別荘をお持ちだそうですよ。,,,,,,,,
-お～です,週間いらっしゃらないそうです。,,①お宅のご主人は本社にご栄転だそうですね。,,,,,,,,
-お～なさる,おR－なさる　ごNなさる,,①あの先生がお話しなさったことは、多くの人たちにとって生きていく心の支えとなるだろう。,,,,,,,,
+うえ,V－たうえで,Sau khi làm V xong thì mới...,①では、担当の者と相談した上で、改めてご返事させていただきます。,カタログをよく読んだうえで新しい冷蔵庫を買いましょう。,新しい冷蔵庫は、,カタログを,よく,読んだ,うえで、,買いましょう。,"Mảnh 'カタログを' là tân ngữ kết hợp phó từ 'よく' bổ nghĩa cho động từ '読んだ'. Ngữ pháp 'V-たうえで' biểu thị trình tự hành động: phải làm xong hành động ở vế trước rồi mới tiến hành vế sau."
+うえ,V－る／V－たうえは,Một khi đã... thì phải...,①やると言ってしまったうえは、何がなんでもやらなければならない。,二人が一緒に暮らすと決めたうえはまわりの人も応援しよう。,二人が,一緒に暮らすと,決めた,うえは,まわりの人も,応援しよう。,"Cụm '一緒に暮らすと' đóng vai trò bổ nghĩa cho động từ định đoạt '決めた'. Ngữ pháp 'V-たうえは' mang ý nghĩa một khi đã quyết định điều gì thì vế sau thể hiện trách nhiệm hoặc quyết tâm tương xứng."
+うえ,～うえ（に） Nであるうえに Naなうえに A／V うえに,Không chỉ... mà còn...,①今年は冷夏である上に台風の被害も大きくて、野菜は異常な高値を記録している。,この店の料理は美味しいいうえに量も多いのでいつも混んでいる。,この店の料理は,美味しい,うえに,量も,多いので,いつも混んでいる。,"Tính từ '美味しい' kết hợp trực tiếp với cấu trúc tăng tiến 'うえに' (hơn nữa/không chỉ). Mệnh đề tiếp theo '量も多いので' chỉ ra lý do bổ sung dẫn tới kết quả khách đông ở phần Suffix."
+うち,Nのうち,Trong số...,①この三曲のうちでどれが一番気に入りましたか。,今日買ったリンゴの五つのうち二つはすでに食べました。,今日買った,リンゴの,五つの,うち,二つはすでに,食べました。,"Cụm danh từ 'リンゴの五つの' kết hợp với 'うち' tạo thành cấu trúc giới hạn phạm vi lựa chọn hoặc phân loại (Trong số 5 quả táo). Theo sau bởi chủ thể hành động '二つはすでに' kết thúc bằng động từ."
+うち,～うちにはいらない Nのうちにはいらない A－いうちにはいらない Vうちにはいらない,Chưa tới mức/Chưa tính là...,①通勤の行き帰りに駅まで歩くだけでは、運動するうちに入らない。,週に一度近所を散歩するくらいではまだ運動のうちに入らないよ。,週に一度近所を,散歩する,くらいでは,まだ運動の,うちに入らない,よ。,"Cụm '散歩する' đi liền với trợ từ hạn định mức độ 'くらいでは' (chỉ ở mức). Ngữ pháp 'うちに入らない' kết hợp với danh từ '運動の' thể hiện đánh giá tiêu chuẩn chưa đạt đến mức độ của việc đó."
+うち,～うちに Nのうちに Naなうちに A－いうちに,Trong lúc còn...,①朝のうちに宿題をすませよう。,スープが温かいうちに早く食べてくださいね。,スープが,温かい,うちに、,早く,食べて,くださいね。,"Tính từ '温かい' bổ nghĩa trực tiếp cho trạng ngữ chỉ thời gian 'うちに' (trong lúc còn duy trì trạng thái). Theo sau là trạng từ '早く' bổ nghĩa cho hành động ở thể Te kết thúc câu yêu cầu."
+うち,V－ている／V－るうちに,Trong lúc đang làm V thì...,①彼女は話しているうちに顔が真っ赤になった。,子どもの寝顔を見ているうちに私も眠くなってしまった。,子どもの,寝顔を,見ている,うちに、,私も,眠くなってしまった。,"Tân ngữ '寝顔を' đi liền với động từ tiếp diễn '見ている'. Cấu trúc 'V-ているうちに' diễn tả trong quá trình một hành động đang kéo dài liên tục thì có một sự thay đổi khác tự nhiên diễn ra ở vế sau."
+うち,V－ないうちに,Trước khi V xảy ra...,①知らないうちに隣は引っ越していた。,雨が降らないうちに急いで買い物に行ってこよう。,,雨が,降らない,うちに、,急いで買い物に,行ってこよう。,"Mệnh đề phủ định '雨が降らない' đi với 'うちに' tạo thành cụm từ chỉ thời gian mang nghĩa trước khi sự việc xảy ra. Phó từ '急いで' bổ nghĩa cho hướng đi của hành động '買い物に行ってこよう'."
+うち,V－るかV－ないうちに,Vừa mới V xong đã ngay lập tức...,①夕食に手をつけるかつけないうちに、ポケットベルで呼び出された。,布団に入るか入らないうちにすぐにぐっすり眠ってしまった。,彼は,布団に,入るか,入らない,うちに,すぐにぐっすり眠ってしまった。,"Động từ '入る' được lặp lại ở dạng khẳng định và phủ định đi kèm 'うちに' tạo thành mẫu ngữ pháp diễn tả khoảnh khắc thời gian cực kỳ ngắn ngủi ngay sau hành động. 'すぐに' bổ nghĩa cho vị ngữ."
+うち,～うちは Nのうちは Naなうちは A－いうちは V－る／V－ているうちは V－ないうちは,Trong suốt khoảng thời gian...,①明るいうちはこのあたりはにぎやかだが、夜になると人通りもなくなり、一人で歩くのは危ない。,子どもが小さいうちは遠くへ旅行に行くのはなかなか難しい。,,子どもが,小さい,うちは、,遠くへ旅行に,行くのはなかなか難しい。,"Chủ ngữ '子どもが' kết hợp tính từ '小さい' bổ nghĩa cho 'うちは' nhằm thiết lập thời kỳ giới hạn trạng thái kéo dài. Phần sau là mệnh đề danh từ hóa đóng vai trò chủ ngữ phụ đi với từ chỉ mức độ."
+うち,～うちが Nのうちが Naなうちが A－いうちが V一る／V－ているうちが V－ていないうちが,Khoảng thời gian tốt nhất là...,①若いですねと言ってもらえるうちが花だ。,独身のうちが一番自由に お金を使える時間だよ。,,独身の,うちが,一番自由に,お金を,使える時間だよ。,"Danh từ '独身の' kết hợp cấu trúc nhấn mạnh 'うちが' đóng vai trò định vị thời điểm tốt nhất. Trạng từ '一番自由に' bổ nghĩa cho hành động tiêu tiền 'お金を使える' làm rõ nghĩa cho danh từ thời gian."
+うる,R－うる,Có khả năng/Có thể xảy ra...,①彼が失敗するなんてありえない。,人間だから誰でも間違いはありうる。,人間だから,誰でも,間違いは,あり,うる。,Mệnh đề '誰でも間違いは' làm chủ ngữ cho động từ. Động từ 'ある' chuyển sang thể liên dụng 'あり' kết hợp bổ ngữ khả năng 'うる' tạo thành dạng khẳng định mang tính khách quan.
+える,,,①21世紀には人が月で生活することもありえるかもしれない。,これだけの情報では彼が犯人とも考え得る。,これだけの情報では,彼が,犯人とも,考え,得る。,"Trạng ngữ chỉ căn cứ 'これだけの情報では' đi với giả định '彼が犯人とも'. Động từ nhóm 2 '考える' bỏ ます thành '考え' kết hợp với cấu trúc khả năng '得る (える)' tạo từ ghép hoàn chỉnh."
+お～いたす,おR－いたす ごNいたす,Kính ngữ (Khiêm nhường),①お食事をお持ちいたしましょうか。,重そうな荷物ですね駅まで車でお送りいたします。,重そうな荷物ですね。,駅まで,車で,お送り,いた,します。,"Trạng ngữ chỉ nơi chốn '駅まで' và phương tiện '車で' đứng trước cụm từ kính ngữ. Cấu trúc khiêm nhường ngữ 'お + V-ます + いたす' được chia tách ở phần cuối câu thành 'お送り' và 'いたします'."
+お～いただく,おR－いただく ごNいただく,Nhận được sự làm gì từ bề trên...,①今日は遠いところをわざわざお集まりいただきましてありがとうございます。,忙しい時間にわざわざお越しいただき本当に感謝しています。,,忙しい時間に,わざわざ,お越し,いただき、,本当に感謝しています。,"Cụm thời gian '忙しい時間に' đi kèm phó từ thể hiện lòng thành 'わざわざ'. Tôn kính ngữ 'お越し' kết hợp với thể khiêm nhường 'いただき' tạo thành hành động nhận được sự ghé thăm từ người khác."
+お～くださる,おR－くださる ごNくださる,Ai đó làm gì cho mình (Tôn kính),①今日お話しくださる先生 là...,田中さんのお母さんが美味しいケーキをお作りくださった。,田中さんのお母さんが、,美味しい,ケーキを,お作り,くださ,った。,"Tính từ '美味しい' bổ nghĩa trực tiếp cho tân ngữ 'ケーキを'. Cấu trúc tôn kính ngữ 'お + V-ます + くださる' biểu thị sự tôn trọng hành vi của người mẹ làm bánh cho người nói."
+お～する,おR－する ごNする,Khiêm nhường ngữ...,①先生、お荷物をお持ちします。,お出かけですか私が玄関までお見送りします。,お出かけですか。,私が,玄関まで,お見送り,し,ます。,"Chủ ngữ '私が' tự nguyện thực hiện hành động cùng với giới hạn địa điểm '玄関まで'. Mẫu câu khiêm nhường dạng cơ bản 'お + V-ます + する' áp dụng cho động từ 見送り tạo thành cụm hoàn chỉnh."
+お～です,おR－だ ごNだ,Kính ngữ dạng trạng thái...,①林先生は信州に別荘をお持ちだそうですよ。,田中さんはもう新しいアパートにお引越しですか。,田中さんは,もう新しい,アパートに,お引越し,です,か。,"Trạng từ 'もう' đi với tính từ '新しい' bổ nghĩa danh từ nơi chốn 'アパートに'. Cấu trúc danh từ kính ngữ 'お + Danh từ hành động (引越し)' kết hợp trợ động từ khẳng định lịch sự 'です' tạo câu hỏi."
+お～です,週間いらっしゃらないそうです。,Kính ngữ dạng trạng thái...,①お宅のご主人は本社にご栄転だそうですね。,山田さんは可愛いカメラをお持ちですね。,山田さんは、,可愛い,カメラを,お持ち,です,ね。,"Tính từ '可愛い' bổ nghĩa cho tân ngữ 'カメラを'. Hình thức kính ngữ biểu thị trạng thái sở hữu của đối phương được hình thành từ cấu trúc 'お + V-ます (持ち) + です' kết thúc bằng vĩ tố 'ね'."
+お～なさる,おR－なさる ごNなさる,Tôn kính ngữ hành vi...,①あの先生がお話しなさったことは、多くの人たちにとって生きていく心の支えとなるだろう。,今日の夕食は何をお作りなさる予定ですか。,今日の夕食は,何を,お作り,なさる,予定,ですか。,"Tân ngữ nghi vấn '何を' làm bổ ngữ trực tiếp cho cụm tôn kính ngữ 'お作りなさる' (kính ngữ của 作る). Toàn bộ cụm động từ này bổ nghĩa cho danh từ '予定' để tạo thành kết cấu câu hỏi."
