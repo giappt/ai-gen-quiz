@@ -13,6 +13,10 @@ fs.writeFileSync(REPORT_FILE, '--- BÁO CÁO REVIEW CHẤT LƯỢNG DỮ LIỆU 
 let totalErrors = 0;
 let totalChecked = 0;
 
+// Regex kiểm tra tiếng Việt (có dấu)
+const vietnameseRegex = /[àáảãạăằắẳẵặâầấẩẫậèéẻẽẹêềếểễệìíỉĩịòóỏõọôồốổỗộơờớởỡợùúủũụưừứửữựỳýỷỹỵđ]/i;
+
+
 function logError(msg) {
   fs.appendFileSync(REPORT_FILE, msg + '\n');
   console.log(msg);
@@ -61,6 +65,9 @@ async function validateM1(filePath, relativePath) {
         if (!optExpl || optExpl.length < 20) {
           hasError = true;
           errorMsgs.push(`Giải thích cho Option ${opt} quá ngắn hoặc trống (< 20 ký tự).`);
+        } else if (!vietnameseRegex.test(optExpl)) {
+          hasError = true;
+          errorMsgs.push(`Giải thích cho Option ${opt} dường như không phải tiếng Việt (thiếu dấu).`);
         }
       }
     }
@@ -84,11 +91,14 @@ async function validateM2(filePath, relativePath) {
     let hasError = false;
     let errorMsgs = [];
 
-    // 1. Kiểm tra độ dài Explanation
+    // 1. Kiểm tra độ dài & ngôn ngữ Explanation
     const expl = row['Explanation'] || '';
     if (expl.length < 40) {
       hasError = true;
       errorMsgs.push('Giải thích quá ngắn (< 40 ký tự). Cần mô tả kỹ hơn lý do sắp xếp.');
+    } else if (!vietnameseRegex.test(expl)) {
+      hasError = true;
+      errorMsgs.push('Giải thích dường như không phải tiếng Việt (thiếu dấu).');
     }
 
     // 2. Kiểm tra ghép nối Chunk có khớp 100% với Original Example không
