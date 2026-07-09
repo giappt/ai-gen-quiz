@@ -1,4 +1,4 @@
-Grammar,Usage,Reference Example,Original Example,Prefix,Chunk1,Chunk2,Chunk3,Chunk4,Suffix,Explanation
+﻿Grammar,Usage,Reference Example,Original Example,Prefix,Chunk1,Chunk2,Chunk3,Chunk4,Suffix,Explanation
 たら1,～たら＋未実現のことがら,①雨だったら道が混雑するだろう。,明日の夕方、スーパーのタイムセールが始まったら混雑するだろうから、早めに行こう。,明日の夕方、スーパーのタイムセールが,始まったら,混雑する,だろう,から、,早めに行こう。,"Vế giả định điều kiện chưa xảy ra ""始まったら"" (nếu bắt đầu) bổ nghĩa cho kết quả dự đoán ""混雑するだろう"" (chắc sẽ đông đúc). Tiếp theo ""から"" chỉ nguyên nhân dẫn đến hành động đề xuất ở đuôi câu ""早めに行こう""."
 たら1,～たら＋表出・働きかけ,①この仕事が完成したら、長い休みをとるつもりだ。,晩ご飯の準備ができたらみんなを呼んでくれる？,晩ご飯の,準備が,できたら,みんなを,呼んで,くれる？,"Danh từ kết hợp trợ từ ""準備が"" đi với động từ điều kiện ""できたら"" tạo thành vế điều kiện hoàn thành hành động. Tiếp theo là tân ngữ ""みんなを"" và động từ thể Te ""呼んで"" đi liền với đuôi cầu khiến ""くれる""."
 たら1,～たら＋問いかけ,①雨だったら試合は中止になりますか。,来週の週末、都合が悪かったら日程を変更できますか。,来週の週末、,都合が,悪かったら,日程を,変更できます,か。,"Chủ ngữ hành động ""都合が"" đi với tính từ đuôi i thể điều kiện ""悪かったら"" (nếu không thuận tiện). Tiếp theo là tân ngữ ""日程を"" bổ nghĩa cho động từ khả năng ""変更できます"" và kết thúc bằng trợ từ nghi vấn ""か""."
@@ -16,6 +16,6 @@ Grammar,Usage,Reference Example,Original Example,Prefix,Chunk1,Chunk2,Chunk3,Chu
 たらいい,だったらいい A－かったらいい V－たらいい V－たらいい＜勧め＞,,,,,,,,,
 たらいい,～たらいい＜願望＞, hy vọng một điều gì đó sẽ xảy ra.,①生まれてくる子が男の子だったらいいのだが。,①,生まれてくる子が,男の子,だったら,いいの,だが。,"のになあ。 Vì vậy, bạn cần chú ý các thành phần ngữ pháp và từ vựng để sắp xếp câu cho chính xác và tự nhiên nhất."
 たらいい,～たらよかった, nuối tiếc vì trong quá khứ đã không làm một việc gì đó.,①A：このあいだのパーティーおもしろかったわよ。B：僕も行ったらよかった。A：そうよ。来たらよかったのに。どうして来なかったの。B：アルバイトがあったんだよ。でもあの日はバイト、ひまでね。休んでもよかったんだ。,①A：このあいだのパーティーおもしろかったわよ。B：僕も行ったらよかった。A：そうよ。,来たらよかったのに。,どうして,来なかったの。B：アルバイトがあったんだよ。でも,あの日はバイト、ひまでね。,休んでもよかったんだ。,"と後悔している。 Vì vậy, bạn cần chú ý các thành phần ngữ pháp và từ vựng để sắp xếp câu cho chính xác và tự nhiên nhất."
-だらけ,Nだらけだ, tiêu cực,không mong muốn.,,không ,mong, muố,n,.,"帰って Vì vậy, bạn cần chú ý các thành phần ngữ pháp và từ vựng để sắp xếp câu cho chính xác và tự nhiên nhất."
+だらけ,Nだらけだ, tiêu cực,彼が失敗したのは、ひとつには準備不足だったためである。,彼が失敗したのは、,ひとつには,準備不足,だった,ため,である。,Lý do thất bại là do thiếu chuẩn bị (ためである).
 たらどうか,V－たらとうか, khuyên nhủ đối phương nên thử làm việc gì đó.,①別の方法で実験してみたらどうでしょうか。,①,別の方法で,実験して,みたら,どう,でしょうか。,"と思います。 Vì vậy, bạn cần chú ý các thành phần ngữ pháp và từ vựng để sắp xếp câu cho chính xác và tự nhiên nhất."
 たり,だったり A一かったり V－たり ～たり～たりする, trạng thái tiêu biểu (thường đi kèm với する ở cuối).,①休みの日には、ビデオを見たり音楽を聞いたりしてのんびり過ごすのが好きです。,①,休みの日には、,ビデオを見たり,音楽を聞いたり,してのんびり,過ごすのが好きです。,"たりして過ごします。 Vì vậy, bạn cần chú ý các thành phần ngữ pháp và từ vựng để sắp xếp câu cho chính xác và tự nhiên nhất."
