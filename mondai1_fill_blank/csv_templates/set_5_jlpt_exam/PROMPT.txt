@@ -9,3 +9,4 @@
 4. Explanations: Giải thích chi tiết tại sao đúng/sai. BẮT BUỘC PHẢI VIẾT BẰNG TIẾNG VIỆT (các trích dẫn từ vựng/ngữ pháp vẫn giữ tiếng Nhật).
 
 [Format]: Bắt buộc trả về ĐÚNG định dạng CSV (bọc trong khối mã). Ký tự phân cách là dấu phẩy (,). Bọc mọi nội dung text bằng ngoặc kép ("") NẾU bên trong có dấu phẩy. Không in ra bất kỳ lời chào nào ngoài khối CSV.
+LƯU Ý QUAN TRỌNG: Bạn tuyệt đối KHÔNG ĐƯỢC PHÉP tự ý điền hay sửa đổi 5 cột đầu tiên (Grammar, Usage, JLPT Level, Meaning, Reference Example). Bắt buộc phải bắt đầu quá trình điền dữ liệu từ cột thứ 6 (Original Example). Bắt buộc phải sử dụng từ vựng, độ phức tạp của câu phù hợp với trình độ ghi ở cột JLPT Level.
