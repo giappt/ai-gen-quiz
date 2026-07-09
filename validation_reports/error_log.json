@@ -1,0 +1,1462 @@
+[
+  {
+    "file": "D:\\pj\\xx\\ai-gen-quiz\\mondai2_ordering\\csv_cleaned\\set_1_daily\\part_2.csv",
+    "type": "M2_CHUNK_MISMATCH",
+    "original": "買い物の後でカフェに行って休もう。",
+    "reconstructed": "\"買い物の後でカフェに行って休もう。",
+    "row": {
+      "Grammar": "あと1",
+      "Usage": "～あと（で／に）　Nのあと　で／に　V－たあと　で／に",
+      "JLPT Level": "N5",
+      "Reference Example": "①田中さんにはお世話になったから、引っ越しの後で改めてお礼にうかがおう。",
+      "Original Example": "買い物の後でカフェに行って休もう。",
+      "Prefix": "\"",
+      "Chunk1": "買い物の",
+      "Chunk2": "後で",
+      "Chunk3": "カフェに",
+      "Chunk4": "行って",
+      "Suffix": "休もう。",
+      "Explanation": "'Nの後で' biểu thị mốc thời gian sau một danh từ chỉ hành động (買い物). Cụm chỉ thời gian này đứng đầu câu, theo sau là danh từ chỉ nơi chốn kèm trợ từ 'カフェに', động từ nối '行って' và kết thúc bằng thể chí hướng '休もう'."
+    }
+  },
+  {
+    "file": "D:\\pj\\xx\\ai-gen-quiz\\mondai2_ordering\\csv_cleaned\\set_1_daily\\part_2.csv",
+    "type": "M2_CHUNK_MISMATCH",
+    "original": "弟の部屋があまりにも汚くて足の踏み場もない。",
+    "reconstructed": "\"弟の部屋があまりにも汚くて足の踏み場もない。",
+    "row": {
+      "Grammar": "あまり",
+      "Usage": "あまりに（も）　あんまり（にも）",
+      "JLPT Level": "N3",
+      "Reference Example": "①あまりにおかしくて涙が出た。",
+      "Original Example": "弟の部屋があまりにも汚くて足の踏み場もない。",
+      "Prefix": "\"",
+      "Chunk1": "弟の部屋が",
+      "Chunk2": "あまりにも",
+      "Chunk3": "汚くて",
+      "Chunk4": "足の踏み場も",
+      "Suffix": "ない。",
+      "Explanation": "'あまりにも' đứng trước tính từ '汚くて' để nhấn mạnh mức độ nghiêm trọng vượt quá bình thường. Cụm tính từ này bổ nghĩa nguyên nhân cho kết quả phía sau là thành ngữ '足の踏み場もない' (không có chỗ đặt chân)."
+    }
+  },
+  {
+    "file": "D:\\pj\\xx\\ai-gen-quiz\\mondai2_ordering\\csv_cleaned\\set_1_daily\\part_2.csv",
+    "type": "M2_CHUNK_MISMATCH",
+    "original": "あんまりにも夜遅く寝ると次の日の朝が辛いよ。",
+    "reconstructed": "\"あんまりにも夜遅く寝ると次の日の朝が辛いよ。",
+    "row": {
+      "Grammar": "あまり",
+      "Usage": "あまりに（も）～と　あんまり（にも）～と",
+      "JLPT Level": "N3",
+      "Reference Example": "①あまりボリュームを上げると隣の人が文句を言いに来るから気をつけてね。",
+      "Original Example": "あんまりにも夜遅く寝ると次の日の朝が辛いよ。",
+      "Prefix": "\"",
+      "Chunk1": "あんまりにも",
+      "Chunk2": "夜遅く",
+      "Chunk3": "寝ると",
+      "Chunk4": "次の日の朝が",
+      "Suffix": "辛いよ。",
+      "Explanation": "'あんまりにも' đi kèm và bổ nghĩa cho cụm trạng từ thời gian '夜遅く' và động từ điều kiện '寝ると'. Vế sau thể hiện hệ quả tất yếu đối với chủ ngữ '次の日の朝が' đi với tính từ '辛いよ'."
+    }
+  },
+  {
+    "file": "D:\\pj\\xx\\ai-gen-quiz\\mondai2_ordering\\csv_cleaned\\set_1_daily\\part_23.csv",
+    "type": "M2_CHUNK_MISMATCH",
+    "original": "終電を逃したから、タクシーで家に帰るしかない。",
+    "reconstructed": "終電を逃したから、タクシーで家に帰るしかない。\"",
+    "row": {
+      "Grammar": "しか",
+      "Usage": "V－るしかない",
+      "JLPT Level": "N3",
+      "Reference Example": "①高すぎて買えないから、借りるしかないでしょう。",
+      "Original Example": "終電を逃したから、タクシーで家に帰るしかない。",
+      "Prefix": "終電を",
+      "Chunk1": "逃したから、",
+      "Chunk2": "タクシーで",
+      "Chunk3": "家に",
+      "Chunk4": "帰るしかない。",
+      "Suffix": "\"",
+      "Explanation": "Cấu trúc \"V-るしかない\" diễn tả việc không còn lựa chọn nào khác ngoài V. Vế đầu chỉ nguyên nhân, theo sau là trạng ngữ chỉ phương tiện \"タクシーで\" và địa điểm \"家に\" bổ nghĩa tự nhiên cho hành động \"帰る\"."
+    }
+  },
+  {
+    "file": "D:\\pj\\xx\\ai-gen-quiz\\mondai2_ordering\\csv_cleaned\\set_1_daily\\part_23.csv",
+    "type": "M2_CHUNK_MISMATCH",
+    "original": "家に着き次第、すぐに連絡するね。",
+    "reconstructed": "家に着きしだい、すぐに連絡するね。",
+    "row": {
+      "Grammar": "しだい",
+      "Usage": "R－しだい",
+      "JLPT Level": "N2",
+      "Reference Example": "①落し物が見つかりしだい、お知らせします。",
+      "Original Example": "家に着き次第、すぐに連絡するね。",
+      "Prefix": "家に",
+      "Chunk1": "着き",
+      "Chunk2": "しだい、",
+      "Chunk3": "すぐに",
+      "Chunk4": "連絡する",
+      "Suffix": "ね。",
+      "Explanation": "\"V-masu + しだい\" nghĩa là ngay sau khi làm V. Động từ \"着く\" chuyển sang dạng liên dụng \"着き\" kết hợp trực tiếp với \"しだい\" để tạo mệnh đề trạng ngữ chỉ thời gian cho vế sau."
+    }
+  },
+  {
+    "file": "D:\\pj\\xx\\ai-gen-quiz\\mondai2_ordering\\csv_cleaned\\set_1_daily\\part_23.csv",
+    "type": "M2_CHUNK_MISMATCH",
+    "original": "弟は飲みすぎて転び、挙局の果てには骨折する始末だ。",
+    "reconstructed": "弟は飲みすぎて転び、挙句の果てには骨折する始末だ。",
+    "row": {
+      "Grammar": "しまつだ",
+      "Usage": "V－るしまつだ",
+      "JLPT Level": "N1",
+      "Reference Example": "①彼女は夫の欠点を延々と並べ上げ、あげくの果てには離婚すると言って泣き出す始末だった。",
+      "Original Example": "弟は飲みすぎて転び、挙局の果てには骨折する始末だ。",
+      "Prefix": "弟は",
+      "Chunk1": "飲みすぎて転び、",
+      "Chunk2": "挙句の果てには",
+      "Chunk3": "骨折する",
+      "Chunk4": "始末",
+      "Suffix": "だ。",
+      "Explanation": "\"V-る + 始末だ\" diễn tả một kết cục tồi tệ tột cùng, thường đi kèm cụm từ nhấn mạnh \"挙句の果てには\". Động từ \"骨折する\" đóng vai trò định ngữ bổ nghĩa trực tiếp cho danh từ \"始末\"."
+    }
+  },
+  {
+    "file": "D:\\pj\\xx\\ai-gen-quiz\\mondai2_ordering\\csv_cleaned\\set_1_daily\\part_25.csv",
+    "type": "M2_CHUNK_MISMATCH",
+    "original": "労せずして手に入れたチケットだから、友達に譲ろう。",
+    "reconstructed": "\"労せずして手に入れたチケットだから、友達に譲ろう。",
+    "row": {
+      "Grammar": "ずして",
+      "Usage": "V－ずして",
+      "JLPT Level": "N1",
+      "Reference Example": "①悪天候の中を飛行磯が無事着陸すると、乗客の中から期せずして拍手がわき起こった。",
+      "Original Example": "労せずして手に入れたチケットだから、友達に譲ろう。",
+      "Prefix": "\"",
+      "Chunk1": "労せずして",
+      "Chunk2": "手に入れた",
+      "Chunk3": "チケットだから、",
+      "Chunk4": "友達に",
+      "Suffix": "譲ろう。",
+      "Explanation": "Động từ dạng trang trọng '労する' chuyển sang thể 'ずして' thành '労せずして' (mà không cần tốn công sức), đóng vai trò trạng ngữ bổ nghĩa cho cụm hành động '手に入れた' phía sau."
+    }
+  },
+  {
+    "file": "D:\\pj\\xx\\ai-gen-quiz\\mondai2_ordering\\csv_cleaned\\set_1_daily\\part_25.csv",
+    "type": "M2_CHUNK_MISMATCH",
+    "original": "母の妹、すなわち私の叔母が明日家に遊びに来る。",
+    "reconstructed": "\"母の妹、すなわち私の叔母が明日家に遊びに来る。",
+    "row": {
+      "Grammar": "すなわち",
+      "Usage": "",
+      "JLPT Level": "N2",
+      "Reference Example": "①彼は、1945年、すなわち、第二次世界大戦の終わった年に生まれた。",
+      "Original Example": "母の妹、すなわち私の叔母が明日家に遊びに来る。",
+      "Prefix": "\"",
+      "Chunk1": "母の妹、",
+      "Chunk2": "すなわち",
+      "Chunk3": "私の叔母が",
+      "Chunk4": "明日家に",
+      "Suffix": "遊びに来る。",
+      "Explanation": "Liên từ 'すなわち' đặt giữa hai danh từ để giải thích đồng nghĩa hoặc làm rõ cho cụm từ đứng trước '母の妹', cụ thể hóa chủ ngữ thành '私の叔母が'."
+    }
+  },
+  {
+    "file": "D:\\pj\\xx\\ai-gen-quiz\\mondai2_ordering\\csv_cleaned\\set_1_daily\\part_25.csv",
+    "type": "M2_CHUNK_MISMATCH",
+    "original": "値段を見ずに服を買ったら、予算オーバーになってしまった。",
+    "reconstructed": "\"値段を見ずに服を買ったら、予算オーバーになってしまった。",
+    "row": {
+      "Grammar": "ずに",
+      "Usage": "V－ずに",
+      "JLPT Level": "N4",
+      "Reference Example": "①よくかまずに食べると胃を悪くしますよ。",
+      "Original Example": "値段を見ずに服を買ったら、予算オーバーになってしまった。",
+      "Prefix": "\"",
+      "Chunk1": "値段を",
+      "Chunk2": "見ずに",
+      "Chunk3": "服を",
+      "Chunk4": "買ったら、",
+      "Suffix": "予算オーバーになってしまった。",
+      "Explanation": "'見ずに' (mà không nhìn) là dạng phủ định thay cho 'ないで' của 見る, bổ nghĩa cho hành động kế tiếp '服を買ったら' để chỉ trạng thái/cách thức khi thực hiện hành động."
+    }
+  },
+  {
+    "file": "D:\\pj\\xx\\ai-gen-quiz\\mondai2_ordering\\csv_cleaned\\set_1_daily\\part_34.csv",
+    "type": "M2_CHUNK_MISMATCH",
+    "original": "không mong muốn.",
+    "reconstructed": "khôngmongmuốn.",
+    "row": {
+      "Grammar": "ため",
+      "Usage": "ひとつには～ためである",
+      "JLPT Level": "N2",
+      "Reference Example": "①彼の性格が暗いのは、ひとつにはさびしい少年時代を送ったためである。",
+      "Original Example": "không mong muốn.",
+      "Prefix": "",
+      "Chunk1": "không",
+      "Chunk2": "mong",
+      "Chunk3": "muố",
+      "Chunk4": "n",
+      "Suffix": ".",
+      "Explanation": "帰って Vì vậy, bạn cần chú ý các thành phần ngữ pháp và từ vựng để sắp xếp câu cho chính xác và tự nhiên nhất."
+    }
+  },
+  {
+    "file": "D:\\pj\\xx\\ai-gen-quiz\\mondai2_ordering\\csv_cleaned\\set_1_daily\\part_45.csv",
+    "type": "M2_CHUNK_MISMATCH",
+    "original": "この料理は、いくらレシピ通りに作っても母の味にはならない。",
+    "reconstructed": "この料理はいくらレシピ通りに作っても母の味にはならない。",
+    "row": {
+      "Grammar": "ても",
+      "Usage": "いくら～ても",
+      "JLPT Level": "N4",
+      "Reference Example": "①いくら華やかな職業でも、つらいことはたくさんある。",
+      "Original Example": "この料理は、いくらレシピ通りに作っても母の味にはならない。",
+      "Prefix": "この料理は",
+      "Chunk1": "いくら",
+      "Chunk2": "レシピ通りに",
+      "Chunk3": "作っても",
+      "Chunk4": "母の味には",
+      "Suffix": "ならない。",
+      "Explanation": "Cấu trúc đi liền \"いくら...ても\" (cho dù... bao nhiêu). \"いくら\" bổ nghĩa cho \"作っても\" ở Chunk 3. \"レシピ通りに\" (đúng như công thức) là trạng từ bổ nghĩa cho động từ \"作る\". \"母の味にはならない\" là vế kết quả hợp logic."
+    }
+  },
+  {
+    "file": "D:\\pj\\xx\\ai-gen-quiz\\mondai2_ordering\\csv_cleaned\\set_1_daily\\part_45.csv",
+    "type": "M2_CHUNK_MISMATCH",
+    "original": "私は、どんなに仕事が忙しくても毎日家族に電話をかけている。",
+    "reconstructed": "私はどんなに仕事が忙しくても毎日家族に電話をかけている。",
+    "row": {
+      "Grammar": "ても",
+      "Usage": "どんなに～ても",
+      "JLPT Level": "N4",
+      "Reference Example": "①このコンピュータはどんなに複雑な問題でも解いてしまう。",
+      "Original Example": "私は、どんなに仕事が忙しくても毎日家族に電話をかけている。",
+      "Prefix": "私は",
+      "Chunk1": "どんなに",
+      "Chunk2": "仕事が",
+      "Chunk3": "忙しくても",
+      "Chunk4": "毎日家族に",
+      "Suffix": "電話をかけている。",
+      "Explanation": "\"どんなに\" đi với tính từ đuôi i thể ても là \"忙しくても\" để tạo nghĩa biểu thị mức độ cực đoan. \"仕事が忙しい\" đi liền nhau làm trạng thái diễn tả nguyên nhân, vế sau \"毎日家族に電話をかけている\" là hành động thường nhật phù hợp bối cảnh."
+    }
+  },
+  {
+    "file": "D:\\pj\\xx\\ai-gen-quiz\\mondai2_ordering\\csv_cleaned\\set_1_daily\\part_45.csv",
+    "type": "M2_CHUNK_MISMATCH",
+    "original": "誰が何と言っても、私はこの服を絶対に買いたい。",
+    "reconstructed": "誰が何と言っても私はこの服を絶対に買いたい。",
+    "row": {
+      "Grammar": "ても",
+      "Usage": "疑問詞～ても",
+      "JLPT Level": "N4",
+      "Reference Example": "①だれが電話してきても、取りつがないでください。",
+      "Original Example": "誰が何と言っても、私はこの服を絶対に買いたい。",
+      "Prefix": "誰が",
+      "Chunk1": "何と",
+      "Chunk2": "言っても",
+      "Chunk3": "私はこの服を",
+      "Chunk4": "絶対に",
+      "Suffix": "買いたい。",
+      "Explanation": "Từ để hỏi \"何\" kết hợp với trợ từ \"と\" và động từ \"言う\" chia thể ても thành \"何と言っても\" tạo trạng ngữ cố định (dù ai có nói gì đi nữa). \"絶対に買いたい\" thể hiện ý chí mạnh mẽ đứng cuối để kết thúc câu."
+    }
+  },
+  {
+    "file": "D:\\pj\\xx\\ai-gen-quiz\\mondai2_ordering\\csv_cleaned\\set_1_daily\\part_45.csv",
+    "type": "M2_CHUNK_MISMATCH",
+    "original": "昨日のことは、どう考えても彼女が怒っている理由がわからない。",
+    "reconstructed": "昨日のことはどう考えても彼女が怒っている理由がわからない。",
+    "row": {
+      "Grammar": "ても",
+      "Usage": "どうV－ても",
+      "JLPT Level": "N4",
+      "Reference Example": "①どう言ってみても、硬の決心を変えさせることはできなかった。",
+      "Original Example": "昨日のことは、どう考えても彼女が怒っている理由がわからない。",
+      "Prefix": "昨日のことは",
+      "Chunk1": "どう",
+      "Chunk2": "考えても",
+      "Chunk3": "彼女が",
+      "Chunk4": "怒っている理由が",
+      "Suffix": "わからない。",
+      "Explanation": "\"どう考えても\" là cụm trạng từ đi liền nhau mang nghĩa \"dù có nghĩ thế nào đi nữa\", kết hợp hoàn hảo với thể phủ định \"わからない\" ở cuối câu."
+    }
+  },
+  {
+    "file": "D:\\pj\\xx\\ai-gen-quiz\\mondai2_ordering\\csv_cleaned\\set_1_daily\\part_45.csv",
+    "type": "M2_CHUNK_MISMATCH",
+    "original": "何回注意しても、息子は自分の部屋を片付けない。",
+    "reconstructed": "何回注意しても息子は自分の部屋を片付けない。",
+    "row": {
+      "Grammar": "ても",
+      "Usage": "なん＋助数詞＋V－ても",
+      "JLPT Level": "N4",
+      "Reference Example": "①何回聞いても名前が覚えられない。",
+      "Original Example": "何回注意しても、息子は自分の部屋を片付けない。",
+      "Prefix": "",
+      "Chunk1": "何回",
+      "Chunk2": "注意しても",
+      "Chunk3": "息子は",
+      "Chunk4": "自分の部屋を",
+      "Suffix": "片付けない。",
+      "Explanation": "\"何回\" (mấy lần) đi với động từ thể ても \"注意しても\" tạo thành cấu trúc nhấn mạnh tần suất hành động nhưng không đạt kết quả mong muốn. Vế sau danh từ \"部屋\" đi với trợ từ \"を\" và động từ \"片付けない\"."
+    }
+  },
+  {
+    "file": "D:\\pj\\xx\\ai-gen-quiz\\mondai2_ordering\\csv_cleaned\\set_1_daily\\part_45.csv",
+    "type": "M2_CHUNK_MISMATCH",
+    "original": "あの店の商品なら、たとえ安くてもそんな高いバッグは買わなかっただろう。",
+    "reconstructed": "あの店の商品ならたとえ安くてもそんな高いバッグは買わなかっただろう。",
+    "row": {
+      "Grammar": "ても",
+      "Usage": "～ても～ただろう",
+      "JLPT Level": "N2",
+      "Reference Example": "①たとえ、努力しても合格できなかっただろう。",
+      "Original Example": "あの店の商品なら、たとえ安くてもそんな高いバッグは買わなかっただろう。",
+      "Prefix": "あの店の商品なら",
+      "Chunk1": "たとえ",
+      "Chunk2": "安くても",
+      "Chunk3": "そんな高いバッグは",
+      "Chunk4": "買わなかった",
+      "Suffix": "だろう。",
+      "Explanation": "\"たとえ\" thường mở đầu đi kèm với thể \"ても\" (安くても) ở Chunk 2 để giả định tình huống. Phía sau đi với thể quá khứ phủ định \"買わなかった\" kết hợp với \"だろう\" ở Suffix để thể hiện sự suy đoán về một sự việc trong quá khứ."
+    }
+  },
+  {
+    "file": "D:\\pj\\xx\\ai-gen-quiz\\mondai2_ordering\\csv_cleaned\\set_1_daily\\part_45.csv",
+    "type": "M2_CHUNK_MISMATCH",
+    "original": "大雨でも、私たちは予定通りバーベキューを楽しんだ。",
+    "reconstructed": "大雨でも私たちは予定通りバーベキューを楽しんだ。",
+    "row": {
+      "Grammar": "ても",
+      "Usage": "～ても～た",
+      "JLPT Level": "N4",
+      "Reference Example": "①雨でも運動会は行われた。",
+      "Original Example": "大雨でも、私たちは予定通りバーベキューを楽しんだ。",
+      "Prefix": "",
+      "Chunk1": "大雨でも",
+      "Chunk2": "私たちは",
+      "Chunk3": "予定通り",
+      "Chunk4": "バーベキューを",
+      "Suffix": "楽しんだ。",
+      "Explanation": "Danh từ \"大雨\" kết hợp trực tiếp với \"でも\" tạo trạng ngữ chỉ điều kiện nhượng bộ. Tiếp theo là chủ ngữ \"私たちは\", trạng từ \"予定通り\" bổ nghĩa cho hành động \"バーベキューを楽しんだ\" ở quá khứ."
+    }
+  },
+  {
+    "file": "D:\\pj\\xx\\ai-gen-quiz\\mondai2_ordering\\csv_cleaned\\set_1_daily\\part_45.csv",
+    "type": "M2_CHUNK_MISMATCH",
+    "original": "済んでしまったことを、今さら後悔してもどうなるものでもない。",
+    "reconstructed": "済んでしまったことを今さら後悔してもどうなるものでもない。",
+    "row": {
+      "Grammar": "ても",
+      "Usage": "V－てもとうなるものでもない",
+      "JLPT Level": "N2",
+      "Reference Example": "①いまから抗議してもどうなるものでもない。",
+      "Original Example": "済んでしまったことを、今さら後悔してもどうなるものでもない。",
+      "Prefix": "",
+      "Chunk1": "済んでしまったことを",
+      "Chunk2": "今さら",
+      "Chunk3": "後悔しても",
+      "Chunk4": "どうなるものでも",
+      "Suffix": "ない。",
+      "Explanation": "\"済んでしまったこと\" (chuyện đã qua) là tân ngữ của \"後悔しても\". \"今さら\" (đến bấy giờ) bổ nghĩa cho hành động hối hận. Cụm \"どうなるものでもない\" đi liền ở cuối để kết thúc câu hợp cú pháp."
+    }
+  },
+  {
+    "file": "D:\\pj\\xx\\ai-gen-quiz\\mondai2_ordering\\csv_cleaned\\set_1_daily\\part_45.csv",
+    "type": "M2_CHUNK_MISMATCH",
+    "original": "このTシャツを買いたいです。でも、値段が少し高いですね。",
+    "reconstructed": "このTシャツを買いたいです。でも値段が少し高いですね。",
+    "row": {
+      "Grammar": "でも1",
+      "Usage": "",
+      "JLPT Level": "N5",
+      "Reference Example": "①友達はプールヘ泳ぎに行った。でも、わたしはアルバイトで行けなかった。",
+      "Original Example": "このTシャツを買いたいです。でも、値段が少し高いですね。",
+      "Prefix": "このTシャツを買いたいです。",
+      "Chunk1": "でも",
+      "Chunk2": "値段が",
+      "Chunk3": "少し",
+      "Chunk4": "高い",
+      "Suffix": "ですね。",
+      "Explanation": "\"   avalanche -> でも\" đứng đầu câu thứ hai làm liên từ biểu thị quan hệ nghịch đối. Theo sau là chủ ngữ \"値段が\" và phó từ \"少し\" bổ nghĩa cho tính từ \"高い\"."
+    }
+  },
+  {
+    "file": "D:\\pj\\xx\\ai-gen-quiz\\mondai2_ordering\\csv_cleaned\\set_1_daily\\part_45.csv",
+    "type": "M2_CHUNK_MISMATCH",
+    "original": "彼は私の親友でもあり、良き相談相手でもある。",
+    "reconstructed": "彼は私の親友でもあり良き相談相手でもある。",
+    "row": {
+      "Grammar": "でも2",
+      "Usage": "でも→【ても】、【てもいい】4、【てもかまわない】、【てもよろしい】【でもあり、でもある】NでもありNでもある　NaでもありNaでもある　AくもありAくもある",
+      "JLPT Level": "N2",
+      "Reference Example": "①彼はこの会社の創始者でもあり、今の社長でもある。",
+      "Original Example": "彼は私の親友でもあり、良き相談相手でもある。",
+      "Prefix": "彼は",
+      "Chunk1": "私の",
+      "Chunk2": "親友でもあり",
+      "Chunk3": "良き相談",
+      "Chunk4": "相手でも",
+      "Suffix": "ある。",
+      "Explanation": "Mẫu song hành \"AでもありBでもある\" biểu thị tính chất kép của chủ ngữ. \"親友でもあり\" kết thúc vế một, vế hai là cụm danh từ \"良き相談相手\" đi với \"でもある\" được chia nhỏ thành Chunk và Suffix."
+    }
+  },
+  {
+    "file": "D:\\pj\\xx\\ai-gen-quiz\\mondai2_ordering\\csv_cleaned\\set_1_daily\\part_45.csv",
+    "type": "M2_CHUNK_MISMATCH",
+    "original": "砂糖の代わりに、ハチミツで甘みをつけてもいい。",
+    "reconstructed": "砂糖の代わりにハチミツで甘みをつけてもいい。",
+    "row": {
+      "Grammar": "てもいい",
+      "Usage": "V－てもいい＜可能性＞",
+      "JLPT Level": "N4",
+      "Reference Example": "①ワインのかわりに、しょうゆで味をつけてもいい。",
+      "Original Example": "砂糖の代わりに、ハチミツで甘みをつけてもいい。",
+      "Prefix": "",
+      "Chunk1": "砂糖の代わりに",
+      "Chunk2": "ハチミツで",
+      "Chunk3": "甘みを",
+      "Chunk4": "つけても",
+      "Suffix": "いい。",
+      "Explanation": "Mẫu chỉ khả năng hoặc phương án thay thế trong đời sống. Cụm \"～の代わりに\" đứng đầu, tiếp đến là thành phần phương thức \"ハチミツで\", tân ngữ \"甘みを\" và cụm động từ tương ứng \"つけてもいい\"."
+    }
+  },
+  {
+    "file": "D:\\pj\\xx\\ai-gen-quiz\\mondai2_ordering\\csv_cleaned\\set_1_daily\\part_45.csv",
+    "type": "M2_CHUNK_MISMATCH",
+    "original": "少し古くてもいいから、安い自転車が欲しい。",
+    "reconstructed": "少し古くてもいいから安い自転車が欲しい。",
+    "row": {
+      "Grammar": "てもいい",
+      "Usage": "でもいい　A－くてもいい",
+      "JLPT Level": "N4",
+      "Reference Example": "①印かんがなければ、サインでもいいですよ。",
+      "Original Example": "少し古くてもいいから、安い自転車が欲しい。",
+      "Prefix": "",
+      "Chunk1": "少し",
+      "Chunk2": "古くても",
+      "Chunk3": "いいから",
+      "Chunk4": "安い自転車が",
+      "Suffix": "欲しい。",
+      "Explanation": "Tính từ đuôi i \"古い\" chuyển sang dạng nhượng bộ \"古くても\" đi liền với \"いいから\" mang nghĩa \"vì... cũng được\". Vế sau biểu thị nguyện vọng sở hữu \"安い自転車が欲しい\"."
+    }
+  },
+  {
+    "file": "D:\\pj\\xx\\ai-gen-quiz\\mondai2_ordering\\csv_cleaned\\set_1_daily\\part_46.csv",
+    "type": "M2_CHUNK_MISMATCH",
+    "original": "言葉だけでなく、実際の行動 crumbs 気持ちを伝えよう。",
+    "reconstructed": "言葉だけでなく、実際の行動crumbs気持ちを伝えよう。",
+    "row": {
+      "Grammar": "でもって",
+      "Usage": "Nでもって",
+      "JLPT Level": "N1",
+      "Reference Example": "①行為でもって誠意を示しなさい。",
+      "Original Example": "言葉だけでなく、実際の行動 crumbs 気持ちを伝えよう。",
+      "Prefix": "言葉だけでなく、",
+      "Chunk1": "実際の",
+      "Chunk2": "行動",
+      "Chunk3": "crumbs",
+      "Chunk4": "気持ちを",
+      "Suffix": "伝えよう。",
+      "Explanation": "「実際の」 là định ngữ bổ nghĩa cho danh từ 「行動」. Danh từ 「行動」 đi kèm trợ từ văn viết 「 crumbs 」 mang ý nghĩa chỉ phương thức, phương tiện (bằng, bằng cách). Cụm phương tiện này bổ nghĩa trực tiếp cho hành động đằng sau là tân ngữ 「気持ちを」 đi với động từ thể ý chí 「伝えよう」."
+    }
+  },
+  {
+    "file": "D:\\pj\\xx\\ai-gen-quiz\\mondai2_ordering\\csv_cleaned\\set_1_daily\\part_46.csv",
+    "type": "M2_CHUNK_MISMATCH",
+    "original": "あのカレー屋は安くて美味しい。 crumbs 駅から歩いてすぐの場所にあるんだ。",
+    "reconstructed": "あのカレー屋は安くて美味しい。crumbs駅から歩いてすぐの場所にあるんだ。",
+    "row": {
+      "Grammar": "でもって",
+      "Usage": "でもって",
+      "JLPT Level": "N1",
+      "Reference Example": "①彼女は美人である。でもってスポーツ万能ときている。",
+      "Original Example": "あのカレー屋は安くて美味しい。 crumbs 駅から歩いてすぐの場所にあるんだ。",
+      "Prefix": "あのカレー屋は安くて美味しい。",
+      "Chunk1": "crumbs",
+      "Chunk2": "駅から",
+      "Chunk3": "歩いて",
+      "Chunk4": "すぐの場所に",
+      "Suffix": "あるんだ。",
+      "Explanation": "Câu đầu tiên đưa ra các tính chất tốt của quán ăn. Từ 「 crumbs 」 đóng vai trò làm liên từ nối ở đầu câu tiếp theo với nghĩa là 「hơn nữa / và rồi」 để bổ sung thông tin tích cực. 「駅から」 bổ nghĩa cho phương thức di chuyển 「歩いて」. Cụm trạng ngữ chỉ nơi chốn 「歩いてすぐの場所」 bổ nghĩa cho động từ tồn tại nhấn mạnh 「あるんだ」."
+    }
+  },
+  {
+    "file": "D:\\pj\\xx\\ai-gen-quiz\\mondai2_ordering\\csv_cleaned\\set_1_daily\\part_46.csv",
+    "type": "M2_CHUNK_MISMATCH",
+    "original": "妹は私の冗談に対して、怒る crumbs フッと笑った。",
+    "reconstructed": "妹は私の冗談に対して、怒るcrumbsなくフッと笑った。",
+    "row": {
+      "Grammar": "でもない",
+      "Usage": "Vでもない",
+      "JLPT Level": "N2",
+      "Reference Example": "①彼は反論するでもなく、ただぼんやりたばこをすっている。",
+      "Original Example": "妹は私の冗談に対して、怒る crumbs フッと笑った。",
+      "Prefix": "妹は私の冗談に対して、",
+      "Chunk1": "怒る",
+      "Chunk2": "crumbs",
+      "Chunk3": "なく",
+      "Chunk4": "フッと",
+      "Suffix": "笑った。",
+      "Explanation": "Mở đầu bằng chủ ngữ và đối tượng tiếp nhận hành động. Động từ nguyên mẫu 「怒る」 đi liền với cụm 「 crumbs 」 tạo thành cấu trúc ngữ pháp 「V crumbs 」 ở dạng nối câu phủ định biểu thị ý nghĩa 「không hẳn là nổi giận mà...」. Từ mô tả trạng thái 「フッと」 bổ nghĩa cho động từ kết câu 「笑った」."
+    }
+  },
+  {
+    "file": "D:\\pj\\xx\\ai-gen-quiz\\mondai2_ordering\\csv_cleaned\\set_1_daily\\part_46.csv",
+    "type": "M2_CHUNK_MISMATCH",
+    "original": "食べきれないなら、無理をせずに残してもよろしいですよ。",
+    "reconstructed": "食べきれないなら、無理をせずに残しててもよろしいですよ。",
+    "row": {
+      "Grammar": "てもよろしい",
+      "Usage": "V一てもよろしい＜許可＞",
+      "JLPT Level": "N3",
+      "Reference Example": "①A：君たち、きょうは、もう帰ってもよろしい。B：はい、社長。",
+      "Original Example": "食べきれないなら、無理をせずに残してもよろしいですよ。",
+      "Prefix": "食べきれないなら、",
+      "Chunk1": "無理をせずに",
+      "Chunk2": "残して",
+      "Chunk3": "ても",
+      "Chunk4": "よろしい",
+      "Suffix": "ですよ。",
+      "Explanation": "「食べきれないなら」 là mệnh đề điều kiện. Cụm trạng từ 「無理をせずに」 bổ nghĩa cho hành động 「残して」. Động từ 「残す」 chia thể て kết hợp cấu trúc 「～てもよろしい」 để tạo thành lời cho phép mang tính lịch sự từ bề trên nói với bề dưới. 「ですよ」 dùng để khẳng định và trấn an người nghe."
+    }
+  },
+  {
+    "file": "D:\\pj\\xx\\ai-gen-quiz\\mondai2_ordering\\csv_cleaned\\set_1_daily\\part_47.csv",
+    "type": "M2_CHUNK_MISMATCH",
+    "original": "母は、コーヒーを飲むと、元気になる。",
+    "reconstructed": "母は、コーヒーを飲むと、元気になるのです。",
+    "row": {
+      "Grammar": "と1",
+      "Usage": "時間たたくと、肩がこる。",
+      "JLPT Level": "N5",
+      "Reference Example": "①彼女は、ストレスがたまるとむやみに食べたくなるのだそうだ。",
+      "Original Example": "母は、コーヒーを飲むと、元気になる。",
+      "Prefix": "母は、",
+      "Chunk1": "コーヒーを",
+      "Chunk2": "飲むと、",
+      "Chunk3": "元気に",
+      "Chunk4": "なる",
+      "Suffix": "のです。",
+      "Explanation": "\"コーヒーを\" đóng vai trò tân ngữ cho cụm động từ thể điều kiện \"飲むと\" (hễ uống). Vế sau chỉ kết quả tự nhiên tất yếu xảy ra được biểu thị bằng cụm tính từ hóa động từ \"元気になる\"."
+    }
+  },
+  {
+    "file": "D:\\pj\\xx\\ai-gen-quiz\\mondai2_ordering\\csv_cleaned\\set_1_daily\\part_48.csv",
+    "type": "M2_CHUNK_MISMATCH",
+    "original": "「売り切れ」とは、商品が全部売れてしまったということです。",
+    "reconstructed": "売り切れとは、商品が全部売れてしまったということです。",
+    "row": {
+      "Grammar": "ということ",
+      "Usage": "～ということ<意味>",
+      "JLPT Level": "N3",
+      "Reference Example": "①｢灯台もと晴し｣とは､身近なことはかえって気がつかないということである。",
+      "Original Example": "「売り切れ」とは、商品が全部売れてしまったということです。",
+      "Prefix": "売り切れ",
+      "Chunk1": "とは、",
+      "Chunk2": "商品が",
+      "Chunk3": "全部売れて",
+      "Chunk4": "しまった",
+      "Suffix": "ということです。",
+      "Explanation": "Thuật ngữ đời sống 「売り切れ」 đi với 「とは」 dùng để mở đầu cho việc giải thích định nghĩa. Vế giải thích gồm chủ ngữ 「商品が」 và cụm động từ thể Te kết hợp 「全部売れてしまった」 chỉ trạng thái đã hoàn thành xong. Cấu trúc 「ということです」 đặt ở cuối câu để kết luận ý nghĩa định nghĩa."
+    }
+  },
+  {
+    "file": "D:\\pj\\xx\\ai-gen-quiz\\mondai2_ordering\\csv_cleaned\\set_1_daily\\part_48.csv",
+    "type": "M2_CHUNK_MISMATCH",
+    "original": "「駅前のカフェ」というと、あのいつも行列ができているお店のことですか。",
+    "reconstructed": "駅前のカフェというと、あのいつも行列ができているお店のことですか。",
+    "row": {
+      "Grammar": "というと",
+      "Usage": "というと～のことですか",
+      "JLPT Level": "N3",
+      "Reference Example": "①｢しめなわ｣というと､あの､お正月につける飾りのことですか。",
+      "Original Example": "「駅前のカフェ」というと、あのいつも行列ができているお店のことですか。",
+      "Prefix": "駅前のカフェ",
+      "Chunk1": "というと、",
+      "Chunk2": "あのいつも",
+      "Chunk3": "行列ができている",
+      "Chunk4": "お店の",
+      "Suffix": "ことですか。",
+      "Explanation": "Từ khóa thảo luận 「駅前のカフェ」 kết hợp với cấu trúc 「というと」 để nhắc lại chủ đề người đối thoại vừa đề cập. Cụm bổ nghĩa gồm từ chỉ định kèm trạng từ 「あのいつも」 và mệnh đề 「行列ができている」 bổ nghĩa danh từ 「お店」. Kết cấu 「のことですか」 đặt cuối dùng để hỏi xác nhận làm rõ bản chất."
+    }
+  },
+  {
+    "file": "D:\\pj\\xx\\ai-gen-quiz\\mondai2_ordering\\csv_cleaned\\set_1_daily\\part_48.csv",
+    "type": "M2_CHUNK_MISMATCH",
+    "original": "兄が「明日の旅行は中止だ」と言ったので、私は「というと」と聞き返しました。",
+    "reconstructed": "兄が「明日の旅行は中止だ」と言ったので、私はというとと聞き返しました。",
+    "row": {
+      "Grammar": "というと",
+      "Usage": "というと",
+      "JLPT Level": "N3",
+      "Reference Example": "①A：この企画は大筋はいいが､細かいところで少々無理があるね。B：というと。A：今から説明するよ。",
+      "Original Example": "兄が「明日の旅行は中止だ」と言ったので、私は「というと」と聞き返しました。",
+      "Prefix": "兄が「明日の旅行は中止だ」",
+      "Chunk1": "と言ったので、",
+      "Chunk2": "私は",
+      "Chunk3": "というと",
+      "Chunk4": "と聞き",
+      "Suffix": "返しました。",
+      "Explanation": "Mệnh đề nguyên nhân lý do 「兄が...と言ったので」 làm tiền đề. 「私は」 là chủ ngữ thực hiện hành động đáp lại. Cụm từ hỏi làm rõ thông tin 「「というと」」 đóng vai trò làm nội dung lời thoại đi kèm trợ từ 「と」 liên kết chặt chẽ với động từ phức dạng kết hợp 「聞き返しました」."
+    }
+  },
+  {
+    "file": "D:\\pj\\xx\\ai-gen-quiz\\mondai2_ordering\\csv_cleaned\\set_1_daily\\part_48.csv",
+    "type": "M2_CHUNK_MISMATCH",
+    "original": "母が「好きにしなさい」というのは、本当は怒っているということだ。",
+    "reconstructed": "母が好きにしなさいというのは、本当は怒っているということだ。",
+    "row": {
+      "Grammar": "というのは",
+      "Usage": "～というのは～ということだ",
+      "JLPT Level": "N3",
+      "Reference Example": "①レイさんが「少し遅くなる」というのは、一時間は遅れるということだ。",
+      "Original Example": "母が「好きにしなさい」というのは、本当は怒っているということだ。",
+      "Prefix": "母が",
+      "Chunk1": "好きにしなさい",
+      "Chunk2": "というのは、",
+      "Chunk3": "本当は怒っている",
+      "Chunk4": "という",
+      "Suffix": "ことだ。",
+      "Explanation": "Chủ ngữ 「母が」 đưa ra lời thoại cụ thể 「「好きにしなさい」」. Cấu trúc 「というのは」 đóng vai trò định nghĩa hoặc giải nghĩa bản chất cho cụm từ đứng trước. Vế sau diễn tả ý nghĩa thực sự 「本当は怒っている」 kết hợp với kết cấu khẳng định kết luận ý nghĩa 「ということだ」 ở cuối câu."
+    }
+  },
+  {
+    "file": "D:\\pj\\xx\\ai-gen-quiz\\mondai2_ordering\\csv_cleaned\\set_1_daily\\part_48.csv",
+    "type": "M2_CHUNK_MISMATCH",
+    "original": "「デパ地下」というのはデパートの地下にある食品売り場のことです。",
+    "reconstructed": "デパ地下というのはデパートの地下にある食品売り場のことです。",
+    "row": {
+      "Grammar": "というのは",
+      "Usage": "～というのまNのことだ",
+      "JLPT Level": "N3",
+      "Reference Example": "①パソコンというのはパーソナルコンピューターのことだ。",
+      "Original Example": "「デパ地下」というのはデパートの地下にある食品売り場のことです。",
+      "Prefix": "デパ地下",
+      "Chunk1": "というのは",
+      "Chunk2": "デパートの地下に",
+      "Chunk3": "ある食品売り場の",
+      "Chunk4": "こと",
+      "Suffix": "です。",
+      "Explanation": "Từ khóa hội thoại cần định nghĩa 「「デパ地下」」 đứng đầu đi kèm mẫu 「というのは」. Cụm từ giải thích lý giải gồm từ chỉ vị trí 「デパートの地下に」 bổ nghĩa cho động từ tồn tại 「ある」, cụm này tiếp tục bổ nghĩa cho danh từ 「食品売り場」. Thành phần 「の」 kết nối danh từ giải thích với 「こと」 và kết thúc bằng 「です」."
+    }
+  },
+  {
+    "file": "D:\\pj\\xx\\ai-gen-quiz\\mondai2_ordering\\csv_cleaned\\set_1_daily\\part_49.csv",
+    "type": "M2_CHUNK_MISMATCH",
+    "original": "これだけ一生懸命働いても貯金が全然増えないのは、悲しくなるというものだ。",
+    "reconstructed": "これだけ一生懸命働いても貯金が全然増えないのは悲しくなるというものだ。",
+    "row": {
+      "Grammar": "というものだ",
+      "Usage": "V－るというものだ",
+      "JLPT Level": "N3",
+      "Reference Example": "①この研究は、生産量を10年のうちに2倍にするというものだ。",
+      "Original Example": "これだけ一生懸命働いても貯金が全然増えないのは、悲しくなるというものだ。",
+      "Prefix": "これだけ一生懸命働いても",
+      "Chunk1": "貯金が",
+      "Chunk2": "全然",
+      "Chunk3": "増えないのは",
+      "Chunk4": "悲しくなる",
+      "Suffix": "というものだ。",
+      "Explanation": "Chủ ngữ là 「貯金が」 kết hợp với phó từ phủ định 「全然」 tạo thành cụm 「貯金が全然」. Tiếp theo là động từ thể phủ định 「増えないのは」 đóng vai trò làm vế giả định/tình huống. Cụm từ biểu thị cảm xúc 「悲しくなる」 đi liền sau để làm rõ tâm trạng. Cuối cùng, mẫu ngữ pháp 「というものだ」 (quả thật là/vốn dĩ là) đứng cuối câu để khẳng định một cách tự nhiên về bản chất của tình huống đó."
+    }
+  },
+  {
+    "file": "D:\\pj\\xx\\ai-gen-quiz\\mondai2_ordering\\csv_cleaned\\set_1_daily\\part_49.csv",
+    "type": "M2_CHUNK_MISMATCH",
+    "original": "今日は涼しいというより、むしろ少し肌寒いくらいだ。",
+    "reconstructed": "今日は涼しいというよりむしろ少し肌寒いくらいだ。",
+    "row": {
+      "Grammar": "というより",
+      "Usage": "",
+      "JLPT Level": "N3",
+      "Reference Example": "①野村さんは、学校の先生というより、銀行員のようだ。",
+      "Original Example": "今日は涼しいというより、むしろ少し肌寒いくらいだ。",
+      "Prefix": "今日は",
+      "Chunk1": "涼しい",
+      "Chunk2": "というより",
+      "Chunk3": "むしろ少し",
+      "Chunk4": "肌寒い",
+      "Suffix": "くらいだ。",
+      "Explanation": "Cấu trúc so sánh lựa chọn cách gọi tên phù hợp: Tính từ 「涼しい」 đi trước mẫu ngữ pháp 「というより」 (thay vì nói là...). Vế sau đi kèm phó từ nhấn mạnh 「むしろ少し」 (trái lại có chút) bổ nghĩa cho tính từ 「肌寒い」 (se lạnh). Cuối cùng kết thúc bằng cụm biểu thị mức độ 「くらいだ」."
+    }
+  },
+  {
+    "file": "D:\\pj\\xx\\ai-gen-quiz\\mondai2_ordering\\csv_cleaned\\set_1_daily\\part_49.csv",
+    "type": "M2_CHUNK_MISMATCH",
+    "original": "いくら親しい友人といえど、最低限の礼儀はわきまえるべきだ。",
+    "reconstructed": "いくら親しい友人といえど最低限の礼儀はわきまえるべきだ。",
+    "row": {
+      "Grammar": "といえど",
+      "Usage": "～といえど",
+      "JLPT Level": "N1",
+      "Reference Example": "①この寺院では、一国の王といえど、靴をはいたまま入ることは許されない。",
+      "Original Example": "いくら親しい友人といえど、最低限の礼儀はわきまえるべきだ。",
+      "Prefix": "いくら",
+      "Chunk1": "親しい",
+      "Chunk2": "友人",
+      "Chunk3": "といえど",
+      "Chunk4": "最低限の礼儀は",
+      "Suffix": "わきまえるべきだ。",
+      "Explanation": "Phó từ 「いくら」 (dù bao nhiêu) đi kèm với tính từ bổ nghĩa cho danh từ 「親しい友人」 (bạn thân). Cụm danh từ này kết hợp trực tiếp với cấu trúc nhượng bộ mang tính văn viết 「といえど」 (cho dù là...). Tiếp theo, danh từ chỉ tân ngữ 「最低限の礼儀は」 đứng trước động từ thể nghĩa vụ 「わきまえるべきだ」 (cần phải biết/nhận thức rõ)."
+    }
+  },
+  {
+    "file": "D:\\pj\\xx\\ai-gen-quiz\\mondai2_ordering\\csv_cleaned\\set_1_daily\\part_49.csv",
+    "type": "M2_CHUNK_MISMATCH",
+    "original": "自分の子供といえども、プライバシーを尊重しなければならない。",
+    "reconstructed": "自分の子供といえどもプライバシーを尊重しなければならない。",
+    "row": {
+      "Grammar": "といえど",
+      "Usage": "～といえども",
+      "JLPT Level": "N1",
+      "Reference Example": "①冬山は、ベテランの登山家といえども、遭難する危険がある。",
+      "Original Example": "自分の子供といえども、プライバシーを尊重しなければならない。",
+      "Prefix": "自分の",
+      "Chunk1": "子供",
+      "Chunk2": "といえども",
+      "Chunk3": "プライバシーを",
+      "Chunk4": "尊重しなければ",
+      "Suffix": "ならない。",
+      "Explanation": "Cụm sở hữu 「自分の」 bổ nghĩa cho danh từ 「子供」. Cấu trúc nhượng bộ mạnh mẽ 「といえども」 (dù là... đi chăng nữa) đi ngay sau danh từ. Tiếp theo, tân ngữ 「プライバシーを」 (sự riêng tư) đi liền trước động từ hành động 「尊重しなければ」, và kết thúc bằng vế bắt buộc 「ならない」 tạo thành mẫu 『～なければならない』."
+    }
+  },
+  {
+    "file": "D:\\pj\\xx\\ai-gen-quiz\\mondai2_ordering\\csv_cleaned\\set_1_daily\\part_49.csv",
+    "type": "M2_CHUNK_MISMATCH",
+    "original": "日本の食べ物といえば、やっぱりお寿司を一番に思い浮かべます。",
+    "reconstructed": "日本の食べ物といえばやっぱりお寿司を一番に思い浮かべます。",
+    "row": {
+      "Grammar": "といえば",
+      "Usage": "Nといえば",
+      "JLPT Level": "N3",
+      "Reference Example": "①川口さんといえば、どこへ行ったのか、姿が見えませんね。",
+      "Original Example": "日本の食べ物といえば、やっぱりお寿司を一番に思い浮かべます。",
+      "Prefix": "日本の",
+      "Chunk1": "食べ物",
+      "Chunk2": "といえば",
+      "Chunk3": "やっぱりお寿司を",
+      "Chunk4": "一番に",
+      "Suffix": "思い浮かべます。",
+      "Explanation": "Cụm danh từ chủ đề được giới hạn bằng 「日本の食べ物」, đi liền với cấu trúc đưa ra đề tài câu chuyện 「といえば」 (nói về...). Vế sau bắt đầu bằng phó từ chỉ tâm lý thông thường 「やっぱり」 kết hợp tân ngữ 「お寿司を」. Phó từ chỉ thứ tự ưu tiên 「一番に」 bổ nghĩa cho động từ kết thúc câu 「思い浮かべます」 (nghĩ ngay đến)."
+    }
+  },
+  {
+    "file": "D:\\pj\\xx\\ai-gen-quiz\\mondai2_ordering\\csv_cleaned\\set_1_daily\\part_49.csv",
+    "type": "M2_CHUNK_MISMATCH",
+    "original": "彼の料理は美味しいといえば美味しいが、ちょっと味が濃すぎる。",
+    "reconstructed": "彼の料理は美味しいといえば美味しいがちょっと味が濃すぎる。",
+    "row": {
+      "Grammar": "といえば",
+      "Usage": "～といえば～が",
+      "JLPT Level": "N2",
+      "Reference Example": "①おっとりしているといえば、聞こえがいいが、彼女は何をするのも遅い。",
+      "Original Example": "彼の料理は美味しいといえば美味しいが、ちょっと味が濃すぎる。",
+      "Prefix": "彼の料理は",
+      "Chunk1": "美味しいといえば",
+      "Chunk2": "美味しいが",
+      "Chunk3": "ちょっと",
+      "Chunk4": "味が濃",
+      "Suffix": "すぎる。",
+      "Explanation": "Mẫu ngữ pháp thừa nhận một phần 『AといえばAが』 (nói là A thì đúng là A thật nhưng...) được cấu tạo từ tính từ 「美味しい」 tạo thành 2 khúc liên tiếp 「美味しいといえば」 và 「美味しいが」. Tiếp theo, phó từ mức độ nhẹ 「ちょっと」 bổ nghĩa cho cụm tính từ chỉ trạng thái 「味が濃」, kết hợp với hậu tố chỉ mức độ quá đà 「すぎる」 ở phần đuôi câu."
+    }
+  },
+  {
+    "file": "D:\\pj\\xx\\ai-gen-quiz\\mondai2_ordering\\csv_cleaned\\set_1_daily\\part_49.csv",
+    "type": "M2_CHUNK_MISMATCH",
+    "original": "毎日スーパーのお惣菜ばかり食べるのは、体に悪いといえば悪いかもしれない。",
+    "reconstructed": "毎日スーパーのお惣菜ばかり食べるのは体に悪いといえば悪いかもれない。",
+    "row": {
+      "Grammar": "といえば",
+      "Usage": "～といえば～かもしれない",
+      "JLPT Level": "N2",
+      "Reference Example": "①彼らはビートルズの再来だといえば、ほめすぎかもしれない。",
+      "Original Example": "毎日スーパーのお惣菜ばかり食べるのは、体に悪いといえば悪いかもしれない。",
+      "Prefix": "毎日スーパーの",
+      "Chunk1": "お惣菜ばかり",
+      "Chunk2": "食べるのは",
+      "Chunk3": "体に悪いといえば",
+      "Chunk4": "悪いかも",
+      "Suffix": "れない。",
+      "Explanation": "Cụm từ chỉ hành vi thói quen: bổ ngữ 「毎日スーパーの」 đi với danh từ và trợ từ giới hạn 「お惣菜ばかり」 (toàn là thức ăn chín), theo sau là danh từ hóa hành động 「食べるのは」. Tiếp theo là cấu trúc 『AといえばAかもしれない』 (nói là A thì có lẽ là A thật) áp dụng cho tính từ 「体に悪い」, tạo thành vế trích dẫn 「体に悪いといえば」 và phần phán đoán suy đoán 「悪いかも」 kết hợp với đuôi câu 「れない」."
+    }
+  },
+  {
+    "file": "D:\\pj\\xx\\ai-gen-quiz\\mondai2_ordering\\csv_cleaned\\set_1_daily\\part_49.csv",
+    "type": "M2_CHUNK_MISMATCH",
+    "original": "私の休日の楽しみといえば、家で映画を見るくらいのことだ。",
+    "reconstructed": "私の休日の楽しみといえば家で映画を見るくらいのことだ。",
+    "row": {
+      "Grammar": "といえば",
+      "Usage": "～といえば～ぐらいのことだ",
+      "JLPT Level": "N2",
+      "Reference Example": "①わたしの得意なことといえば、ビールの早飲みぐらいのことだ。",
+      "Original Example": "私の休日の楽しみといえば、家で映画を見るくらいのことだ。",
+      "Prefix": "私の",
+      "Chunk1": "休日の",
+      "Chunk2": "楽しみといえば",
+      "Chunk3": "家で映画を",
+      "Chunk4": "見るくらい",
+      "Suffix": "のことだ。",
+      "Explanation": "Cụm danh từ sở hữu 「私の休日の」 bổ nghĩa cho 「楽しみ」, kết hợp mẫu ngữ pháp đưa ra chủ đề hạn định 「楽しみといえば」 (nói về niềm vui... thì chỉ có). Vế sau diễn tả nội dung hành động 「家で映画を」 đi với động từ thể từ điển và trợ từ biểu thị mức độ tối thiểu 「見るくらい」, kết hợp cấu trúc kết thúc câu 「のことだ」 để nhấn mạnh sự giới hạn."
+    }
+  },
+  {
+    "file": "D:\\pj\\xx\\ai-gen-quiz\\mondai2_ordering\\csv_cleaned\\set_1_daily\\part_49.csv",
+    "type": "M2_CHUNK_MISMATCH",
+    "original": "午後から雨が降るといけないので、折りたたみ傘を持っていきなさい。",
+    "reconstructed": "午後から雨が降るといけないので折りたたみ傘を持っていきなさい。",
+    "row": {
+      "Grammar": "といけない",
+      "Usage": "V－るといけない　から／ので",
+      "JLPT Level": "N4",
+      "Reference Example": "①盗まれるといけないので、さいふは金庫にしまっておこう。",
+      "Original Example": "午後から雨が降るといけないので、折りたたみ傘を持っていきなさい。",
+      "Prefix": "午後から",
+      "Chunk1": "雨が",
+      "Chunk2": "降ると",
+      "Chunk3": "いけないので",
+      "Chunk4": "折りたたみ傘を",
+      "Suffix": "持っていきなさい。",
+      "Explanation": "Trạng từ chỉ thời gian 「午後から」 đi trước chủ ngữ 「雨が」 và động từ 「降る」. Mẫu ngữ pháp chỉ phòng ngừa rủi ro 『V-るといけない』 (lo ngại chuyện gì xảy ra) được tách thành động từ kèm trợ từ điều kiện 「降ると」 và phần tiếp theo 「いけないので」 (vì không được/lo rằng). Vế sau là tân ngữ 「折りたたみ傘を」 đi liền với động từ ra lệnh nhẹ nhàng ở đuôi câu 「持っていきなさい」."
+    }
+  },
+  {
+    "file": "D:\\pj\\xx\\ai-gen-quiz\\mondai2_ordering\\csv_cleaned\\set_1_daily\\part_51.csv",
+    "type": "M2_CHUNK_MISMATCH",
+    "original": "大学時代の共通 của 友人を通して、今の妻と知り合いました。",
+    "reconstructed": "大学時代の共通の友人を通して、今の妻と知り合いました。",
+    "row": {
+      "Grammar": "とおして",
+      "Usage": "Nをとおして＜仲立ち＞",
+      "JLPT Level": "N3",
+      "Reference Example": "①私たちは友人を通して知り合いになった。",
+      "Original Example": "大学時代の共通 của 友人を通して、今の妻と知り合いました。",
+      "Prefix": "大学時代の",
+      "Chunk1": "共通の",
+      "Chunk2": "友人を",
+      "Chunk3": "通して、",
+      "Chunk4": "今の妻と",
+      "Suffix": "知り合いました。",
+      "Explanation": "Prefix '大学時代の' (thời đại học) bổ nghĩa cho '共通の友人' (người bạn chung). Danh từ này đi với trợ từ và động từ tạo thành cấu trúc '友人を通して' (thông qua người bạn). Cuối cùng là đối tượng '今の妻と' (với người vợ hiện tại) đi liền với Suffix '知り合いました' (đã quen biết)."
+    }
+  },
+  {
+    "file": "D:\\pj\\xx\\ai-gen-quiz\\mondai2_ordering\\csv_cleaned\\set_1_daily\\part_53.csv",
+    "type": "M2_CHUNK_MISMATCH",
+    "original": "最近買った私のスマホときたら、すぐに充電が切れるので本当に困る。",
+    "reconstructed": "最近買った私のスマホとたら、すぐに充電が切れるので本当に困る。",
+    "row": {
+      "Grammar": "ときたら",
+      "Usage": "Nときたら",
+      "JLPT Level": "N2",
+      "Reference Example": "①うちの亭主ときたら、週のうち3日は午前様で、日曜になるとごろごろ寝てばかりいる。",
+      "Original Example": "最近買った私のスマホときたら、すぐに充電が切れるので本当に困る。",
+      "Prefix": "最近買った",
+      "Chunk1": "私の",
+      "Chunk2": "スマホと",
+      "Chunk3": "たら、すぐに",
+      "Chunk4": "充電が切れるので",
+      "Suffix": "本当に困る。",
+      "Explanation": "Định ngữ 「最近買った」 bổ nghĩa cho cụm danh từ chủ ngữ 「私のスマホ」. Cấu trúc 「Nときたら」 đứng sau danh từ nhằm đưa đối tượng ra làm chủ đề với thái độ bất mãn, bực bội. Cụm 「すぐに充電が切れるので」 đóng vai trò nêu nguyên nhân cho kết luận 「本当に困る」."
+    }
+  },
+  {
+    "file": "D:\\pj\\xx\\ai-gen-quiz\\mondai2_ordering\\csv_cleaned\\set_1_daily\\part_56.csv",
+    "type": "M2_CHUNK_MISMATCH",
+    "original": "シェアハウス của...",
+    "reconstructed": "シェアハウスのゴミ当番は毎週日曜日に交代するものとする。",
+    "row": {
+      "Grammar": "とする2",
+      "Usage": "～ものとする",
+      "JLPT Level": "N2",
+      "Reference Example": "①意見を言わない者は賛成しているものとする。",
+      "Original Example": "シェアハウス của...",
+      "Prefix": "シェアハウスの",
+      "Chunk1": "ゴミ当番は",
+      "Chunk2": "毎週日曜日に",
+      "Chunk3": "交代する",
+      "Chunk4": "ものとする。",
+      "Suffix": "",
+      "Explanation": "Bắt đầu bằng cụm danh từ làm chủ ngữ 'シェアハウスのゴミ当番は' (nhiệm vụ đổ rác của nhà chung). Tiếp theo là trạng từ chỉ thời gian định kỳ '毎週日曜日に' (vào mỗi Chủ Nhật). Sau đó là động từ hành động '交代する' (thay phiên) kết hợp trực tiếp với cấu trúc mang tính quy định, thỏa ước chung giữa các thành viên cùng sinh sống là 'ものとする' để kết thúc câu."
+    }
+  },
+  {
+    "file": "D:\\pj\\xx\\ai-gen-quiz\\mondai2_ordering\\csv_cleaned\\set_1_daily\\part_56.csv",
+    "type": "M2_CHUNK_MISMATCH",
+    "original": "この料理は母のレシピを参考として作りました。",
+    "reconstructed": "この料理は母のレシピを参考として心を込めて作りました。",
+    "row": {
+      "Grammar": "とする2",
+      "Usage": "NをNとする",
+      "JLPT Level": "N2",
+      "Reference Example": "①私は恩師の生き方を手本としている。",
+      "Original Example": "この料理は母のレシピを参考として作りました。",
+      "Prefix": "この料理は",
+      "Chunk1": "母のレシピを",
+      "Chunk2": "参考として",
+      "Chunk3": "心を込めて",
+      "Chunk4": "作りました。",
+      "Suffix": "",
+      "Explanation": "Đưa đề tài lên đầu câu: 'この料理は' (món ăn này). Áp dụng cấu trúc 'N1をN2とする' với tân ngữ '母のレシピを' (công thức của mẹ) và danh từ đóng vai trò trạng ngữ '参考として' (làm tham khảo). Tiếp theo thêm cụm trạng từ chỉ cách thức và tình cảm '心を込めて' (với tất cả tấm lòng) và kết thúc bằng động từ hành động ở dạng lịch sự '作りました' (đã làm)."
+    }
+  },
+  {
+    "file": "D:\\pj\\xx\\ai-gen-quiz\\mondai2_ordering\\csv_cleaned\\set_1_daily\\part_56.csv",
+    "type": "M2_CHUNK_MISMATCH",
+    "original": "部屋の電気が消えているとすると、姉はもう寝たのだろう。",
+    "reconstructed": "部屋の電気が消えているとすると、姉 là...寝たのだろう。",
+    "row": {
+      "Grammar": "とすると",
+      "Usage": "だとすると　A／V　とすると",
+      "JLPT Level": "N3",
+      "Reference Example": "①1時間待ってまだ何の連絡もないとすると、途中で事故にでもあったのかもしれない。",
+      "Original Example": "部屋の電気が消えているとすると、姉はもう寝たのだろう。",
+      "Prefix": "部屋の",
+      "Chunk1": "電気が消えている",
+      "Chunk2": "とすると、",
+      "Chunk3": "姉 là...",
+      "Chunk4": "寝たのだろう。",
+      "Suffix": "",
+      "Explanation": "Bắt đầu bằng định ngữ chỉ vị trí '部屋の' (của căn phòng) bổ nghĩa cho chủ ngữ '電気が消えている' (đèn đang tắt). Tiếp theo đi với cấu trúc suy luận 'とすると' (nếu dựa vào thực tế đó mà tính thì...) để tạo vế giả định. Vế sau đưa ra phán đoán về người thân trong gia đình '姉はもう' (chị gái chắc đã) và kết thúc bằng cấu trúc phán đoán '寝たのだろう' (chắc là đã ngủ rồi)."
+    }
+  },
+  {
+    "file": "D:\\pj\\xx\\ai-gen-quiz\\mondai2_ordering\\csv_cleaned\\set_1_daily\\part_57.csv",
+    "type": "M2_CHUNK_MISMATCH",
+    "original": "I私はどちらかというと休日は家でアニメを見るのが好きだ。",
+    "reconstructed": "私はどちらかというと休日は家でアニメを見るのが好きだ。",
+    "row": {
+      "Grammar": "どちらかというと",
+      "Usage": "",
+      "JLPT Level": "N3",
+      "Reference Example": "①私はどちらかというと、人前で発言するのが苦手である。",
+      "Original Example": "I私はどちらかというと休日は家でアニメを見るのが好きだ。",
+      "Prefix": "私は",
+      "Chunk1": "どちらかというと",
+      "Chunk2": "休日は",
+      "Chunk3": "家で",
+      "Chunk4": "アニメを見るのが",
+      "Suffix": "好きだ。",
+      "Explanation": "\"どちらかというと\" là trạng từ đứng đầu bổ nghĩa cho cả câu để đưa ra xu hướng lựa chọn. \"休日は\" làm chủ đề thời gian. \"家で\" chỉ nơi chốn của hành động. \"アニメを見るのが\" danh từ hóa cụm động từ để làm tân ngữ bổ nghĩa cho tính từ \"好きだ\"."
+    }
+  },
+  {
+    "file": "D:\\pj\\xx\\ai-gen-quiz\\mondai2_ordering\\csv_cleaned\\set_1_daily\\part_57.csv",
+    "type": "M2_CHUNK_MISMATCH",
+    "original": "彼はゲームのこととなったら寝る時間も惜しんで熱中してしまう。",
+    "reconstructed": "彼はゲームのこととbackgroundとなったら寝る時間も",
+    "row": {
+      "Grammar": "となったら",
+      "Usage": "N（のこと）となったら",
+      "JLPT Level": "N2",
+      "Reference Example": "①日本料理となったらここの坂前の右に出る者はいないそうだ。",
+      "Original Example": "彼はゲームのこととなったら寝る時間も惜しんで熱中してしまう。",
+      "Prefix": "彼は",
+      "Chunk1": "ゲームの",
+      "Chunk2": "ことと",
+      "Chunk3": "background",
+      "Chunk4": "となったら",
+      "Suffix": "寝る時間も",
+      "Explanation": "惜しんで熱中してしまう。"
+    }
+  },
+  {
+    "file": "D:\\pj\\xx\\ai-gen-quiz\\mondai2_ordering\\csv_cleaned\\set_1_daily\\part_58.csv",
+    "type": "M2_CHUNK_MISMATCH",
+    "original": "普段は物欲のない妹だが、",
+    "reconstructed": "新しいバッグのこととなると、急にこだわりが強くなる。Cấu trúc 「Nのこととなると」 có nghĩa là 'khi nói đến chuyện về N'. Tính từ '新しい' bổ nghĩa cho danh từ 'バッグ'. Cụm 'バッグのこと' đi với 'となると' tạo thành vế điều kiện thúc đẩy một phản ứng đặc biệt ở vế sau.",
+    "row": {
+      "Grammar": "となると",
+      "Usage": "N（のこと）となると",
+      "JLPT Level": "N2",
+      "Reference Example": "①芸能人のスキャンダルとなると、マスコミは夢中になって追跡する。",
+      "Original Example": "普段は物欲のない妹だが、",
+      "Prefix": "新しい",
+      "Chunk1": "バッグの",
+      "Chunk2": "ことと",
+      "Chunk3": "なると、",
+      "Chunk4": "急にこだわりが強くなる。",
+      "Suffix": "Cấu trúc 「Nのこととなると」 có nghĩa là 'khi nói đến chuyện về N'. Tính từ '新しい' bổ nghĩa cho danh từ 'バッグ'. Cụm 'バッグのこと' đi với 'となると' tạo thành vế điều kiện thúc đẩy một phản ứng đặc biệt ở vế sau.",
+      "Explanation": ""
+    }
+  },
+  {
+    "file": "D:\\pj\\xx\\ai-gen-quiz\\mondai2_ordering\\csv_cleaned\\set_1_daily\\part_58.csv",
+    "type": "M2_CHUNK_MISMATCH",
+    "original": "彼女と友達として仲良くできるが、付き合えるかとなれば、それはまた別の話だ。",
+    "reconstructed": "彼女と友達として仲良くできるが、付き合えるかかとなれば、それはまた別の話だ。",
+    "row": {
+      "Grammar": "となれば",
+      "Usage": "～かとなれば",
+      "JLPT Level": "N1",
+      "Reference Example": "①どうすれば解決できるかとなれば、答えは簡単には出てこないものだ。",
+      "Original Example": "彼女と友達として仲良くできるが、付き合えるかとなれば、それはまた別の話だ。",
+      "Prefix": "彼女と友達として仲良くできるが、",
+      "Chunk1": "付き合える",
+      "Chunk2": "かかと",
+      "Chunk3": "なれば、",
+      "Chunk4": "それは",
+      "Suffix": "また別の話だ。",
+      "Explanation": "Cấu trúc 「～かとなれば」 biểu thị việc giả định đưa ra một câu hỏi lựa chọn. Động từ khả năng '付き合える' đi với trợ từ nghi vấn 'か', kết hợp với 'となれば' tạo thành vế điều kiện, nối tiếp với đại từ 'それは' làm chủ ngữ cho nhận định ở sau."
+    }
+  },
+  {
+    "file": "D:\\pj\\xx\\ai-gen-quiz\\mondai2_ordering\\csv_cleaned\\set_1_daily\\part_6.csv",
+    "type": "M2_CHUNK_MISMATCH",
+    "original": "自分で料理を作ると決めた以上は、最後まで残さず食べるつもりだ。",
+    "reconstructed": "\"自分で料理を作ると決めた以上は、最後まで残さず食べるつもりだ。",
+    "row": {
+      "Grammar": "いじょう",
+      "Usage": "Vいじょう（は）",
+      "JLPT Level": "N3",
+      "Reference Example": "①絶対にできると言ってしまった以上、どんな失敗も許されない。",
+      "Original Example": "自分で料理を作ると決めた以上は、最後まで残さず食べるつもりだ。",
+      "Prefix": "\"",
+      "Chunk1": "自分で",
+      "Chunk2": "料理を作ると",
+      "Chunk3": "決めた",
+      "Chunk4": "以上は、",
+      "Suffix": "最後まで残さず食べるつもりだ。",
+      "Explanation": "「決めた（動詞過去形）」に「以上は」が接続して「〜からには」という強い決意の理由を示します。「自分で料理を作ると」という目的節が「決めた」にかかっています。"
+    }
+  },
+  {
+    "file": "D:\\pj\\xx\\ai-gen-quiz\\mondai2_ordering\\csv_cleaned\\set_1_daily\\part_6.csv",
+    "type": "M2_CHUNK_MISMATCH",
+    "original": "兄が怒っている理由は分からないが、いずれにせよ私が先に謝ったほうがよさそうだ。",
+    "reconstructed": "\"兄が怒っている理由は分からないが、いずれにせよ私が先に謝ったほうがよさそうだ。",
+    "row": {
+      "Grammar": "いずれ1",
+      "Usage": "いずれにせよ",
+      "JLPT Level": "N2",
+      "Reference Example": "①今日はこの問題にはもう触れませんが、いずれにせよ今後も考えていかなければならないとは思っています。",
+      "Original Example": "兄が怒っている理由は分からないが、いずれにせよ私が先に謝ったほうがよさそうだ。",
+      "Prefix": "\"",
+      "Chunk1": "兄が怒っている",
+      "Chunk2": "理由は分からないが、",
+      "Chunk3": "いずれにせよ",
+      "Chunk4": "私が先に謝った",
+      "Suffix": "ほうがよさそうだ。",
+      "Explanation": "理由が不明であるという前提に対して、「いずれにせよ（どうであっても）」を使って話を展開し、最終的な判断（私が先に謝ったほうがよさそうだ）を導きます。"
+    }
+  },
+  {
+    "file": "D:\\pj\\xx\\ai-gen-quiz\\mondai2_ordering\\csv_cleaned\\set_1_daily\\part_6.csv",
+    "type": "M2_CHUNK_MISMATCH",
+    "original": "母が作った料理は、いずれも美味しくて家族みんなで完食した。",
+    "reconstructed": "\"母が作った料理は、いずれも美味しくて家族みんなで完食した。",
+    "row": {
+      "Grammar": "いずれ1",
+      "Usage": "いずれも",
+      "JLPT Level": "N2",
+      "Reference Example": "①ここにございます宝石類は、いずれも最高級品でございます。",
+      "Original Example": "母が作った料理は、いずれも美味しくて家族みんなで完食した。",
+      "Prefix": "\"",
+      "Chunk1": "母が作った",
+      "Chunk2": "料理は、",
+      "Chunk3": "いずれも美味しくて",
+      "Chunk4": "家族みんなで",
+      "Suffix": "完食した。",
+      "Explanation": "「母が作った」が「料理」を修飾し、その複数の料理を「いずれも（どれも皆）」で受けます。その後に状態（美味しくて）と行動（完食した）を並べます。"
+    }
+  },
+  {
+    "file": "D:\\pj\\xx\\ai-gen-quiz\\mondai2_ordering\\csv_cleaned\\set_1_daily\\part_6.csv",
+    "type": "M2_CHUNK_MISMATCH",
+    "original": "以前この近くのカフェに友達と来たことがあるのを思い出した。",
+    "reconstructed": "\"以前この近くのカフェに友達と来たことがあるのを思い出した。",
+    "row": {
+      "Grammar": "いぜん2",
+      "Usage": "いぜん",
+      "JLPT Level": "N3",
+      "Reference Example": "①以前一度このホテルに泊まったことがある。",
+      "Original Example": "以前この近くのカフェに友達と来たことがあるのを思い出した。",
+      "Prefix": "\"",
+      "Chunk1": "以前この近くの",
+      "Chunk2": "カフェに",
+      "Chunk3": "友達と来たことが",
+      "Chunk4": "あるのを",
+      "Suffix": "思い出した。",
+      "Explanation": "過去のある時点を表す副詞「以前」が文頭に来て、過去の経験「来たことがある」を修飾します。その経験全体を「の」で名詞化して目的語とし、「思い出した」につなげます。"
+    }
+  },
+  {
+    "file": "D:\\pj\\xx\\ai-gen-quiz\\mondai2_ordering\\csv_cleaned\\set_1_daily\\part_6.csv",
+    "type": "M2_CHUNK_MISMATCH",
+    "original": "料理を始める以前に、まずはキッチンを綺麗に片付ける必要がある。",
+    "reconstructed": "\"料理を始める以前に、まずはキッチンを綺麗に片付ける必要がある。",
+    "row": {
+      "Grammar": "いぜん2",
+      "Usage": "V－るいぜん",
+      "JLPT Level": "N3",
+      "Reference Example": "①二人は結婚する以前から一緒に暮らしていた。",
+      "Original Example": "料理を始める以前に、まずはキッチンを綺麗に片付ける必要がある。",
+      "Prefix": "\"",
+      "Chunk1": "料理を",
+      "Chunk2": "始める",
+      "Chunk3": "以前に、",
+      "Chunk4": "まずはキッチンを",
+      "Suffix": "綺麗に片付ける必要がある。",
+      "Explanation": "動詞の辞書形「始める」に「以前に」が接続し、その動作を行う前の段階であることを示します。その後、「まずは」という副詞を伴って、先にやるべき行動へと展開します。"
+    }
+  },
+  {
+    "file": "D:\\pj\\xx\\ai-gen-quiz\\mondai2_ordering\\csv_cleaned\\set_1_daily\\part_60.csv",
+    "type": "M2_CHUNK_MISMATCH",
+    "original": "明日は友達と買い物に行くから、早くこの雨がやまないかしら。",
+    "reconstructed": "明日は友達と買い物に行くから、朝までに早くこの雨がやまないかしら。",
+    "row": {
+      "Grammar": "ないか",
+      "Usage": "～ないかしら＜願望＞　V－ない／V－れない　かしら　V－てくれないかしら",
+      "JLPT Level": "N3",
+      "Reference Example": "①また、あの人から手紙が来ないかしら。",
+      "Original Example": "明日は友達と買い物に行くから、早くこの雨がやまないかしら。",
+      "Prefix": "明日は友達と買い物に行くから、",
+      "Chunk1": "朝までに",
+      "Chunk2": "早く",
+      "Chunk3": "この雨が",
+      "Chunk4": "やま",
+      "Suffix": "ないかしら。",
+      "Explanation": "Cấu trúc \"V-ないかしら\" thể hiện nguyện vọng mong muốn một sự việc khách quan xảy ra (thường dùng bởi nữ giới). Cụm trạng ngữ \"朝までに\" (Chunk1) chỉ giới hạn thời gian. Phó từ \"早く\" (Chunk2) thể hiện sự mong ngóng, bổ nghĩa cho động từ. Chủ ngữ \"この雨が\" (Chunk3) đi với gốc động từ \"やま\" (Chunk4) (bỏ ない của やまない) và kết hợp với đuôi \"ないかしら\" (Suffix)."
+    }
+  },
+  {
+    "file": "D:\\pj\\xx\\ai-gen-quiz\\mondai2_ordering\\csv_cleaned\\set_1_daily\\part_61.csv",
+    "type": "M2_CHUNK_MISMATCH",
+    "original": "友達の大切なカメラを壊してしまったのだカード直接会って謝らないではすまない。",
+    "reconstructed": "友達の大切なカメラを壊してしまったのだから直接会って謝らないではすまない。",
+    "row": {
+      "Grammar": "ないではすまない",
+      "Usage": "V－ないではすまない",
+      "JLPT Level": "N2",
+      "Reference Example": "①知り合いに借りたキャンプ用のテントをひどく破ってしまった。新しいのを買って返さないではすまないだろう。",
+      "Original Example": "友達の大切なカメラを壊してしまったのだカード直接会って謝らないではすまない。",
+      "Prefix": "友達の",
+      "Chunk1": "大切なカメラを",
+      "Chunk2": "壊してしまったのだから",
+      "Chunk3": "直接会って",
+      "Chunk4": "謝らないでは",
+      "Suffix": "すまない。",
+      "Explanation": "\"壊してしまったのだから\" đưa ra nguyên nhân ràng buộc trách nhiệm. \"直接会って\" bổ nghĩa cho cách thức hành động. Cấu trúc \"ないではすまない\" biểu thị nghĩa vụ đạo đức bắt buộc phải xin lỗi."
+    }
+  },
+  {
+    "file": "D:\\pj\\xx\\ai-gen-quiz\\mondai2_ordering\\csv_cleaned\\set_1_daily\\part_62.csv",
+    "type": "M2_CHUNK_MISMATCH",
+    "original": "朝から雨が降っていたが、午後になって天気が持ち直した。",
+    "reconstructed": "朝から雨が降っていたが、午後になってようやく天気が持ち直した。",
+    "row": {
+      "Grammar": "なおす",
+      "Usage": "R－なおす＜無意志的＞",
+      "JLPT Level": "N2",
+      "Reference Example": "①今年になって、景気が持ち直した。",
+      "Original Example": "朝から雨が降っていたが、午後になって天気が持ち直した。",
+      "Prefix": "朝から雨が降っていたが、",
+      "Chunk1": "午後になって",
+      "Chunk2": "ようやく",
+      "Chunk3": "天気が",
+      "Chunk4": "持ち",
+      "Suffix": "直した。",
+      "Explanation": "Vế đầu nêu bối cảnh thời tiết xấu. Cụm chỉ thời gian 「午後になって」 kết hợp với phó từ 「ようやく」 (cuối cùng thì) dẫn dắt đến sự thay đổi trạng thái. Chủ ngữ 「天気が」 đi với tự động từ mang tính vô ý chí 「持ち直す」 (khôi phục, tiến triển tốt lên), cấu tạo từ thể liên dụng 「持ち」 và 「直した」."
+    }
+  },
+  {
+    "file": "D:\\pj\\xx\\ai-gen-quiz\\mondai2_ordering\\csv_cleaned\\set_1_daily\\part_62.csv",
+    "type": "M2_CHUNK_MISMATCH",
+    "original": "日本の料理の中で、私はお寿司が一番好きです。",
+    "reconstructed": "日本の料理のの中で、私はお寿司が一番好きです。",
+    "row": {
+      "Grammar": "なか",
+      "Usage": "Nのなかで",
+      "JLPT Level": "N4",
+      "Reference Example": "①3人兄弟の中では、次男が一番優秀だ。",
+      "Original Example": "日本の料理の中で、私はお寿司が一番好きです。",
+      "Prefix": "日本の",
+      "Chunk1": "料理の",
+      "Chunk2": "の中で、",
+      "Chunk3": "私はお寿司が",
+      "Chunk4": "一番",
+      "Suffix": "好きです。",
+      "Explanation": "Cụm danh từ giới hạn phạm vi 「日本の料理の中で」 sử dụng cấu trúc 「Nのなかで」 kèm trợ từ 「は」 để nhấn mạnh. Tiếp theo là chủ ngữ 「私は」 và đối tượng thích 「お寿司が」. Phó từ chỉ mức độ cao nhất 「一番」 đứng trước để bổ nghĩa cho tính từ đuôi na 「好きです」."
+    }
+  },
+  {
+    "file": "D:\\pj\\xx\\ai-gen-quiz\\mondai2_ordering\\csv_cleaned\\set_1_daily\\part_62.csv",
+    "type": "M2_CHUNK_MISMATCH",
+    "original": "お忙しいなかを、私の家まで来てくれて本当にありがとうございます。",
+    "reconstructed": "お忙しいなかを、私の家までわざわざ来てくれて本当にありがとうございます。",
+    "row": {
+      "Grammar": "なか",
+      "Usage": "～なかを　Nのなかを　A－いなかを　V－るなかを",
+      "JLPT Level": "N3",
+      "Reference Example": "①激しい雨の中をさまよった。",
+      "Original Example": "お忙しいなかを、私の家まで来てくれて本当にありがとうございます。",
+      "Prefix": "お忙しい",
+      "Chunk1": "なかを、",
+      "Chunk2": "私の家まで",
+      "Chunk3": "わざわざ",
+      "Chunk4": "来てくれて",
+      "Suffix": "本当にありがとうございます。",
+      "Explanation": "Tính từ 「お忙しい」 kết hợp với cấu trúc 「なかを」 để tạo thành vế 'trong lúc bận rộn'. Cụm danh từ chỉ điểm đến 「私の家まで」 và phó từ 「わざわざ」 (cất công) bổ nghĩa cho hành động ban ơn 「来てくれて」. Cuối cùng là lời cảm ơn 「本当にありがとうございます」."
+    }
+  },
+  {
+    "file": "D:\\pj\\xx\\ai-gen-quiz\\mondai2_ordering\\csv_cleaned\\set_1_daily\\part_62.csv",
+    "type": "M2_CHUNK_MISMATCH",
+    "original": "友達 của 愚痴を、私はただ笑って聞き流した。",
+    "reconstructed": "友達の愚痴を、私はただ笑って聞き流した。",
+    "row": {
+      "Grammar": "ながす",
+      "Usage": "R－ながす",
+      "JLPT Level": "N2",
+      "Reference Example": "①このレポートは、何の調査もせずに、思いついたことを適当に書き流しているだけだ。",
+      "Original Example": "友達 của 愚痴を、私はただ笑って聞き流した。",
+      "Prefix": "友達の",
+      "Chunk1": "愚痴を、",
+      "Chunk2": "私は",
+      "Chunk3": "ただ笑って",
+      "Chunk4": "聞き",
+      "Suffix": "流した。",
+      "Explanation": "Cụm 「友達の愚痴を」 đóng vai trò là tân ngữ chịu tác động của hành động. Chủ ngữ 「私は」 thực hiện hành động liên tiếp 「ただ笑って」 (chỉ cười). Động từ phức kết hợp từ thể ます (bỏ ます) của 聞く là 「聞き」 và động từ phụ 「流した」 tạo thành 「聞き流す」 nghĩa là nghe tai này lọt qua tai kia, nghe qua loa không để tâm."
+    }
+  },
+  {
+    "file": "D:\\pj\\xx\\ai-gen-quiz\\mondai2_ordering\\csv_cleaned\\set_1_daily\\part_62.csv",
+    "type": "M2_CHUNK_MISMATCH",
+    "original": "このアパートは狭いながらも、日当たりが良くて快適だ。",
+    "reconstructed": "このアパートは狭いながらも、日当たりが良くてとても快適だ。",
+    "row": {
+      "Grammar": "ながら",
+      "Usage": "ながら　A－いながら　R－ながら",
+      "JLPT Level": "N3",
+      "Reference Example": "①このバイクは小型ながら馬力がある。",
+      "Original Example": "このアパートは狭いながらも、日当たりが良くて快適だ。",
+      "Prefix": "このアパートは",
+      "Chunk1": "狭いながらも、",
+      "Chunk2": "日当たりが",
+      "Chunk3": "良くて",
+      "Chunk4": "とても",
+      "Suffix": "快適だ。",
+      "Explanation": "Chủ đề câu là 「このアパートは」. Tính từ đuôi i giữ nguyên kết hợp 「ながらも」 tạo thành vế tương phản 「狭いながらも」 (tuy hẹp nhưng). Tiếp theo là cấu trúc chỉ đặc điểm tốt nguyên nhân 「日当たりが良くて」 (đón nắng tốt nên...). Phó từ chỉ mức độ 「とても」 bổ nghĩa cho tính từ đuôi na kết thúc câu 「快適だ」 (thoải mái)."
+    }
+  },
+  {
+    "file": "D:\\pj\\xx\\ai-gen-quiz\\mondai2_ordering\\csv_cleaned\\set_1_daily\\part_63.csv",
+    "type": "M2_CHUNK_MISMATCH",
+    "original": "A：この店の料理は高いですね。B：なぜかといえば、高級な食材を使っているからです。",
+    "reconstructed": "A：この店の料理は高いですね。B：なぜかいえば、高級な食材を使っているからです。",
+    "row": {
+      "Grammar": "なぜかというと～からだ",
+      "Usage": "",
+      "JLPT Level": "N3",
+      "Reference Example": "①A：宇宙に行くとどうして物が落ちないのですか。B：なぜかというと、地球の引力が働かなくなるからです。",
+      "Original Example": "A：この店の料理は高いですね。B：なぜかといえば、高級な食材を使っているからです。",
+      "Prefix": "A：この店の料理は高いですね。B：",
+      "Chunk1": "なぜか",
+      "Chunk2": "いえば、",
+      "Chunk3": "高級な",
+      "Chunk4": "食材を",
+      "Suffix": "使っているからです。",
+      "Explanation": "「なぜかといえば」 là cách diễn đạt lý do mang tính lập luận logic cao. Phần giải thích phía sau gồm tính từ đuôi na 「高級な」 bổ nghĩa cho danh từ 「食材」 làm tân ngữ cho động từ dạng tiếp diễn 「使っている」. Cuối cùng câu được chốt bằng 「～からです」 để làm rõ nguyên nhân."
+    }
+  },
+  {
+    "file": "D:\\pj\\xx\\ai-gen-quiz\\mondai2_ordering\\csv_cleaned\\set_1_daily\\part_64.csv",
+    "type": "M2_CHUNK_MISMATCH",
+    "original": "え、それならなにか。私が見栄を張っているとでも言いたいのか。",
+    "reconstructed": "え、それならなにか。私が嘘をついているとでも言いたいのか。",
+    "row": {
+      "Grammar": "なにか",
+      "Usage": "なにか＜詰問＞",
+      "JLPT Level": "N2",
+      "Reference Example": "①それならなにか。この会社を辞めてもいいんだな。",
+      "Original Example": "え、それならなにか。私が見栄を張っているとでも言いたいのか。",
+      "Prefix": "え、",
+      "Chunk1": "それなら",
+      "Chunk2": "なにか。",
+      "Chunk3": "私が嘘を",
+      "Chunk4": "ついていると",
+      "Suffix": "でも言いたいのか。",
+      "Explanation": "Cấu trúc 「それならなにか」 dùng để hạch sách đối phương trong giao tiếp đời sống 「Nếu thế thì ý cậu là gì?」. Thứ tự cụm từ: từ nối 「それなら」 -> từ hỏi chất vấn 「なにか」 -> Vế làm rõ nội dung tranh cãi 「私が嘘を」 + 「ついていると」 (đang nói dối) + mẫu nghi vấn ngữ khí mạnh 「〜とでも言いたいのか」."
+    }
+  },
+  {
+    "file": "D:\\pj\\xx\\ai-gen-quiz\\mondai2_ordering\\csv_cleaned\\set_1_daily\\part_64.csv",
+    "type": "M2_CHUNK_MISMATCH",
+    "original": "友達のなにげない一言に、私はとても救われた気持ちになった。",
+    "reconstructed": "友達のなにげない一言に私はとても救われた気持ちになった。",
+    "row": {
+      "Grammar": "なにげない",
+      "Usage": "なにげないN　なにげなくV",
+      "JLPT Level": "N3",
+      "Reference Example": "①何気ないその一言が私の心をひどく傷つけた。",
+      "Original Example": "友達のなにげない一言に、私はとても救われた気持ちになった。",
+      "Prefix": "友達の",
+      "Chunk1": "なにげない",
+      "Chunk2": "一言に",
+      "Chunk3": "私はとても",
+      "Chunk4": "救われた",
+      "Suffix": "気持ちになった。",
+      "Explanation": "「なにげない」 là tính từ bổ nghĩa cho danh từ mang nghĩa 「vô tình/bâng quơ/không cố ý」. Thứ tự: Sở hữu cách (友達の) -> Tính từ định ngữ 「なにげない」 bổ nghĩa cho danh từ 「一言に」 -> Chủ ngữ vế sau và phó từ mức độ 「私はとても」 -> Động từ thể bị động tính từ hóa 「救われた」 bổ nghĩa cho danh từ tâm trạng 「気持ちになった」."
+    }
+  },
+  {
+    "file": "D:\\pj\\xx\\ai-gen-quiz\\mondai2_ordering\\csv_cleaned\\set_1_daily\\part_65.csv",
+    "type": "M2_CHUNK_MISMATCH",
+    "original": "来週の友達のパーティーのために服やらなにやらをたくさん買い込みました。",
+    "reconstructed": "来週の友達のパーティーのために服やらなにやらをたくさん買い込んでしまいました。",
+    "row": {
+      "Grammar": "なにやら",
+      "Usage": "～やらなにやら　Nやらなにやら　A－い／V－る　やらなにやら",
+      "JLPT Level": "N2",
+      "Reference Example": "①お菓子やらなにやらを持ち寄ってパーティーを開いた。",
+      "Original Example": "来週の友達のパーティーのために服やらなにやらをたくさん買い込みました。",
+      "Prefix": "来週の友達のパーティーのために",
+      "Chunk1": "服やら",
+      "Chunk2": "なにやらを",
+      "Chunk3": "たくさん",
+      "Chunk4": "買い込んで",
+      "Suffix": "しまいました。",
+      "Explanation": "「来週の友達 của パーティーのために」 chỉ mục đích chuẩn bị. Cấu trúc 「Nやらなにやら」 dùng để liệt kê đại diện các danh từ cùng nhóm ('quần áo các thứ'). Trợ từ 「を」 nối cụm liệt kê này làm tân ngữ cho hành động 「買い込んで」 (mua gom vào). Phó từ 「たくさん」 bổ nghĩa cho mức độ mua nhiều. 「しまいました」 kết thúc câu diễn tả hành động đã hoàn thành hoặc lỡ mua quá nhiều."
+    }
+  },
+  {
+    "file": "D:\\pj\\xx\\ai-gen-quiz\\mondai2_ordering\\csv_cleaned\\set_1_daily\\part_65.csv",
+    "type": "M2_CHUNK_MISMATCH",
+    "original": "今充から近所のスーパーへ行くのならついでに牛乳を買ってきてください。",
+    "reconstructed": "今から近所のスーパーへ行くのならついでに牛乳を買ってきてください。",
+    "row": {
+      "Grammar": "なら2",
+      "Usage": "N／Naなら　N／Naだった（の）なら　A－い／A－かった（の）なら　V－る／V－た（の）なら　述語の辞書形・タ形を受け、「実情・状況がそのようであれば」という意味を表す。「のならば」「のなら」「ならば」の形も使われる。話しことばでは「の」は「ん」となることが多い。「の」の有無による意味の違いは、はっきりとは認められない場合が多いが、「の」がある場合は、聞き手の発言や具体的な状況を受けて「あなたがそう言うなら」「それが事実ならば」「実情がそのようであれば」という意味を表すのに対し、「の」がない場合は、「一般的にそのような場合は」「そうする場合は」という意味を表す傾向がある。名詞、ナ形容詞を直接受ける場合は「の」は使われないことが多い。動詞、イ形容詞に続く場合、「（の）なら」と「のだったら」は類義的で、互いに言いかえが可能だが、「のだったら」の「の」は省略できない。（誤）知っているだったら教えてほしい。（正）知っている（の）なら教えてほしい。知っているのだったら教えてほしい。～（の）なら＜仮定条件＞",
+      "JLPT Level": "N4",
+      "Reference Example": "①A：風邪をひいてしまいまして。B：風邪なら早く帰って休んだほうがいいよ。",
+      "Original Example": "今充から近所のスーパーへ行くのならついでに牛乳を買ってきてください。",
+      "Prefix": "今から近所の",
+      "Chunk1": "スーパーへ",
+      "Chunk2": "行くのなら",
+      "Chunk3": "ついでに",
+      "Chunk4": "牛乳を",
+      "Suffix": "買ってきてください。",
+      "Explanation": "「今から近所の」 bổ nghĩa cho địa điểm 「スーパー」. Trợ từ 「へ」 chỉ hướng di chuyển của động từ 「行く」. Cấu trúc 「Vるのなら」 thiết lập giả định dựa trên ý định thực tế của người nghe ('Nếu bạn định đi...'). Phó từ 「ついでに」 (nhân tiện) bổ nghĩa cho hành động phía sau. 「牛乳を」 làm tân ngữ cho hành động yêu cầu lịch sự 「買ってきてください」."
+    }
+  },
+  {
+    "file": "D:\\pj\\xx\\ai-gen-quiz\\mondai2_ordering\\csv_cleaned\\set_1_daily\\part_8.csv",
+    "type": "M2_CHUNK_MISMATCH",
+    "original": "先月の同窓会以来、高校時代の親友と毎週末お茶をしている。",
+    "reconstructed": "\"先月の同窓会以来、高校時代の親友と毎週末お茶をしている。",
+    "row": {
+      "Grammar": "いらい",
+      "Usage": "Nいらい",
+      "JLPT Level": "N3",
+      "Reference Example": "①あれ以来彼女は姿を見せない。",
+      "Original Example": "先月の同窓会以来、高校時代の親友と毎週末お茶をしている。",
+      "Prefix": "\"",
+      "Chunk1": "先月の",
+      "Chunk2": "同窓会以来、",
+      "Chunk3": "高校時代の親友と",
+      "Chunk4": "毎週末お茶をしている",
+      "Suffix": "。",
+      "Explanation": "「名詞＋以来」の形で時を限定し、その後に「誰と」「いつ」「何をしている」という詳細な行動が続きます。"
+    }
+  },
+  {
+    "file": "D:\\pj\\xx\\ai-gen-quiz\\mondai2_ordering\\csv_cleaned\\set_1_daily\\part_8.csv",
+    "type": "M2_CHUNK_MISMATCH",
+    "original": "日本に来て以来、毎朝納豆を食べるのが私の習慣になった。",
+    "reconstructed": "\"日本に来て以来、毎朝納豆を食べるのが私の習慣になった。",
+    "row": {
+      "Grammar": "いらい",
+      "Usage": "V－ていらい",
+      "JLPT Level": "N3",
+      "Reference Example": "①夏休みに風邪で寝込んで以来、どうも体の調子が悪い。",
+      "Original Example": "日本に来て以来、毎朝納豆を食べるのが私の習慣になった。",
+      "Prefix": "\"",
+      "Chunk1": "日本に",
+      "Chunk2": "来て以来、",
+      "Chunk3": "毎朝納豆を食べるのが",
+      "Chunk4": "私の習慣になった",
+      "Suffix": "。",
+      "Explanation": "「V-て以来」で継続の起点を表し、その後にその期間中ずっと続いている「私の習慣になった」という結果を配置します。"
+    }
+  },
+  {
+    "file": "D:\\pj\\xx\\ai-gen-quiz\\mondai2_ordering\\csv_cleaned\\set_1_daily\\part_8.csv",
+    "type": "M2_CHUNK_MISMATCH",
+    "original": "結婚して以来初めて、夫が私のために手料理を作ってくれた。",
+    "reconstructed": "\"結婚して以来初めて、夫が私のために手料理を作ってくれた。",
+    "row": {
+      "Grammar": "いらい",
+      "Usage": "V－ていらいはじめて",
+      "JLPT Level": "N3",
+      "Reference Example": "①引っ越してきて以来、初めて隣の人と言葉を交わした。",
+      "Original Example": "結婚して以来初めて、夫が私のために手料理を作ってくれた。",
+      "Prefix": "\"",
+      "Chunk1": "結婚して",
+      "Chunk2": "以来初めて、",
+      "Chunk3": "夫が私のために",
+      "Chunk4": "手料理を作ってくれた",
+      "Suffix": "。",
+      "Explanation": "「V-て以来初めて」で特別な機会の始まりを示し、その具体的な内容である「夫が～作ってくれた」という主節が続きます。"
+    }
+  },
+  {
+    "file": "D:\\pj\\xx\\ai-gen-quiz\\mondai2_ordering\\csv_cleaned\\set_1_daily\\part_8.csv",
+    "type": "M2_CHUNK_MISMATCH",
+    "original": "こんなに家族みんなで旅行に行くのは、５年前の姉の結婚式以来だ。",
+    "reconstructed": "\"こんなに家族みんなで旅行に行くのは、５年前の姉の結婚式以来だ。",
+    "row": {
+      "Grammar": "いらい",
+      "Usage": "Nは、～いらいだ　Nは、Nいらいだ　Nは、V－ていらいだ",
+      "JLPT Level": "N3",
+      "Reference Example": "①お会いするのは、去年の9月以来ですね。",
+      "Original Example": "こんなに家族みんなで旅行に行くのは、５年前の姉の結婚式以来だ。",
+      "Prefix": "\"",
+      "Chunk1": "こんなに家族みんなで",
+      "Chunk2": "旅行に行くのは、",
+      "Chunk3": "５年前の姉の",
+      "Chunk4": "結婚式以来だ",
+      "Suffix": "。",
+      "Explanation": "「～のは」で主題（家族旅行）を提示し、末尾に「特定の時期＋以来だ」を持ってくることで、その期間の長さを強調する構文です。"
+    }
+  },
+  {
+    "file": "D:\\pj\\xx\\ai-gen-quiz\\mondai2_ordering\\csv_cleaned\\set_1_daily\\part_8.csv",
+    "type": "M2_CHUNK_MISMATCH",
+    "original": "書類の上では結婚しているが、私たちは今別居している。",
+    "reconstructed": "\"書類の上では結婚しているが、私たちは今別居している。",
+    "row": {
+      "Grammar": "うえ",
+      "Usage": "Nのうえで（は）",
+      "JLPT Level": "N3",
+      "Reference Example": "①暦の上ではもう春だというのに、まだまだ寒い日が続いている。",
+      "Original Example": "書類の上では結婚しているが、私たちは今別居している。",
+      "Prefix": "\"",
+      "Chunk1": "書類の",
+      "Chunk2": "上では",
+      "Chunk3": "結婚しているが、",
+      "Chunk4": "私たちは今別居している",
+      "Suffix": "。",
+      "Explanation": "「Nの上では」で基準や前提（書類上のデータ）を示し、それに対する実際の本質や逆接の内容（別居している）を後半に繋げます。"
+    }
+  },
+  {
+    "file": "D:\\pj\\xx\\ai-gen-quiz\\mondai2_ordering\\csv_cleaned\\set_1_daily\\part_8.csv",
+    "type": "M2_CHUNK_MISMATCH",
+    "original": "一人暮らしを始める上で、家賃の安さは一番大切な条件だと思う。",
+    "reconstructed": "\"一人暮らしを始める上で、家賃の安さは一番大切な条件だと思う。",
+    "row": {
+      "Grammar": "うえ",
+      "Usage": "V－るうえで",
+      "JLPT Level": "N2",
+      "Reference Example": "①パソコンを買う上で注意しなければならないことは何ですか。",
+      "Original Example": "一人暮らしを始める上で、家賃の安さは一番大切な条件だと思う。",
+      "Prefix": "\"",
+      "Chunk1": "一人暮らしを",
+      "Chunk2": "始める上で、",
+      "Chunk3": "家賃の安さは",
+      "Chunk4": "一番大切な条件だと思う",
+      "Suffix": "。",
+      "Explanation": "「V-る上で」という目的や状況の設定を前に置き、その状況において重要となる要素「家賃の安さ」と結論「条件だと思う」を続けます。"
+    }
+  }
+]

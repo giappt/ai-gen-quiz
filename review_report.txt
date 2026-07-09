@@ -1,0 +1,6 @@
+--- BÁO CÁO REVIEW CHẤT LƯỢNG DỮ LIỆU AI-GEN ---
+
+
+--- KẾT LUẬN ---
+Tổng số câu đã check: 1244
+Tổng số lỗi phát hiện: 0
