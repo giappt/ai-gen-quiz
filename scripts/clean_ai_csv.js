@@ -79,8 +79,8 @@ async function processType(typeFolder) {
           const row = [];
 
           for (const header of headers) {
-            // 4 cột đầu tiên luôn lấy cứng từ Template gốc để tránh sai lệch khóa học
-            if (['Grammar', 'Usage', 'Meaning', 'Reference Example'].includes(header)) {
+            // 3 cột đầu tiên luôn lấy cứng từ Template gốc để tránh sai lệch khóa học
+            if (['Grammar', 'Usage', 'Reference Example'].includes(header)) {
               row.push(escapeCSV(orig[header] || ''));
             } else {
               // Các cột còn lại lấy từ file Filled của Claude, đồng thời clean dấu ngoặc kép/vuông thừa

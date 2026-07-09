@@ -8,6 +8,9 @@ const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 const BASE_DIR = path.join(__dirname, '..');
 
+const errorLogPath = path.join(BASE_DIR, 'validation_reports', 'error_log.json');
+const allErrors = [];
+
 async function processFile(filePath, isM1) {
   const rows = await new Promise((resolve, reject) => {
     const results = [];
@@ -87,6 +90,15 @@ async function processFile(filePath, isM1) {
                 isFixed = true;
              }
           }
+          if (!isFixed) {
+             allErrors.push({
+                 file: filePath,
+                 type: 'M2_CHUNK_MISMATCH',
+                 original: original,
+                 reconstructed: currentReconstructed,
+                 row: row
+             });
+          }
         }
       }
     }
@@ -141,10 +153,18 @@ async function run() {
     }
   }
 
+  // Save error report
+  const reportsDir = path.join(BASE_DIR, 'validation_reports');
+  if (!fs.existsSync(reportsDir)) {
+      fs.mkdirSync(reportsDir, { recursive: true });
+  }
+  fs.writeFileSync(errorLogPath, JSON.stringify(allErrors, null, 2), 'utf8');
+
   console.log(`Hoàn tất vá lỗi!`);
   console.log(`Đã vá tự động ${totalM1Fixed} lỗi của Mondai 1.`);
   console.log(`Đã vá tự động ${totalM2Fixed} lỗi của Mondai 2.`);
-  console.log("Sếp hãy chạy lại `node review_ai_gen.js` để kiểm tra số lượng lỗi còn tồn đọng nhé!");
+  console.log(`Đã tìm thấy ${allErrors.length} lỗi không thể tự vá. Đã ghi vào: ${errorLogPath}`);
+  console.log("Sếp hãy kiểm tra error_log.json để sửa tay hoặc dùng AI sửa các dòng này nhé!");
 }
 
 run().catch(console.error);
