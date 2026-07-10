@@ -1,21 +1,21 @@
-Grammar,Usage,JLPT Level,Reference Example,Original Example,Prefix,Chunk1,Chunk2,Chunk3,Chunk4,Suffix,Explanation
-おもう,～おもう　Naにおもう　A－くおもう,N3,①先生に指導していただけることになって、本当に幸せに思います。,,,,,,,,
-おもう,V－ようとおもう,N4,①今日はゆっくり休もうと思う。,,,,,,,,
-おもう,であるようにおもう　A／V　ようにおもう,N3,①太田くんは内気なので、ウェイターの仕事は向いていないように思う。,,,,,,,,
-おもう,N（のこと）をおもう,N4,①親が子供を思う気持ちは何にも変えられない。,,,,,,,,
-おもう,だとおもう　Nを　A／V　とおもう,N4,①最初は保子さんを男の子だと思った。,,,,,,,,
-おもえば,おもえば,N2,①思えば、学生時代はみんな純粋だった。,,,,,,,,
-おもえば,いまからおもえば,N2,①母は、私が下宿するのに猛反対したが、今から思えばその気持ちもわからなくもない。,,,,,,,,
-おもったら,だとおもったら　A／V　とおもったら,N3,①息子の姿が見えないと思ったら、押し入れの中で寝ていた。,,,,,,,,
-および,NおよびN,N2,①会議終了後、名札およびアンケート用紙を回収します。,,,,,,,,
-おり,おり（に）　Nのおり（に）　V－る／V－た　おり（に）,N2,①前回の書類は今度の会議のおりにお渡しします。,,,,,,,,
-おり,おりから　Aおりから　V－るおりから,N1,①残暑の続くおりから、お体には十分お気をつけください。,,,,,,,,
-おり,おりからのN,N1,①山は嵐のような天候になり、小さな山小屋は、おりからの風にあおられて簡単に吹き飛んでしまった。,,,,,,,,
-か,～か～か　NかN（か）　NaかNaか　AかAか　VかVか,N5,①電車かバスで行くつもりだ。,,,,,,,,
-か,Nか＋疑問詞＋か,N5,①プレゼントはコーヒーカップか何かにしよう。,,,,,,,,
-か,～か～かで　NかN（か）で　NaかNaかで　AかAかで　VかVかで,N3,①あの人の話は、たいてい自分の自慢話か仕事の愚痴かで、聞いているとうんざりする。,,,,,,,,
-か,～かとうか　N／Na／A／V　かとうか,N4,①あの人が来るかどうか知っていますか。,,,,,,,,
-か,～か～ないか,N4,①行くか行かないか決めて下さい。,,,,,,,,
-か,～か～ない（か）　V－るかV－ない（か）　V－たかV－ない（か）,N3,①去年彼女に会ったのは、たしかゴールデンウイークに入るか入らないかの頃だったと思います。,,,,,,,,
-か,疑問詞～か,N4,①彼がいつ亡くなったか知っていますか。,,,,,,,,
-か,疑問詞＋か,N5,①彼はどうも何かを隠しているらしい。,,,,,,,,
+﻿Grammar,Usage,JLPT Level,Reference Example,Original Example,Prefix,Chunk1,Chunk2,Chunk3,Chunk4,Suffix,Explanation
+お思う,～お思う Naにお思う A－くお思う,N3,①先生に指導していただけることになって、本当に幸せに思います。,"弊社の新サービスが皆様のお役に立てれば、大変嬉しく思います。",弊社の新サービスが,皆様のお役に,立てれば、,大変,嬉しく,思います。,"Cụm '皆様のお役に立てれば' nghĩa là nếu có ích cho quý vị (động từ 立てる đi với trợ từ に). '大変嬉しく思います' là cách nói lịch sự trong kinh doanh để biểu thị cảm xúc biết ơn hoặc vui mừng, kết hợp tính từ 嬉しい chuyển sang thể liên kết 嬉しく với động từ 思います。"
+お思う,V－ようとお思う,N4,①今日はゆっくり休もうと思う。,今週中に新しい企画の提案書を提出しようと思います。,今週中に,新しい企画の,提案書を,提出,しようと,思います。,"'新しい企画の提案書' tạo thành cụm danh từ làm tân ngữ chỉ đối tượng của hành động. '提出しよう' là thể ý chí của động từ nhóm 3 提出する, kết hợp với 'と思います' tạo thành cấu trúc thể hiện dự định của bản thân trong công việc."
+お思う,であるようにお思う A／V ようにお思う,N3,①太田くんは内気なので、ウェイターの仕事は向いていないように思う。,"田中部長のご意見のほうが、現在の市場のニーズに合っているように思います。",田中部長のご意見のほうが、,現在の,市場のニーズに,合っている,ように,思います。,"'現在の' bổ nghĩa cho danh từ '市場のニーズ' (nhu cầu thị trường). 'ニーズに合っている' (phù hợp với nhu cầu) kết hợp với cấu trúc 'ように思います' ở cuối để đưa ra nhận định, suy đoán một cách nhẹ nhàng và lịch sự trong cuộc họp."
+お思う,N（のこと）をお思う,N4,①親が子供を思う気持ちは何にも変えられない。,"クライアントのことを思うuと、この仕様変更は避けるべきです。",クライアントの,ことを,思うと、,この仕様変更は,避ける,べきです。,"'クライアントのことを思うと' mang ý nghĩa 'nếu nghĩ cho lợi ích của khách hàng'. Tiếp theo, cụm chủ đề 'この仕様変更は' kết hợp với hình thức khẳng định bổn phận '避けるべきです' (nên tránh) tạo thành một lời khuyên chuyên nghiệp."
+お思う,だとお思う Nを A／V とお思う,N4,①最初は保子さんを男の子だと思った。,"弊社の技術力なら、このタイトなスケジュールでも対応可能だと思います。",弊社の技術力なら、,このタイトな,スケジュールでも,対応可能,だと,思います。,"'このタイトなスケジュール' (lịch trình dày đặc này) đi với 'でも' để nhấn mạnh điều kiện khó khăn. '対応可能' (có thể đáp ứng) kết hợp với danh từ + 'だと思います' để đưa ra một đánh giá mang tính khẳng định và tự tin."
+おもえば,おもえば,N2,①思えば、学生時代はみんな純粋だった。,"思えば、この会社に入社した当初は何も分からなかった。",思えば、,この会社に,入社した,当初は,何も,分からなかった。,"Từ nối '思えば' (nghĩ lại thì) đặt đầu câu để dẫn dắt mạch suy nghĩ. Định ngữ '入社した' bổ nghĩa cho danh từ '当初' (thời kỳ đầu). Trợ từ '何も' kết hợp với phủ định '分からなかった' tạo nên cấu trúc phủ định hoàn toàn đầy hoài niệm về thời mới đi làm."
+おもえば,いまからおもえば,N2,①母は、私が下宿するのに猛反対したが、今から思えばその気持ちもわからなくもない。,"今から思えば、あの時の厳しい指導が今の私を育ててくれた。",今から思えば、,あの時の,厳しい指導が,今の私を,育てて,くれた。,"Cụm từ cố định '今から思えば' (bây giờ nghĩ lại thì) dùng ở đầu câu. 'あの時の厳しい指導が' đóng vai trò chủ ngữ gây ra hành động bổ ích trong quá khứ, đi kèm tân ngữ '今の私を' và động từ thể 'てくれた' thể hiện lòng biết ơn sâu sắc đối với cấp trên."
+おmoったら,だとおmoったら A／V とおmoったら,N3,①息子の姿が見えないと思ったら、押し入れの中で寝ていた。,"新人社員がデスクにいないと思ったら、会議室で資料の印刷をしていました。",新人社員が,デスクに,いないと,思ったら、,会議室で,資料の印刷をしていました。,"Cấu trúc '～と思ったら' diễn tả một sự việc bất ngờ hoặc phát hiện mới ngay sau một trạng thái. 'デスクにいない' (không có ở bàn) kết hợp với cấu trúc này, nối tiếp bằng trạng thái thực tế tìm thấy ở vế sau '会議室で...'."
+および,NおよびN,N2,①会議終了後、名札およびアンケート用紙を回収します。,"契約書の原本および控えは、こちらのファイルに保管してください。",契約書の,原本,および,控えは、,こちらのファイルに,保管してください。,"'および' là từ nối trang trọng dùng để liên kết hai danh từ đẳng lập '原本当' (bản gốc) và '控え' (bản sao) trong văn bản doanh nghiệp. Cụm danh từ liên kết này làm chủ đề với trợ từ 'は', đi kèm vị trí và hành động '保管してください'."
+おり,おり（に） Nのおり（に） V－る／V－た おり（に）,N2,①前回の書類は今度の会議のおりにお渡しします。,"弊社へ来社された折に、新しいパンフレットをお渡しいたします。",弊社へ,来社された,折に、,新しい,パンフレットを,お渡しいたします。,"'来社された' là tôn kính ngữ bổ nghĩa cho danh từ '折に' (vào dịp / vào lúc), một từ trang trọng thay thế cho 'ときに' trong kinh doanh. Vế sau là tân ngữ '新しいパンフレットを' đi với khiêm nhường ngữ 'お渡しいたします' thể hiện sự tôn trọng khách hàng."
+おり,おりから Aおりから V－るおりから,N1,①残暑の続くおりから、お体には十分お気をつけください。,"景気後退が懸念される折から、新規投資には慎重であるべきです。",景気後退が,懸念される,折から、,新規投資には,慎重である,べきです。,"Định ngữ '景気後退が懸念される' bổ nghĩa cho '折から' (chính vào lúc / trong bối cảnh hiện tại). Vế sau chỉ đối tượng '新規投資には' (đối với đầu tư mới) và kết luận mang tính định hướng, lời khuyên chắc chắn bằng cấu trúc '慎重であるべきです'."
+おり,おりからのN,N1,①山は嵐のような天候になり、小さな山小屋は、おりからの風にあおられて簡単に吹き飛しまった。,"弊社は、折からの原材料費高騰により、製品の値上げを余儀なくされました。",弊社は、,折からの,原材料費,高騰に,より、,製品の値上げを余儀なくされました。,"'折からの' đóng vai trò tính từ bổ nghĩa cho danh từ '原材料費高騰' để chỉ nguyên nhân bối cảnh đang xảy ra liên tục tại thời điểm đó. Cấu trúc '～により' chỉ lý do khách quan dẫn đến hệ quả không thể tránh khỏi '値上げを余儀なくされました' ở cuối câu."
+か,～か～か NかN（か） NaかNaか AかAか VかVか,N5,①電車かバスで行くつもりだ。,"次回の会議は、明日か明後日に行う予定です。",次回の,会議は、,明日か,明後日に,行う,予定です。,"Trợ từ 'か' được dùng giữa hai danh từ '明日' và '明後日' để biểu thị quan hệ lựa chọn (hoặc cái này hoặc cái kia). Cụm từ chỉ thời gian này đi với trợ từ 'に' và hành động kết thúc câu '行う予定です' phù hợp với ngữ pháp sơ cấp N5."
+か,Nか＋疑問詞＋か,N5,①プレゼントはコーヒーカップか何かにしよう。,"お打ち合わせの前に、お茶か何か温かいお飲み物はいかがですか。",お打ち合わせの前に、,お茶か,何か,温かい,お飲み物は,いかがですか。,"Cấu trúc 'Nか何か' (N hay thứ gì đó đại loại thế) dùng để đưa ra gợi ý một cách lịch sự, không áp đặt đối với khách hàng. Tính từ '温かい' bổ nghĩa cho danh từ kính ngữ 'お飲み物' và câu kết thúc bằng lời mời trang trọng 'いかがですか'."
+か,～か～かで NかN（か）で NaかNaかで AかAかで VかVかで,N3,①あの人の話は、たいてい自分の自慢話か仕事の愚痴かで、聞いているとうんざりする。,"新商品の発売を来月にすべきか再来月にすべきかで、チームの意見が分かれています。",新商品の発売を,来月にすべきか,再来月にすべきかで、,チームの,意見が,分かれています。,"Cấu trúc 'AかBかで' chỉ nguyên nhân hoặc bối cảnh của sự phân vân, tranh luận giữa hai lựa chọn trái ngược. Hành động '来月にすべきか' (nên làm vào tháng sau) và '再来月にすべきか' dẫn tới kết quả 'チームの意見が分かれています' (ý kiến của đội ngũ bị chia rẽ)."
+か,～かとうか N／Na／A／V かとうか,N4,①あの人が来るかどうか知っていますか。,"鈴木様が明日、セミナーに参加されるかどうかご存じですか。",鈴木様が明日、,セミナーに,参加されるか,どうか,ご存じ,ですか。,"'参加される' là dạng kính ngữ của động từ 参加する khi nói về khách hàng. Cấu trúc lồng câu hỏi nghi vấn '～かどうか' (có hay không) kết nối mệnh đề này với cụm từ kính ngữ 'ご存じですか' (ngài có biết chăng) ở cuối câu."
+か,～か～ないか,N4,①行くか行かないか決めて下さい。,"この条件で契約を結ぶか結ばないか、本日中に決めてください。",この条件で,契約を,結ぶか,結ばないか、,本日中に,決めてください。,"Sử dụng cặp động từ khẳng định và phủ định song hành '結ぶか結ばないか' để tạo thành mệnh đề lựa chọn mang tính quyết định. Tiếp theo là trạng từ chỉ thời hạn '本日中に' (trong ngày hôm nay) và yêu cầu hành động '決めてください'."
+か,～か～ない（か） V－るかV－ない（か） V－たかV－ない（か）,N3,①去年彼女に会ったのは、たしかゴールデンウイークに入るか入らないかの頃だったと思います。,"彼は、定時になるかならないかのうちに、退社してしまいます。",彼は、,定時に,なるか,ならないかの,うちに、,退社してしまいます。,"Cấu trúc 'V-るかV-ないかのうちに' diễn tả một hành động xảy ra ngay lập tức gần như đồng thời với một sự việc khác vừa mới xong. Việc '定時になる' (đến giờ về) vừa xảy ra thì đối tượng đã thực hiện ngay hành động '退社してしまいます' (vội vàng ra về)."
+か,疑問詞～か,N4,①彼がいつ亡くなったか知っていますか。包装紙はどれがいいか選んでください。,"会議室のプロジェクターがなぜ動かないか、その原因を至急調べてください。",会議室の,プロジェクターが,なぜ動かないか、,その原因を,至急,調べてください。,"Mệnh đề chứa từ để hỏi 'なぜ動かないか' (tại sao không chạy) đóng vai trò một câu hỏi lồng gián tiếp bổ nghĩa cho đối tượng 'その原因を' (nguyên nhân của việc đó). Phó từ '至急' biểu thị tính khẩn cấp trước động từ yêu cầu '調べてください'."
+か,疑問詞＋か,N5,①彼はどうも何かを隠しているらしい。,"鈴木さん、今日の午後のスケジュールで何か質問はありますか。",鈴木さん、,今日の午後の,スケジュールで,何か,質問は,ありますか。,"Từ để hỏi '何' kết hợp với trợ từ 'か' tạo thành đại từ bất định '何か' (cái gì đó/điều gì đó). '今日の午後のスケジュールで' khoanh vùng phạm vi đối tượng để hỏi, kết hợp tự nhiên với cụm từ nghi vấn sơ cấp '質問はありますか'."

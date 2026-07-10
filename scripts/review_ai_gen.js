@@ -150,8 +150,8 @@ function readCSV(filePath) {
 async function run() {
   console.log("Bắt đầu quét Validate dữ liệu AI-Gen...");
   
-  const m1Dir = path.join(BASE_DIR, 'mondai1_fill_blank', 'csv_cleaned');
-  const m2Dir = path.join(BASE_DIR, 'mondai2_ordering', 'csv_cleaned');
+  const m1Dir = path.join(BASE_DIR, 'mondai1_fill_blank', 'csv_filled');
+  const m2Dir = path.join(BASE_DIR, 'mondai2_ordering', 'csv_filled');
 
   // Quét M1
   if (fs.existsSync(m1Dir)) {

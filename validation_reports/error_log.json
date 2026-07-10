@@ -1,1 +1,302 @@
-[]
+[
+  {
+    "file": "D:\\pj\\xx\\ai-gen-quiz\\mondai2_ordering\\csv_filled\\set_3_academic\\part_1.csv",
+    "type": "M2_CHUNK_MISMATCH",
+    "original": "このプロジェクトのリスクについてあえて言えば、予算が不足している点です。",
+    "reconstructed": "このプロジェクトのリスクについてあえて言えば予算が不足している点です。",
+    "row": {
+      "Grammar": "あえて",
+      "Usage": "あえてV－ば",
+      "JLPT Level": "N1",
+      "Reference Example": "①反対されるのを承知であえて言えば、こんな計画は百害あって一利なしだ。",
+      "Original Example": "このプロジェクトのリスクについてあえて言えば、予算が不足している点です。",
+      "Prefix": "",
+      "Chunk1": "このプロジェクトの",
+      "Chunk2": "リスクについて",
+      "Chunk3": "あえて言えば",
+      "Chunk4": "予算が",
+      "Suffix": "不足している点です。",
+      "Explanation": "Cụm cụ thể 'あえて言えば' (Nếu buộc phải thẳng thắn mà nói) dùng để đưa ra nhận xét có tính rủi ro hoặc tiêu cực. Cụm 'リスクについて' định hướng chủ đề bổ nghĩa cho việc phát ngôn, và vế sau chỉ ra vấn đề cốt lõi."
+    }
+  },
+  {
+    "file": "D:\\pj\\xx\\ai-gen-quiz\\mondai2_ordering\\csv_filled\\set_3_academic\\part_1.csv",
+    "type": "M2_CHUNK_MISMATCH",
+    "original": "役員からの突然の質問に、新人はすっかり震え上がってしまいました。",
+    "reconstructed": "役員からの質問に新人は震え上がってしまいました。",
+    "row": {
+      "Grammar": "あがる",
+      "Usage": "R－あがる＜極端な程度＞",
+      "JLPT Level": "N2",
+      "Reference Example": "①長い間雨が降らないので、湖も干上がってしまった。",
+      "Original Example": "役員からの突然の質問に、新人はすっかり震え上がってしまいました。",
+      "Prefix": "",
+      "Chunk1": "役員からの",
+      "Chunk2": "質問に",
+      "Chunk3": "新人は",
+      "Chunk4": "震え上がって",
+      "Suffix": "しまいました。",
+      "Explanation": "Cấu trúc 'V-stem + 上がる' ở đây chỉ một trạng thái đạt đến mức độ cực đoan. '震え上がる' nghĩa là run rẩy tột độ vì sợ hãi hoặc căng thẳng. '質問に' đóng vai trò chỉ nguyên nhân tác động lên chủ ngữ '新人は'."
+    }
+  },
+  {
+    "file": "D:\\pj\\xx\\ai-gen-quiz\\mondai2_ordering\\csv_filled\\set_3_academic\\part_1.csv",
+    "type": "M2_CHUNK_MISMATCH",
+    "original": "本日の発言はあくまでも個人の見解であり、会社の公式見解ではありません。",
+    "reconstructed": "本日の発言はあくまでも個人の見解であります。",
+    "row": {
+      "Grammar": "あくまで",
+      "Usage": "あくまで（も）＜主張＞",
+      "JLPT Level": "N1",
+      "Reference Example": "①私が今申し上げたことはあくまでも試案ですので、そのおつもりで。",
+      "Original Example": "本日の発言はあくまでも個人の見解であり、会社の公式見解ではありません。",
+      "Prefix": "",
+      "Chunk1": "本日の",
+      "Chunk2": "発言は",
+      "Chunk3": "あくまでも",
+      "Chunk4": "個人の見解",
+      "Suffix": "であります。",
+      "Explanation": "'あくまでも' ở đây mang ý nghĩa khẳng định hoặc phân trần mang tính độc tôn (chỉ là / thuần túy là). Nó bổ nghĩa cho cụm danh từ '個人の見解' nhằm nhấn mạnh và làm rõ tính chất của '本日の発言は' để tránh hiểu lầm pháp lý trong kinh doanh."
+    }
+  },
+  {
+    "file": "D:\\pj\\xx\\ai-gen-quiz\\mondai2_ordering\\csv_filled\\set_3_academic\\part_1.csv",
+    "type": "M2_CHUNK_MISMATCH",
+    "original": "当社は社員に対して、あくまでもプロフェッショナルな姿勢を求めます。",
+    "reconstructed": "当社は社員に対してあくまでもプロフェッショナルな姿勢を求めます。",
+    "row": {
+      "Grammar": "あくまで",
+      "Usage": "あくまで（も）＜強い程度＞",
+      "JLPT Level": "N1",
+      "Reference Example": "①空はあくまでも青く澄み渡り、砂浜はどこまでも白く続いていた。",
+      "Original Example": "当社は社員に対して、あくまでもプロフェッショナルな姿勢を求めます。",
+      "Prefix": "",
+      "Chunk1": "当社は",
+      "Chunk2": "社員に対して",
+      "Chunk3": "あくまでも",
+      "Chunk4": "プロフェッショナルな",
+      "Suffix": "姿勢を求めます。",
+      "Explanation": "'あくまでも' đóng vai trò là phó từ nhấn mạnh mức độ cao nhất, triệt để (hoàn toàn / tuyệt đối). Nó đứng trước và bổ nghĩa cho tính từ đuôi na 'プロフェッショナルな' nhằm thể hiện tiêu chuẩn khắt khe về thái độ làm việc mà công ty yêu cầu."
+    }
+  },
+  {
+    "file": "D:\\pj\\xx\\ai-gen-quiz\\mondai2_ordering\\csv_filled\\set_3_academic\\part_1.csv",
+    "type": "M2_CHUNK_MISMATCH",
+    "original": "幾度も議論を重ねたあげく、そのプロジェクトは延期となりました。",
+    "reconstructed": "幾度も議論を重ねたあげくそのプロジェクトは延期となりました。",
+    "row": {
+      "Grammar": "あげく",
+      "Usage": "～あげく　Nのあげく　V－たあげく",
+      "JLPT Level": "N2",
+      "Reference Example": "①さんざん悩んだあげく、彼には手紙で謝ることにした。",
+      "Original Example": "幾度も議論を重ねたあげく、そのプロジェクトは延期となりました。",
+      "Prefix": "",
+      "Chunk1": "幾度も",
+      "Chunk2": "議論を",
+      "Chunk3": "重ねたあげく",
+      "Chunk4": "そのプロジェクトは",
+      "Suffix": "延期となりました。",
+      "Explanation": "Cấu trúc 'V-た + あげく' diễn tả kết cục thường là tiêu cực hoặc đáng tiếc sau một quá trình dài nỗ lực hoặc lặp đi lặp lại. Hành động '議論を重ねた' (thảo luận nhiều lần) dẫn tới kết quả không mong muốn là dự án bị trì hoãn."
+    }
+  },
+  {
+    "file": "D:\\pj\\xx\\ai-gen-quiz\\mondai2_ordering\\csv_filled\\set_3_academic\\part_1.csv",
+    "type": "M2_CHUNK_MISMATCH",
+    "original": "新システムはエラーが多発し、あげくの果てには大切なデータが消えてしまいました。",
+    "reconstructed": "新システムはエラーが多発しあげくの果てには大切なデータが消えてしまいました。",
+    "row": {
+      "Grammar": "あげく",
+      "Usage": "あげくのはてに（は）",
+      "JLPT Level": "N1",
+      "Reference Example": "①部長はますます機嫌が悪くなり、あげくの果てには関係ない社員にまでどなり散らすようになった。",
+      "Original Example": "新システムはエラーが多発し、あげくの果てには大切なデータが消えてしまいました。",
+      "Prefix": "",
+      "Chunk1": "新システムは",
+      "Chunk2": "エラーが多発し",
+      "Chunk3": "あげくの果てには",
+      "Chunk4": "大切なデータが",
+      "Suffix": "消えてしまいました。",
+      "Explanation": "Cấu trúc 'あげくの果てには' mang tính chất 'đỉnh điểm của sự tồi tệ' (cuối cùng thì / tệ hơn nữa là). Chuỗi sự kiện tiêu cực 'エラーが多発し' tiến tới kết cục xấu nhất là làm biến mất '大切なデータが'."
+    }
+  },
+  {
+    "file": "D:\\pj\\xx\\ai-gen-quiz\\mondai2_ordering\\csv_filled\\set_3_academic\\part_1.csv",
+    "type": "M2_CHUNK_MISMATCH",
+    "original": "締め切りまでに、素晴らしい企画書を書き上げることができました。",
+    "reconstructed": "締め切りまでに素晴らしい企画書を書き上げることができました。",
+    "row": {
+      "Grammar": "あげる",
+      "Usage": "R－あげる＜完成＞",
+      "JLPT Level": "N3",
+      "Reference Example": "①大事なお客さんが来るので、母は家中をぴかぴかにみがき上げた。",
+      "Original Example": "締め切りまでに、素晴らしい企画書を書き上げることができました。",
+      "Prefix": "",
+      "Chunk1": "締め切りまでに",
+      "Chunk2": "素晴らしい",
+      "Chunk3": "企画書を",
+      "Chunk4": "書き",
+      "Suffix": "上げることができました。",
+      "Explanation": "Cấu trúc 'V-stem + 上げる' thể hiện việc nỗ lực hoàn thành xuất sắc một sản phẩm hoặc công việc đòi hỏi thời gian. '書き上げる' có nghĩa là viết xong toàn bộ một cách chỉnh chu. Cụm '企画書を' làm tân ngữ trực tiếp."
+    }
+  },
+  {
+    "file": "D:\\pj\\xx\\ai-gen-quiz\\mondai2_ordering\\csv_filled\\set_3_academic\\part_1.csv",
+    "type": "M2_CHUNK_MISMATCH",
+    "original": "お客様あってのビジネスですから、感謝の気持ちを忘れてはいけません。",
+    "reconstructed": "お客様あってのビジネスですから感謝の気持ちを忘れてはいけません。",
+    "row": {
+      "Grammar": "あっての",
+      "Usage": "NあってのN",
+      "JLPT Level": "N1",
+      "Reference Example": "①学生あっての大学だ。学生が来なければ、いくらカリキュラムが素晴らしくても意味がない。",
+      "Original Example": "お客様あってのビジネスですから、感謝の気持ちを忘れてはいけません。",
+      "Prefix": "",
+      "Chunk1": "お客様",
+      "Chunk2": "あっての",
+      "Chunk3": "ビジネスですから",
+      "Chunk4": "感謝の",
+      "Suffix": "気持ちを忘れてはいけません。",
+      "Explanation": "Cấu trúc 'N1 あっての N2' nhấn mạnh mối quan hệ nhân quả tuyệt đối: N2 chỉ có thể tồn tại khi có N1 (Có khách hàng mới có kinh doanh). Cụm này đi với từ nối nguyên nhân 'ですから' để dẫn ra lời khuyên ở vế sau."
+    }
+  },
+  {
+    "file": "D:\\pj\\xx\\ai-gen-quiz\\mondai2_ordering\\csv_filled\\set_3_academic\\part_2.csv",
+    "type": "M2_CHUNK_MISMATCH",
+    "original": "今回の新製品発表会には、300人あまりの取引先が集まりました。",
+    "reconstructed": "今回の新製品発表会には、300人あまりの取引先が会場に集まりました。",
+    "row": {
+      "Grammar": "あまり",
+      "Usage": "数量詞＋あまり",
+      "JLPT Level": "N2",
+      "Reference Example": "①その会の出席者は100名あまりだった。",
+      "Original Example": "今回の新製品発表会には、300人あまりの取引先が集まりました。",
+      "Prefix": "今回の新製品発表会には、",
+      "Chunk1": "300人",
+      "Chunk2": "あまりの",
+      "Chunk3": "取引先が",
+      "Chunk4": "会場に",
+      "Suffix": "集まりました。",
+      "Explanation": "Cấu trúc \"Số từ + あまり\" mang ý nghĩa \"hơn một chút\" hoặc \"ngoài (số lượng đó)\". Cụm số từ \"300人\" kết hợp \"あまりの\" đóng vai trò tính từ bổ nghĩa cho danh từ chỉ đối tác kinh doanh \"取引先が\" làm chủ ngữ, thực hiện hành động \"集まりました\" (đã tập hợp) bổ nghĩa bởi trạng ngữ địa điểm \"会場に\"."
+    }
+  },
+  {
+    "file": "D:\\pj\\xx\\ai-gen-quiz\\mondai2_ordering\\csv_filled\\set_3_academic\\part_3.csv",
+    "type": "M2_CHUNK_MISMATCH",
+    "original": "事前の連絡もなしに急に契約を打ち切るなんて、あんまりです。",
+    "reconstructed": "事前の連絡もなしに急に契約を打ち切るなんてあんまりです。",
+    "row": {
+      "Grammar": "あんまり",
+      "Usage": "～なんてあんまりだ",
+      "JLPT Level": "N3",
+      "Reference Example": "①誰も私のことを覚えていてくれなかったなんて、あんまりだ。",
+      "Original Example": "事前の連絡もなしに急に契約を打ち切るなんて、あんまりです。",
+      "Prefix": "事前の連絡もなしに",
+      "Chunk1": "急に",
+      "Chunk2": "契約を",
+      "Chunk3": "打ち切る",
+      "Chunk4": "なんて",
+      "Suffix": "あんまりです。",
+      "Explanation": "Mẫu câu 「～なんてあんまりだ」 dùng để chỉ trích một hành động quá đáng của đối tác. Trình tự từ phó từ trạng thái 「急に」 bổ nghĩa cho cụm động từ 「契約を打ち切る」, tiếp cận trợ từ đưa ra chủ đề bất ngờ 「なんて」 và vị ngữ cảm thán chỉ mức độ tồi tệ 「あんまりです」。"
+    }
+  },
+  {
+    "file": "D:\\pj\\xx\\ai-gen-quiz\\mondai2_ordering\\csv_filled\\set_3_academic\\part_3.csv",
+    "type": "M2_CHUNK_MISMATCH",
+    "original": "この業界では、AIの技術を導入すれば生産性が向上すると言われている。",
+    "reconstructed": "この業界では、AIの技術を導入すれば生産性が向上すると言われています。",
+    "row": {
+      "Grammar": "いう",
+      "Usage": "～といわれている",
+      "JLPT Level": "N3",
+      "Reference Example": "①この泉の水を飲めば若返ると言われている。",
+      "Original Example": "この業界では、AIの技術を導入すれば生産性が向上すると言われている。",
+      "Prefix": "この業界では、",
+      "Chunk1": "AIの技術を",
+      "Chunk2": "導入すれば",
+      "Chunk3": "生産性が向上する",
+      "Chunk4": "と言われて",
+      "Suffix": "います。",
+      "Explanation": "Mẫu câu bị động khách quan chỉ nhận định chung của xã hội/ngành nghề 「～と言われている」. Thứ tự logic: Tân ngữ trực tiếp 「AIの技術を」 kết hợp động từ điều kiện giả định 「導入すれば」, dẫn đến kết quả hiển nhiên 「生産性が向上する」 và kết cấu trích dẫn dư luận rộng rãi 「と言われています」。"
+    }
+  },
+  {
+    "file": "D:\\pj\\xx\\ai-gen-quiz\\mondai2_ordering\\csv_filled\\set_3_academic\\part_5.csv",
+    "type": "M2_CHUNK_MISMATCH",
+    "original": "A社様、いくら急な依頼だといっても、仕様を突然変更するのは困ります。",
+    "reconstructed": "A社様、いくら急な依頼だといっても、仕様を突然変更するのは非常に困ります。",
+    "row": {
+      "Grammar": "いくら",
+      "Usage": "いくら～といっても　いくらNaだといっても　いくらA－いといっても",
+      "JLPT Level": "N3",
+      "Reference Example": "①いくら給料がいいと言っても、残業がそんなに多いのでは就職するのはいやだ。",
+      "Original Example": "A社様、いくら急な依頼だといっても、仕様を突然変更するのは困ります。",
+      "Prefix": "A社様、",
+      "Chunk1": "いくら急な",
+      "Chunk2": "依頼だといっても、",
+      "Chunk3": "仕様を",
+      "Chunk4": "突然変更するのは",
+      "Suffix": "非常に困ります。",
+      "Explanation": "Cấu trúc 'いくら～といっても' nghĩa là 'dù nói là... đi chăng nữa'. Danh từ '依頼' kết hợp với tính từ đuôi na '急な' đi trước cụm 'だといっても'. '仕様を' làm tân ngữ cho cụm danh từ hóa '突然変更するのは' và kết thúc câu bằng từ biểu thị sự khó xử '困ります'."
+    }
+  },
+  {
+    "file": "D:\\pj\\xx\\ai-gen-quiz\\mondai2_ordering\\csv_filled\\set_3_academic\\part_5.csv",
+    "type": "M2_CHUNK_MISMATCH",
+    "original": "現代のビジネスにおいて、個人経営 of 企業はいざしらず、我が社のような大企業はコンプライアンスを徹底せねばならない。",
+    "reconstructed": "現代のビジネスにおいて、個人経営の企業はいざしらず、我が社のような大企業はコンプライアンスを徹底せねばならないと考えております。",
+    "row": {
+      "Grammar": "いざしらず",
+      "Usage": "N　はいざしらず",
+      "JLPT Level": "N1",
+      "Reference Example": "①昔はいざしらず、今は会社を10も持つ大実業家だ。",
+      "Original Example": "現代のビジネスにおいて、個人経営 of 企業はいざしらず、我が社のような大企業はコンプライアンスを徹底せねばならない。",
+      "Prefix": "現代のビジネスにおいて、",
+      "Chunk1": "個人経営の企業は",
+      "Chunk2": "いざしらず、",
+      "Chunk3": "我が社のような大企業は",
+      "Chunk4": "コンプライアンスを徹底せねば",
+      "Suffix": "ならないと考えております。",
+      "Explanation": "Mẫu 'Nはいざしらず' nghĩa là 'N thì không nói làm gì / nếu là N thì còn chấp nhận được chứ...'. '個人経営の企業は' được đưa ra làm đối tượng loại trừ so sánh. '我が社のような大企業は' làm chủ thể chính của vế sau. Cụm 'コンプライアンスを徹底せねばならない' diễn tả nghĩa vụ bắt buộc tuân thủ pháp luật."
+    }
+  },
+  {
+    "file": "D:\\pj\\xx\\ai-gen-quiz\\mondai2_ordering\\csv_filled\\set_3_academic\\part_6.csv",
+    "type": "M2_CHUNK_MISMATCH",
+    "original": "会議に使用する資料は、来週の水曜日以前に提出してください。",
+    "reconstructed": "会議に使用する資料は、来週の水曜日以前に事務局へ提出してください。",
+    "row": {
+      "Grammar": "いぜん2",
+      "Usage": "Nいぜん＜時点＞",
+      "JLPT Level": "N3",
+      "Reference Example": "①彼は予定していたはずの3月31日以前に引っ越してしまったので、連絡がつかない。",
+      "Original Example": "会議に使用する資料は、来週の水曜日以前に提出してください。",
+      "Prefix": "会議に使用する資料は、",
+      "Chunk1": "来週の",
+      "Chunk2": "水曜日以前に",
+      "Chunk3": "事務局へ",
+      "Chunk4": "提出して",
+      "Suffix": "ください。",
+      "Explanation": "Danh từ thời gian '来週の水曜日' kết hợp với '以前に' tạo thành trạng ngữ chỉ hạn định thời gian (trước thứ Tư tuần sau). Cụm này bổ nghĩa cho hành động '提出してください' (xin vui lòng nộp), đi kèm cụm chỉ nơi chốn '事務局へ' để tạo yêu cầu rõ ràng."
+    }
+  },
+  {
+    "file": "D:\\pj\\xx\\ai-gen-quiz\\mondai2_ordering\\csv_filled\\set_3_academic\\part_8.csv",
+    "type": "M2_CHUNK_MISMATCH",
+    "original": "取引先の担当者は怒りで、今にも契約を解除しそうな様子でした。",
+    "reconstructed": "取引先の担当者は怒りで今にも契約を解除しそうな様子でした。",
+    "row": {
+      "Grammar": "いまにも",
+      "Usage": "いまにもV－そうだ",
+      "JLPT Level": "N4",
+      "Reference Example": "①今にも雨が降りそうだ。",
+      "Original Example": "取引先の担当者は怒りで、今にも契約を解除しそうな様子でした。",
+      "Prefix": "取引先の",
+      "Chunk1": "担当者は",
+      "Chunk2": "怒りで",
+      "Chunk3": "今にも契約を",
+      "Chunk4": "解除しそうな",
+      "Suffix": "様子でした。",
+      "Explanation": "\"取引先の\" bổ nghĩa cho chủ ngữ \"担当者は\". \"怒りで\" chỉ nguyên nhân (vì tức giận). Cấu trúc \"今にも～そうだ\" (sắp sửa... đến nơi rồi) thể hiện qua cụm \"今にも契約を解除しそうな\" (có vẻ sắp hủy hợp đồng đến nơi) đóng vai trò làm định ngữ bổ nghĩa cho danh từ kết câu \"様子でした\" (mang dáng vẻ/tình trạng)."
+    }
+  }
+]

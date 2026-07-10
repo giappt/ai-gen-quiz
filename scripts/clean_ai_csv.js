@@ -42,16 +42,13 @@ async function processType(typeFolder) {
   for (const setFolder of sets) {
     const setTemplatesDir = path.join(templatesBase, setFolder);
     const setFilledDir = path.join(filledBase, setFolder);
-    const setCleanedDir = path.join(cleanedBase, setFolder);
-    
-    fs.mkdirSync(setCleanedDir, { recursive: true });
 
     const files = fs.readdirSync(setFilledDir).filter(f => f.endsWith('.csv'));
     
     for (const file of files) {
       const origPath = path.join(setTemplatesDir, file);
       const fillPath = path.join(setFilledDir, file);
-      const cleanPath = path.join(setCleanedDir, file);
+      const cleanPath = fillPath; // Overwrite directly into csv_filled
 
       if (!fs.existsSync(origPath)) {
         console.warn(`Cảnh báo: Không tìm thấy file gốc ${origPath}`);
