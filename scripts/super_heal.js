@@ -173,7 +173,7 @@ async function run() {
   
   let totalM2Fixed = 0;
 
-  const m2Dir = path.join(BASE_DIR, 'mondai2_ordering', 'csv_cleaned');
+  const m2Dir = path.join(BASE_DIR, 'mondai2_ordering', 'csv_filled');
   if (fs.existsSync(m2Dir)) {
     const sets = fs.readdirSync(m2Dir).filter(f => !f.includes('.'));
     for (const set of sets) {

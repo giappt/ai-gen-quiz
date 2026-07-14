@@ -2,5 +2,5 @@
 
 
 --- KẾT LUẬN ---
-Tổng số câu đã check: 4867
+Tổng số câu đã check: 6643
 Tổng số lỗi phát hiện: 0

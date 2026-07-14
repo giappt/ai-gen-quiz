@@ -12,9 +12,13 @@ const BASE_DIR = path.join(__dirname, '..');
 function cleanCell(field) {
   if (!field) return '';
   let cleaned = String(field).trim();
+  // Strip enclosing quotes
   if (cleaned.startsWith('「') && cleaned.endsWith('」')) {
     cleaned = cleaned.slice(1, -1);
   }
+  // Strip stray leading/trailing quotes (often found in Prefix/Suffix)
+  if (cleaned.startsWith('「')) cleaned = cleaned.slice(1).trim();
+  if (cleaned.endsWith('」')) cleaned = cleaned.slice(0, -1).trim();
   return cleaned;
 }
 

@@ -1,0 +1,106 @@
+--- BÁO CÁO REVIEW CHẤT LƯỢNG DỮ LIỆU AI-GEN ---
+
+[M2] File: mondai2/set_3_academic/part_34.csv | Dòng 2
+     -> Ghép câu thất bại! Chunks bị biến tấu so với câu gốc.
+     ->      Gốc : A：本日のプレゼンは成功したでしょうか。B：だといいのですが結果が心配ですね
+     ->      Ghép: 「A：本日のプレゼンは成功したでしょうか。B：だといいのですが結果が心配ですね」
+[M2] File: mondai2/set_3_academic/part_34.csv | Dòng 6
+     -> Ghép câu thất bại! Chunks bị biến tấu so với câu gốc.
+     ->      Gốc : A：競合他社が値下げをしました。B：だとすると我が社も戦略を変更する必要がありますね
+     ->      Ghép: 「A：競合他社が値下げをしました。B：だとすると我が社も戦略を変更する必要がありますね」
+[M2] File: mondai2/set_3_academic/part_34.csv | Dòng 7
+     -> Ghép câu thất bại! Chunks bị biến tấu so với câu gốc.
+     ->      Gốc : A：クライアントは納期が厳しいと言っています。B：だとすれば人員を増やすしかありません
+     ->      Ghép: 「A：クライアントは納期が厳しいと言っています。B：だとすれば人員を増やすしかありません」
+[M2] File: mondai2/set_3_academic/part_34.csv | Dòng 13
+     -> Ghép câu thất bại! Chunks bị biến tấu so với câu gốc.
+     ->      Gốc : A：明朝までにこの大量のエラーを処理しなければなりません。B：それはたまりませんね
+     ->      Ghép: 「A：明朝までにこの大量のエラーを処理しなければなりません。B：それはたまりませんね」
+[M2] File: mondai2/set_3_academic/part_40.csv | Dòng 2
+     -> Ghép câu thất bại! Chunks bị biến tấu so với câu gốc.
+     ->      Gốc : 本日の打ち合わせの資料は、こちらを使っていいですか。
+     ->      Ghép: 「本日の打ち合わせの資料は、こちらを使っていいですか。」
+[M2] File: mondai2/set_3_academic/part_88.csv | Dòng 2
+     -> Ghép câu thất bại! Chunks bị biến tấu so với câu gốc.
+     ->      Gốc : 新しい企画書ですが、部長に早く見てほしいのですが。
+     ->      Ghép: 「新しい企画書ですが、部長に早く見てほしいのですが。」
+[M2] File: mondai2/set_4_literature/part_18.csv | Dòng 2
+     -> Ghép câu thất bại! Chunks bị biến tấu so với câu gốc.
+     ->      Gốc : そんな簡単な真実くらい、わざわざ言葉にせずとも、彼女の澄んだ瞳がすべてを物語っていた
+     ->      Ghép: 「そんな簡単な真実くらい、わざわざ言葉にせずとも、彼女の澄んだ瞳がすべてを物語っていた」
+[M2] File: mondai2/set_4_literature/part_18.csv | Dòng 3
+     -> Ghép câu thất bại! Chunks bị biến tấu so với câu gốc.
+     ->      Gốc : 冷酷な彼が声を詰まらせて涙を流したのは、あの凄惨な事件の遺品を整理した時ぐらいのものだ
+     ->      Ghép: 「冷酷な彼が声を詰まらせて涙を流したのは、あの凄惨な事件の遺品を整理した時ぐらいのものだ」
+[M2] File: mondai2/set_4_literature/part_18.csv | Dòng 4
+     -> Ghép câu thất bại! Chunks bị biến tấu so với câu gốc.
+     ->      Gốc : 不況による部数の低迷、くわえてネットメディアの台頭、地方紙はかつてない苦境に立たされている
+     ->      Ghép: 「不況による部数の低迷、くわえてネットメディアの台頭、地方紙はかつてない苦境に立たされている」
+[M2] File: mondai2/set_4_literature/part_18.csv | Dòng 5
+     -> Ghép câu thất bại! Chunks bị biến tấu so với câu gốc.
+     ->      Gốc : 老作家は寂しげに書斎の窓から暮れなずむ街を見つめていた
+     ->      Ghép: 「老作家は寂しげに書斎の窓から暮れなずむ街を見つめていた」
+[M2] File: mondai2/set_4_literature/part_18.csv | Dòng 6
+     -> Ghép câu thất bại! Chunks bị biến tấu so với câu gốc.
+     ->      Gốc : 綿密な世論調査の結果、新法案に対する国民の強い反発が浮き彫りになった
+     ->      Ghép: 「綿密な世論調査の結果、新法案に対する国民の強い反発が浮き彫りになった」
+[M2] File: mondai2/set_4_literature/part_18.csv | Dòng 7
+     -> Ghép câu thất bại! Chunks bị biến tấu so với câu gốc.
+     ->      Gốc : 容疑者は厳しい取り調べの末に、結局すべての罪を自白することになった
+     ->      Ghép: 「容疑者は厳しい取り調べの末に、結局すべての罪を自白することになった」
+[M2] File: mondai2/set_4_literature/part_18.csv | Dòng 8
+     -> Ghép câu thất bại! Chunks bị biến tấu so với câu gốc.
+     ->      Gốc : あの凄惨な戦場の記憶を、私たちは決して後世に忘れてはならない
+     ->      Ghép: 「あの凄惨な戦場の記憶を、私たちは決して後世に忘れてはならない」
+[M2] File: mondai2/set_4_literature/part_18.csv | Dòng 9
+     -> Ghép câu thất bại! Chunks bị biến tấu so với câu gốc.
+     ->      Gốc : この小説は結末が悲しすぎる。けど、それが人生の真実を描いているとも言える
+     ->      Ghép: 「この小説は結末が悲しすぎる。けど、それが人生の真実を描いているとも言える」
+[M2] File: mondai2/set_4_literature/part_18.csv | Dòng 10
+     -> Ghép câu thất bại! Chunks bị biến tấu so với câu gốc.
+     ->      Gốc : この記事は真実を伝えていると思うけど、少し偏見が混ざっている気もする
+     ->      Ghép: 「この記事は真実を伝えていると思うけど、少し偏見が混ざっている気もする」
+[M2] File: mondai2/set_4_literature/part_18.csv | Dòng 11
+     -> Ghép câu thất bại! Chunks bị biến tấu so với câu gốc.
+     ->      Gốc : 政府は財政再建を公約した。けれど、具体的な増税案は提示しなかった
+     ->      Ghép: 「政府は財政再建を公約した。けれど、具体的な増税案は提示しなかった」
+[M2] File: mondai2/set_4_literature/part_18.csv | Dòng 12
+     -> Ghép câu thất bại! Chunks bị biến tấu so với câu gốc.
+     ->      Gốc : 首相は懸命に記者団の質問に答えたけれど、国民の疑惑を晴らすには至らなかった
+     ->      Ghép: 「首相は懸命に記者団の質問に答えたけれど、国民の疑惑を晴らすには至らなかった」
+[M2] File: mondai2/set_4_literature/part_18.csv | Dòng 13
+     -> Ghép câu thất bại! Chunks bị biến tấu so với câu gốc.
+     ->      Gốc : そのルポルタージュは大きな反響を呼んだ。けれども、被災地の真の救済には繋がらなかった
+     ->      Ghép: 「そのルポルタージュは大きな反響を呼んだ。けれども、被災地の真の救済には繋がらなかった」
+[M2] File: mondai2/set_4_literature/part_18.csv | Dòng 14
+     -> Ghép câu thất bại! Chunks bị biến tấu so với câu gốc.
+     ->      Gốc : 今回の捜査方針には賛同しかねるんですけれども、組織の決定には従わざるを得ない
+     ->      Ghép: 「今回の捜査方針には賛同しかねるんですけれども、組織の決定には従わざるを得ない」
+[M2] File: mondai2/set_4_literature/part_18.csv | Dòng 15
+     -> Ghép câu thất bại! Chunks bị biến tấu so với câu gốc.
+     ->      Gốc : インターネットが社会インフラとなった現在、新聞メディアの果たすべき役割が問い直されている
+     ->      Ghép: 「インターネットが社会インフラとなった現在、新聞メディアの果たすべき役割が問い直されている」
+[M2] File: mondai2/set_4_literature/part_18.csv | Dòng 16
+     -> Ghép câu thất bại! Chunks bị biến tấu so với câu gốc.
+     ->      Gốc : 老刑事は取調室のマジックミラーごしに、無表情な容疑者の様子をじっと観察していた
+     ->      Ghép: 「老刑事は取調室のマジックミラーごしに、無表情な容疑者の様子をじっと観察していた」
+[M2] File: mondai2/set_4_literature/part_18.csv | Dòng 17
+     -> Ghép câu thất bại! Chunks bị biến tấu so với câu gốc.
+     ->      Gốc : 作家は十数年ごしの執筆活動を経て、ついに生涯の傑作となる大河小説を書き上げた
+     ->      Ghép: 「作家は十数年ごしの執筆活動を経て、ついに生涯の傑作となる大河小説を書き上げた」
+[M2] File: mondai2/set_4_literature/part_18.csv | Dòng 18
+     -> Ghép câu thất bại! Chunks bị biến tấu so với câu gốc.
+     ->      Gốc : この混迷を極める現代社会にこそ、文学が持つ想像力の価値が求められている
+     ->      Ghép: 「この混迷を極める現代社会にこそ、文学が持つ想像力の価値が求められている」
+[M2] File: mondai2/set_4_literature/part_18.csv | Dòng 19
+     -> Ghép câu thất bại! Chunks bị biến tấu so với câu gốc.
+     ->      Gốc : 彼の告発は、真実の追求でこそあれ、決して個人的な恨みによるものではない
+     ->      Ghép: 「彼の告発は、真実の追求でこそあれ、決して個人的な恨みによるものではない」
+[M2] File: mondai2/set_4_literature/part_18.csv | Dòng 20
+     -> Ghép câu thất bại! Chunks bị biến tấu so với câu gốc.
+     ->      Gốc : この記事は、文体こそ硬いのだが、事件の本質を見事に穿っている
+     ->      Ghép: 「この記事は、文体こそ硬いのだが、事件の本質を見事に穿っている」
+
+--- KẾT LUẬN ---
+Tổng số câu đã check: 6643
+Tổng số lỗi phát hiện: 100

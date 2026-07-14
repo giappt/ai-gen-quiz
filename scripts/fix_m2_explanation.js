@@ -111,7 +111,7 @@ async function processFile(filePath) {
 async function run() {
   let totalFixed = 0;
   
-  const m2Dir = path.join(BASE_DIR, 'mondai2_ordering', 'csv_cleaned');
+  const m2Dir = path.join(BASE_DIR, 'mondai2_ordering', 'csv_filled');
   if (fs.existsSync(m2Dir)) {
     const sets = fs.readdirSync(m2Dir).filter(f => !f.includes('.'));
     for (const set of sets) {

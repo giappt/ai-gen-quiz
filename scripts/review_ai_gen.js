@@ -31,7 +31,7 @@ async function validateM1(filePath, relativePath) {
     const lineNum = index + 2; // +1 for header, +1 for 0-index
     // Skip empty rows (unfilled)
     if (!row['Original Example'] || !row['Blanked Example']) return;
-    
+
     totalChecked++;
     let hasError = false;
     let errorMsgs = [];
@@ -54,14 +54,14 @@ async function validateM1(filePath, relativePath) {
     for (const opt of validAnswers) {
       const optText = row[`Option ${opt}`];
       const optExpl = row[`Explanation ${opt}`];
-      
+
       if (optText) {
         if (options.includes(optText)) {
           hasError = true;
           errorMsgs.push(`Đáp án trùng lặp phát hiện: "${optText}" ở Option ${opt}.`);
         }
         options.push(optText);
-        
+
         if (!optExpl || optExpl.length < 20) {
           hasError = true;
           errorMsgs.push(`Giải thích cho Option ${opt} quá ngắn hoặc trống (< 20 ký tự).`);
@@ -120,7 +120,7 @@ async function validateM2(filePath, relativePath) {
       const reconstructed = prefix + c1 + c2 + c3 + c4 + suffix;
       // Normalize to avoid whitespace/width issues (optional, but good for robust testing)
       const normalize = (str) => str.replace(/\s+/g, '').replace(/。/g, '');
-      
+
       if (normalize(reconstructed) !== normalize(original)) {
         hasError = true;
         errorMsgs.push(`Ghép câu thất bại! Chunks bị biến tấu so với câu gốc.`);
@@ -149,7 +149,7 @@ function readCSV(filePath) {
 
 async function run() {
   console.log("Bắt đầu quét Validate dữ liệu AI-Gen...");
-  
+
   const m1Dir = path.join(BASE_DIR, 'mondai1_fill_blank', 'csv_filled');
   const m2Dir = path.join(BASE_DIR, 'mondai2_ordering', 'csv_filled');
 
