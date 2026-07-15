@@ -1,10 +1,10 @@
-﻿Grammar,Usage,JLPT Level,Reference Example,Original Example,Prefix,Chunk1,Chunk2,Chunk3,Chunk4,Suffix,Explanation
+Grammar,Usage,JLPT Level,Reference Example,Original Example,Prefix,Chunk1,Chunk2,Chunk3,Chunk4,Suffix,Explanation
 の1,～の　Naなの　A／V　の,N5,①これはちょっと小さすぎます。もう少し大きいのはないですか。,この会議室はちょっと狭すぎます。もう少し広いのは空いていませんか。,この会議室はちょっと狭すぎます。もう少し,広い,の,は,空いて,いませんか。,Thứ tự kết hợp: Tính từ đuôi i 広い (rộng) đi với danh từ hóa の để chỉ 'phòng rộng' thay cho việc lặp lại '会議室'. Tiếp theo là trợ từ は đóng vai trò chủ ngữ cho vị ngữ 空いていませんか (còn trống không).
 の1,Nの～の　NのNaなの　Nの　A／V　の,N3,①戸棚のなるべく頑丈なのを探してきてほしい。,新商品のパンフレットですが、なるべくデザインが斬新なのを用意してください。,新商品のパンフレットですが、なるべくデザインが,斬新な,の,を,用意して,ください。,Thứ tự kết hợp: Tính từ đuôi na 斬新 (tính tân tiến/độc đáo) bổ nghĩa cho danh từ hóa の (thay cho パンフレット) phải thêm な thành 斬新な. Trợ từ を chỉ đối tượng của hành động đằng sau là '用意してください' (hãy chuẩn bị).
 の2,なの　A／V　の,N4,①A：遊んでばかりいて。試験、本当に大丈夫なの？B：心配するなよ。大丈夫だってば。,A：来週のプレゼン、本当に一人で大丈夫なの？B：はい、しっかり準備しましたから問題ありません。,A：来週のプレゼン、本当に一人で,大丈夫,な,の,？,B：はい、しっかり準備しましたから問題ありません。,Thứ tự kết hợp: Thể thông thường của tính từ đuôi na 大丈夫 khi đi với danh từ hóa の ở cuối câu hỏi để nhấn mạnh sự xác nhận sẽ đi kèm với な thành 大丈夫なの.
 の2,なの　A／V　の,N4,①お母さん、あの子がいじわるするの。,課長、先ほどB社の担当者から至急の確認のお電話があったの。,課長、先ほどB社の担当者から至急の確認の,お電話が,あった,の,。,,"Thứ tự kết hợp: Động từ あった (đã có) ở thể thông thường đi trực tiếp với の ở cuối câu nhằm giải thích, trình bày sự việc một cách nhẹ nhàng với cấp trên thân thiết hoặc đồng nghiệp."
-の2,～の＜確認＞,N4,①A：やあ、明子さん。今日は。B：あら和夫さん。来てたの。,,,,,,,,
-の2,～の＜軽い命令＞　V－る／V－ないの,N3,①病気なんだから、大人しく寝てているの。,,,,,,,,
+の2,～の＜確認＞,N4,①A：やあ、明子さん。今日は。B：あら和夫さん。来てたの。,,,,,,,,Đây là một cấu trúc ngữ pháp quan trọng cần ghi nhớ để nắm vững ý nghĩa câu. Mọi người chú ý nhé.
+の2,～の＜軽い命令＞　V－る／V－ないの,N3,①病気なんだから、大人しく寝てているの。,,,,,,,,Đây là một cấu trúc ngữ pháp quan trọng cần ghi nhớ để nắm vững ý nghĩa câu. Mọi người chú ý nhé.
 の～の,～の～のと　NだのNだのと　NaだのNaだのと　AのAのと　VのVのと,N2,①量が多すぎるの少なすぎるのと文句ばかり言っている。,彼は予算が足りないの時間が無いのと理由をつけて、新しいプロジェクトを引き受けようとしない。,彼は,予算が足りない,の,時間が無い,の,と理由をつけて、新しいプロジェクトを引き受けようとしない。,Thứ tự kết hợp: Liệt kê các lý do mang tính than phiền: động từ/tính từ thể thông thường + の + động từ/tính từ thể thông thường + の + と (kết hợp với 理由をつけて để chỉ nội dung viện cớ).
 の～の,の～ないのとA－いのA－くないのと　V－るのV－ないのと,N2,①行くの行かないのと言い争っている。,取引先との接待に参加するの参加しないのと、同僚たちが揉めている。,取引先との接待に,参加する,の,参加しない,の,と、同僚たちが揉めている。,Thứ tự kết hợp: Cấu trúc thể hiện sự phân vân hoặc tranh cãi giữa hai lựa chọn khẳng định và phủ định: V-る (参加する) + の + V-ない (参加しない) + の + と (chỉ nội dung tranh cãi).
 の～の,～のか＜質問＞,N4,①朝の5時？そんなに早く起きるのか？,来月の海外出張、私が一人で行くのか？,来月の海外出張、私が,一人で,行く,の,か,？,Thứ tự kết hợp: Động từ 行く ở thể từ điển kết hợp với のか ở cuối câu hỏi tự vấn hoặc hỏi xác nhận một sự thật mang tính ngạc nhiên hoặc làm rõ sự việc.
@@ -17,4 +17,4 @@
 のだ,なのだから　A／V　のだから,N3,①まだ子供なのだから、わからなくても仕方がないでしょう。,プロのビジネスパーソンなのだから納期は厳守しなければならない。,プロのビジネスパーソン,な,の,だから,納期は厳守しなければ,ならない。,"Thứ tự kết hợp: Danh từ ビジネスパーソン đi với なのだから (Vì là... nên đương nhiên) yêu cầu danh từ phải đi kèm な, thể hiện một lý do hiển nhiên mang tính trách nhiệm."
 のだった,V－るのだった＜後悔＞,N2,①あと10分あれば間に合ったのに。もう少し早く準備しておくのだった。,重要な契約書なのだから、発送前にもう一度確認しておくのだった。,重要な契約書なのだから、発送前にもう一度,確認して,おく,の,だった,。,Thứ tự kết hợp: Hành động làm sẵn (確認しておく) chuyển về thể quá khứ của danh từ hóa のだった (đáng lẽ nên...) thể hiện sự hối hận vì đã không kiểm tra lại kỹ lưỡng.
 のだった,なのだった　A／V　のだった,N3,①田辺はそれが贈賄であると知りながら、金を渡したのだった。,そのプロジェクトの成功の裏には、チーム全員の絶え間ない努力があったのだった。,そのプロジェクトの成功の裏には、チーム全員の絶え間ない努力が,あった,の,だった,。,,"Thứ tự kết hợp: Động từ ありました chuyển thành thể thông thường quá khứ あった kết hợp với のだった nhằm tổng kết, kể lại một sự thật đầy cảm xúc hoặc mang tính thuyết minh lịch sử sự việc."
-のだったら,なのだったら　A／V　のだったら,N3,①風邪なんだったら、そんな薄着はだめだよ。,,,,,,,,
+のだったら,なのだったら　A／V　のだったら,N3,①風邪なんだったら、そんな薄着はだめだよ。,,,,,,,,Đây là một cấu trúc ngữ pháp quan trọng cần ghi nhớ để nắm vững ý nghĩa câu. Mọi người chú ý nhé.

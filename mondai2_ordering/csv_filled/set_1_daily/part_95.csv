@@ -1,4 +1,4 @@
-﻿Grammar,Usage,JLPT Level,Reference Example,Original Example,Prefix,Chunk1,Chunk2,Chunk3,Chunk4,Suffix,Explanation
+Grammar,Usage,JLPT Level,Reference Example,Original Example,Prefix,Chunk1,Chunk2,Chunk3,Chunk4,Suffix,Explanation
 も,Nも,N5,①A二なんだか、すごく疲れました。B：ええ、私もです。,A：このカフェのケーキ、美味しいですね。B：ええ、コーヒーも美味しいですよ。,A：このカフェのケーキ、美味しいですね。B：ええ、,コーヒー,も,美味しい,です,よ。,Kết hợp danh từ コーヒー với trợ từ も để chỉ sự tương tự (cà phê cũng ngon) theo sau là tính từ và đuôi câu khẳng định.
 も,NもNも,N5,①セルソさんもイサベラさんもペルーの人です。,私の家では犬も猫も飼っています。,私の家では,犬も,猫も,飼って,いま,す。,Cấu trúc NもNも dùng để liệt kê song song cả hai đối tượng danh từ (chó và mèo) cùng tham gia vào hành động.
 も,～も～も～ない　NもNも～ない　NaもNaもない　A－くもA－くもない　R－もR－もしない,N4,①寒くも暑くもなく、ちょうどいい気候だ。,この服は高くも安くもないです。,この服は,高くも,安くも,ない,です,。,Sử dụng dạng phủ định song song A-くもA-くもない để biểu thị trạng thái trung lập (không đắt cũng không rẻ).
@@ -11,11 +11,11 @@
 も,最小限の数量＋も～ない,N4,①客はひとりも来なかった。,冷蔵庫に卵が一個もないから買い物に行こう。,冷蔵庫に卵が,一個,も,ないから,買い物に,行こう。,Sử dụng đơn vị số lượng nhỏ nhất một cái (一個) đi kèm も và phủ định để nhấn mạnh sự hoàn toàn trống rỗng trong tủ lạnh.
 も,数量詞＋も　～ば／～たら,N4,①この仕事なら、三日もあれば充分だ。,この掃除なら、10分もあれば終わりますよ。,この掃除なら、,10分,も,あれば,終わり,ますよ。,Mẫu Số từ + も + あれば diễn tả điều kiện tối thiểu chỉ cần khoảng thời gian ngắn đó là có thể giải quyết xong xuôi.
 も,数量詞＋も～か,N3,①事故にあってから、救出されるまで1時間もあったでしょうか、夢中だったのでよくわかりません。,あのレストランの列は、30分もあったでしょうか、すごく長かったです。,あのレストランの列は、,30分,もあった,でしょうか、,すごく,長かったです。,Cấu trúc biểu thị sự ước lượng kèm theo cảm thán mang tính nhấn mạnh về độ dài thời gian chờ đợi xếp hàng.
-も,疑問詞＋（助詞）＋も,N4,①山田さんはいつも本を読んでいる。,このスーパーの野菜 là、どれも新鮮で安いですね。,このスーパーの野菜 là、,どれ,も,新鮮で,安い,ですね。,Nghi vấn từ どれ đứng trước trợ từ も tạo nghĩa toàn thể mang tính khẳng định (bất cứ cái nào cũng tươi ngon).
+も,疑問詞＋（助詞）＋も,N4,①山田さんはいつも本を読んでいる。,このスーパーの野菜は、どれも新鮮で安いですね。,このスーパーの野菜は、,どれ,も,新鮮で,安い,ですね。,Nghi vấn từ どれ đứng trước trợ từ も tạo nghĩa toàn thể mang tính khẳng định (bất cứ cái nào cũng tươi ngon).
 も,なん＋助数詞＋も,N4,①タイには何人も友だちがいる。,今日は母から何度も電話がかかってきました。,今日は母から,何度,も,電話が,かかって,きました。,Cấu trúc 何度も đứng trước cụm động từ thể hiện tần suất hành động lặp đi lặp lại rất nhiều lần trong sinh hoạt.
 も,なん＋助数詞＋も～ない,N3,①この問題が解ける人は何人もいないでしょう。,その限定スニーカーを買えた人は何人もいないはずだ。,その限定スニーカーを,買えた人は,何人も,いない,はず,だ。,Diễn tả số lượng người đạt được mục đích mua đồ giới hạn là vô cùng hiếm hoi thông qua cụm 何人もいない.
 も,Nも＜提題＞,N3,①秋も深まって、紅葉が美しい。,（なし）夜も更けて、そろそろ寝る時間ですね。,（なし）,夜も,更けて、,そろそろ,寝る,時間ですね。,Trợ từ も đóng vai trò đưa ra chủ đề thời gian biểu thị sự chuyển dịch tự nhiên của buổi đêm trong cuộc sống.
 も,NもN　＜強調＞,N2,①あいつは、うそつきもうそつき、大うそつきだ。,うちの弟は、頑固も頑固、絶対に謝らない。,うちの弟は、,頑固も,頑固、,絶対に,謝ら,ない。,Lặp lại danh từ danh từ hóa tính từ đuôi na dạng NもN nhằm nhấn mạnh mức độ bướng bỉnh cực độ của đối tượng.
 も,NもNなら　NもNだが,N1,①親も親なら子も子だね。,（なし）兄も兄なら弟も弟で、毎日喧嘩ばかりしている。,（なし）,兄も兄なら,弟も弟で、,毎日,喧嘩ばかり,している。,Thành ngữ phê phán mang tính song hành NもNなら NもNで chỉ cả hai anh em đều có chung tật xấu cư xử tệ.
-も,～もあり～もある　NでもありNでもある　NaでもありNaでもある　A－くもありA－くもある,N2,①彼はこの会社の創始者でもあり、今の社長でもある。,このスマホは便利でもあり不便でもあると言えます。,このスマホは,便利でもあり,不便,でもある,と,言えます。,Biến đổi tính từ đuôi na thành でもあり để liệt kê hai đặc tính đối lập cùng tồn tại song song trong một thiết bị.
+も,～もあり～もある　NでもありNでもある　NaでもありNaでもある　A－くもありA－くもある,N2,①彼はこの会社の創始者でもあり、今の社長でもある。,このスマホは便利でもあり不便でもあると言えます。,このスマホは,便利でもあり,不便,でもある,と,言えます。,Biến đổi tính từ đuôi na thành đềあり để liệt kê hai đặc tính đối lập cùng tồn tại song song trong một thiết bị.
 も,～もあれば～もある　NもあればNもある　VこともあればVこともある,N3,①起きる時間は決まっていない。早く起きることもあれば遅く起きることもある。,（なし）自炊をすることもあれば外食することもあります。,（なし）,自炊を,することもあれば,外食する,ことも,あります。,Mẫu V-ることもあればV-ることもある dùng để liệt kê các thói quen sinh hoạt thay đổi linh hoạt tùy từng lúc.
