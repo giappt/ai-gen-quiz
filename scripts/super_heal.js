@@ -8,10 +8,16 @@ const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 const BASE_DIR = path.join(__dirname, '..');
 
-const errorLogPath = path.join(BASE_DIR, 'validation_reports', 'error_log.json');
-const remainingErrors = [];
+const vietnameseRegex = /[àáảãạăằắẳẵặâầấẩẫậèéẻẽẹêềếểễệìíỉĩịòóỏõọôồốổỗộơờớởỡợùúủũụưừứửữựỳýỷỹỵđ]/i;
 
-async function processFile(filePath) {
+// Phép kiểm tra: Chuỗi có phải là tiếng Nhật sạch (chỉ bao gồm ASCII, Punctuation Nhật, Hiragana, Katakana, Kanji, Full-width)
+// Không chứa các ký tự có dấu của tiếng Việt hay các ký tự lạ khác.
+const isCleanJapanese = (str) => {
+    if (!str) return false;
+    return /^[\x20-\x7E\u3000-\u303F\u3040-\u309F\u30A0-\u30FF\u4E00-\u9FAF\uFF00-\uFFEF]+$/.test(str);
+};
+
+async function processFile(filePath, isM1) {
   const rows = await new Promise((resolve, reject) => {
     const results = [];
     fs.createReadStream(filePath)
@@ -21,142 +27,89 @@ async function processFile(filePath) {
       .on('error', reject);
   });
 
-  if (rows.length === 0) return { fixed: 0, total: 0 };
+  if (rows.length === 0) return { mismatchFixed: 0, explanationFlagged: 0, chunkFlagged: 0 };
 
-  let fixedCount = 0;
+  let mismatchFixed = 0;
+  let explanationFlagged = 0;
+  let chunkFlagged = 0;
+  let hasChanges = false;
   let headers = Object.keys(rows[0]);
 
   rows.forEach(row => {
-    let original = (row['Original Example'] || '').trim();
-    if (!original) return;
-    
-    let isFixed = false;
+    if (!row['Original Example']) return; // Skip empty rows
 
-    let p = (row['Prefix'] || '');
-    let c1 = (row['Chunk1'] || '');
-    let c2 = (row['Chunk2'] || '');
-    let c3 = (row['Chunk3'] || '');
-    let c4 = (row['Chunk4'] || '');
-    let s = (row['Suffix'] || '');
-    
-    let currentReconstructed = p + c1 + c2 + c3 + c4 + s;
-
-    if (currentReconstructed !== original) {
-      // Heuristic 1: Chunk1 contains "」「"
-      if (c1.includes('」「')) {
-        let parts = c1.split('」「');
-        if (parts.length === 4) {
-          row['Chunk1'] = parts[0];
-          row['Chunk2'] = parts[1];
-          row['Chunk3'] = parts[2];
-          row['Chunk4'] = parts[3];
-          if (c2 && !s) {
-            row['Suffix'] = c2;
-          } else if (c2) {
-             row['Suffix'] = c2 + s;
+    if (isM1) {
+      // Check Explanations for M1
+      const validAnswers = ['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H'];
+      for (const opt of validAnswers) {
+        if (row[`Option ${opt}`]) {
+          const optExpl = row[`Explanation ${opt}`] || '';
+          if (!optExpl.includes('[CẦN FIX GIẢI THÍCH]')) {
+              if (optExpl.length < 20 || !vietnameseRegex.test(optExpl)) {
+                  row[`Explanation ${opt}`] = optExpl + (optExpl.length > 0 ? ' ' : '') + '[CẦN FIX GIẢI THÍCH]';
+                  explanationFlagged++;
+                  hasChanges = true;
+              }
           }
-          if (c3 && !row['Explanation']) {
-            row['Explanation'] = c3;
+        }
+      }
+    } else {
+      // M2 Checks
+      // 1. Missing chunks
+      const reqChunks = ['Chunk1', 'Chunk2', 'Chunk3', 'Chunk4'];
+      let missingChunk = false;
+      for (const ch of reqChunks) {
+          if (!row[ch]) {
+              row[ch] = '[CẦN FIX]';
+              missingChunk = true;
+              chunkFlagged++;
+              hasChanges = true;
           }
-          isFixed = true;
-        }
       }
 
-      // Re-evaluate after Heuristic 1
-      if (isFixed) {
-         p = (row['Prefix'] || '');
-         c1 = (row['Chunk1'] || '');
-         c2 = (row['Chunk2'] || '');
-         c3 = (row['Chunk3'] || '');
-         c4 = (row['Chunk4'] || '');
-         s = (row['Suffix'] || '');
-         currentReconstructed = p + c1 + c2 + c3 + c4 + s;
+      // 2. Explanation check
+      const expl = row['Explanation'] || '';
+      if (!expl.includes('[CẦN FIX GIẢI THÍCH]')) {
+          if (expl.length < 40 || !vietnameseRegex.test(expl)) {
+              row['Explanation'] = expl + (expl.length > 0 ? ' ' : '') + '[CẦN FIX GIẢI THÍCH]';
+              explanationFlagged++;
+              hasChanges = true;
+          }
       }
 
-      if (currentReconstructed !== original) {
-        // Heuristic 2: Original Example is junk
-        if (original === 'base_text' || original.startsWith('original table row') || original.startsWith('original row')) {
-          row['Original Example'] = currentReconstructed;
-          isFixed = true;
-          original = currentReconstructed;
-        }
-        
-        // Heuristic 3: Furigana in original
-        if (!isFixed && original.replace(/（.*?）/g, '') === currentReconstructed) {
-          row['Original Example'] = currentReconstructed;
-          isFixed = true;
-          original = currentReconstructed;
-        }
-
-        // Heuristic 4: "của" typo
-        if (!isFixed && original.replace(/ của /g, 'の') === currentReconstructed) {
-          row['Original Example'] = currentReconstructed;
-          isFixed = true;
-          original = currentReconstructed;
-        }
-
-        // Heuristic 5: missing period in reconstructed
-        if (!isFixed && currentReconstructed + '。' === original) {
-          row['Suffix'] = s + '。';
-          isFixed = true;
-          currentReconstructed = p + c1 + c2 + c3 + c4 + row['Suffix'];
-        }
-        // missing period in reconstructed but original has it with quotes?
-        if (!isFixed && currentReconstructed + '。' === original.replace(/"/g, '')) {
-           row['Suffix'] = s + '。';
-           row['Original Example'] = original.replace(/"/g, '');
-           isFixed = true;
-           original = row['Original Example'];
-           currentReconstructed = p + c1 + c2 + c3 + c4 + row['Suffix'];
-        }
-
-        // Heuristic 6: comma difference
-        if (!isFixed && currentReconstructed.replace(/,/g, '、') === original) {
-          if (p.includes(',')) row['Prefix'] = p.replace(/,/g, '、');
-          if (c1.includes(',')) row['Chunk1'] = c1.replace(/,/g, '、');
-          if (c2.includes(',')) row['Chunk2'] = c2.replace(/,/g, '、');
-          if (c3.includes(',')) row['Chunk3'] = c3.replace(/,/g, '、');
-          if (c4.includes(',')) row['Chunk4'] = c4.replace(/,/g, '、');
-          if (s.includes(',')) row['Suffix'] = s.replace(/,/g, '、');
-          isFixed = true;
-          p = (row['Prefix'] || ''); c1 = (row['Chunk1'] || ''); c2 = (row['Chunk2'] || ''); c3 = (row['Chunk3'] || ''); c4 = (row['Chunk4'] || ''); s = (row['Suffix'] || '');
-          currentReconstructed = p + c1 + c2 + c3 + c4 + s;
-        }
-
-        // Heuristic 7: missing "都会の" or similar small prefix discrepancy, wait let's just use remove spaces check
-        if (!isFixed && currentReconstructed.replace(/\s+/g, '') === original.replace(/\s+/g, '')) {
-          row['Original Example'] = currentReconstructed;
-          isFixed = true;
-          original = currentReconstructed;
-        }
-        
-        // Heuristic 8: ' ' instead of '、' or vice versa
-        if (!isFixed && currentReconstructed.replace(/[、\s]/g, '') === original.replace(/[、\s]/g, '')) {
-          row['Original Example'] = currentReconstructed;
-          isFixed = true;
-          original = currentReconstructed;
-        }
-      }
-
-      if (currentReconstructed !== original && !isFixed) {
-        remainingErrors.push({
-          file: filePath,
-          type: 'M2_CHUNK_MISMATCH',
-          original: original,
-          reconstructed: currentReconstructed,
-          row: row
-        });
+      // 3. Chunk mismatch
+      if (!missingChunk && row['Chunk1']) {
+          const original = (row['Original Example'] || '').trim();
+          const prefix = (row['Prefix'] || '');
+          const c1 = (row['Chunk1'] || '');
+          const c2 = (row['Chunk2'] || '');
+          const c3 = (row['Chunk3'] || '');
+          const c4 = (row['Chunk4'] || '');
+          const suffix = (row['Suffix'] || '');
+          
+          const reconstructed = prefix + c1 + c2 + c3 + c4 + suffix;
+          
+          if (reconstructed !== original) {
+              const normalize = (str) => str.replace(/\s+/g, '').replace(/。/g, '');
+              if (normalize(reconstructed) !== normalize(original)) {
+                  // Mismatch found. Apply heuristic:
+                  if (isCleanJapanese(reconstructed) && !original.includes('[CẦN FIX')) {
+                      row['Original Example'] = reconstructed;
+                      mismatchFixed++;
+                      hasChanges = true;
+                  }
+              }
+          }
       }
     }
-    
-    if (isFixed) fixedCount++;
   });
 
-  if (fixedCount > 0) {
+  if (hasChanges) {
     const csvWriter = createObjectCsvWriter({
       path: filePath,
       header: headers.map(h => ({ id: h, title: h }))
     });
+    // Ensure we don't write undefined as string
     rows.forEach(r => {
       headers.forEach(h => {
         if (r[h] === undefined) r[h] = '';
@@ -165,13 +118,29 @@ async function processFile(filePath) {
     await csvWriter.writeRecords(rows);
   }
   
-  return { fixed: fixedCount, total: rows.length };
+  return { mismatchFixed, explanationFlagged, chunkFlagged };
 }
 
 async function run() {
-  console.log("Bắt đầu Super Heal...");
+  console.log("Bắt đầu thực thi Super Heal (Heuristic Auto-Fix)...");
   
-  let totalM2Fixed = 0;
+  let totalMismatchFixed = 0;
+  let totalExplanationFlagged = 0;
+  let totalChunkFlagged = 0;
+
+  const m1Dir = path.join(BASE_DIR, 'mondai1_fill_blank', 'csv_filled');
+  if (fs.existsSync(m1Dir)) {
+    const sets = fs.readdirSync(m1Dir).filter(f => !f.includes('.'));
+    for (const set of sets) {
+      const files = fs.readdirSync(path.join(m1Dir, set)).filter(f => f.endsWith('.csv'));
+      for (const file of files) {
+        const stats = await processFile(path.join(m1Dir, set, file), true);
+        totalMismatchFixed += stats.mismatchFixed;
+        totalExplanationFlagged += stats.explanationFlagged;
+        totalChunkFlagged += stats.chunkFlagged;
+      }
+    }
+  }
 
   const m2Dir = path.join(BASE_DIR, 'mondai2_ordering', 'csv_filled');
   if (fs.existsSync(m2Dir)) {
@@ -179,20 +148,19 @@ async function run() {
     for (const set of sets) {
       const files = fs.readdirSync(path.join(m2Dir, set)).filter(f => f.endsWith('.csv'));
       for (const file of files) {
-        const stats = await processFile(path.join(m2Dir, set, file));
-        totalM2Fixed += stats.fixed;
+        const stats = await processFile(path.join(m2Dir, set, file), false);
+        totalMismatchFixed += stats.mismatchFixed;
+        totalExplanationFlagged += stats.explanationFlagged;
+        totalChunkFlagged += stats.chunkFlagged;
       }
     }
   }
 
-  const reportsDir = path.join(BASE_DIR, 'validation_reports');
-  if (!fs.existsSync(reportsDir)) {
-      fs.mkdirSync(reportsDir, { recursive: true });
-  }
-  fs.writeFileSync(errorLogPath, JSON.stringify(remainingErrors, null, 2), 'utf8');
-
-  console.log(`Đã vá tự động ${totalM2Fixed} lỗi của Mondai 2.`);
-  console.log(`Còn lại ${remainingErrors.length} lỗi không thể tự vá. Đã ghi đè vào: ${errorLogPath}`);
+  console.log(`\nHoàn tất Super Heal!`);
+  console.log(`- Đã vá tự động (ghi đè Original bằng Reconstructed) ${totalMismatchFixed} lỗi Mismatch.`);
+  console.log(`- Đã đánh dấu [CẦN FIX GIẢI THÍCH] cho ${totalExplanationFlagged} lỗi giải thích.`);
+  console.log(`- Đã đánh dấu [CẦN FIX] cho ${totalChunkFlagged} lỗi thiếu Chunk.`);
+  console.log(`\nSếp hãy chạy lại 'npm run review' để xem còn sót bao nhiêu lỗi nhé!`);
 }
 
 run().catch(console.error);

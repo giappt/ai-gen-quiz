@@ -1,6 +1,7 @@
 import fs from 'fs';
 import path from 'path';
 import { fileURLToPath } from 'url';
+import readline from 'readline';
 import csvParser from 'csv-parser';
 import { createObjectCsvWriter } from 'csv-writer';
 
@@ -10,6 +11,51 @@ const BASE_DIR = path.join(__dirname, '..');
 
 const errorLogPath = path.join(BASE_DIR, 'validation_reports', 'error_log.json');
 const allErrors = [];
+
+const rl = readline.createInterface({
+    input: process.stdin,
+    output: process.stdout
+});
+
+function askQuestion(query) {
+    return new Promise(resolve => rl.question(query, resolve));
+}
+
+async function updateCsvRow(filePath, originalExample, rowDataToUpdate) {
+    const rows = await new Promise((resolve, reject) => {
+        const results = [];
+        fs.createReadStream(filePath)
+            .pipe(csvParser({ mapHeaders: ({ header }) => header.trim().replace(/^\uFEFF/, '') }))
+            .on('data', (data) => results.push(data))
+            .on('end', () => resolve(results))
+            .on('error', reject);
+    });
+
+    if (rows.length === 0) return;
+
+    let headers = Object.keys(rows[0]);
+    let updated = false;
+    for (let r of rows) {
+        if (r['Original Example'] === originalExample) {
+            Object.assign(r, rowDataToUpdate);
+            updated = true;
+            break;
+        }
+    }
+
+    if (updated) {
+        const csvWriter = createObjectCsvWriter({
+            path: filePath,
+            header: headers.map(h => ({ id: h, title: h }))
+        });
+        rows.forEach(r => {
+            headers.forEach(h => {
+                if (r[h] === undefined) r[h] = '';
+            });
+        });
+        await csvWriter.writeRecords(rows);
+    }
+}
 
 async function processFile(filePath, isM1) {
   const rows = await new Promise((resolve, reject) => {
@@ -160,11 +206,75 @@ async function run() {
   }
   fs.writeFileSync(errorLogPath, JSON.stringify(allErrors, null, 2), 'utf8');
 
-  console.log(`Hoàn tất vá lỗi!`);
+  console.log(`Hoàn tất vá lỗi tự động!`);
   console.log(`Đã vá tự động ${totalM1Fixed} lỗi của Mondai 1.`);
   console.log(`Đã vá tự động ${totalM2Fixed} lỗi của Mondai 2.`);
-  console.log(`Đã tìm thấy ${allErrors.length} lỗi không thể tự vá. Đã ghi vào: ${errorLogPath}`);
-  console.log("Sếp hãy kiểm tra error_log.json để sửa tay hoặc dùng AI sửa các dòng này nhé!");
+  
+  if (allErrors.length > 0) {
+      console.log(`\nĐã tìm thấy ${allErrors.length} lỗi không thể tự vá.`);
+      const answer = await askQuestion('Bạn có muốn mở CÔNG CỤ REVIEW TƯƠNG TÁC để sửa thủ công ngay bây giờ không? (y/n) [Mặc định: y]: ');
+      
+      if (answer.toLowerCase() === 'y' || answer.trim() === '') {
+          console.log(`\n=== CÔNG CỤ REVIEW LỖI CHUNK TƯƠNG TÁC ===\n`);
+          let interactiveFixedCount = 0;
+
+          for (let i = 0; i < allErrors.length; i++) {
+              const err = allErrors[i];
+              console.log(`\n[Lỗi ${i + 1}/${allErrors.length}] File: ${path.basename(err.file)}`);
+              console.log(`\x1b[31mOriginal     :\x1b[0m ${err.original}`);
+              console.log(`\x1b[32mReconstructed:\x1b[0m ${err.reconstructed}`);
+              console.log(`Chunks hiện tại:`);
+              console.log(`  Prefix: [${err.row.Prefix}]`);
+              console.log(`  C1: [${err.row.Chunk1}], C2: [${err.row.Chunk2}], C3: [${err.row.Chunk3}], C4: [${err.row.Chunk4}]`);
+              console.log(`  Suffix: [${err.row.Suffix}]`);
+              
+              console.log(`\nChọn hành động:`);
+              console.log(`  1. Ghi đè Original bằng Reconstructed (Original <- Reconstructed)`);
+              console.log(`  2. Tự gõ lại câu Original đúng`);
+              console.log(`  3. Bỏ qua (Skip)`);
+              console.log(`  4. Thoát công cụ (Thoát)`);
+
+              let choice = '';
+              while (!['1', '2', '3', '4'].includes(choice)) {
+                  choice = await askQuestion("Lựa chọn của bạn (1/2/3/4) [Mặc định: 1]: ");
+                  if (choice === '') choice = '1';
+              }
+
+              if (choice === '4') {
+                  console.log("Đã thoát công cụ.");
+                  break;
+              }
+
+              if (choice === '3') {
+                  console.log("Đã bỏ qua.");
+                  continue;
+              }
+
+              if (choice === '1') {
+                  console.log(`=> Cập nhật Original thành: ${err.reconstructed}`);
+                  await updateCsvRow(err.file, err.original, { 'Original Example': err.reconstructed });
+                  interactiveFixedCount++;
+              } else if (choice === '2') {
+                  const customOriginal = await askQuestion("Nhập câu Original đúng: ");
+                  if (customOriginal.trim() !== '') {
+                      console.log(`=> Cập nhật Original thành: ${customOriginal}`);
+                      await updateCsvRow(err.file, err.original, { 'Original Example': customOriginal });
+                      interactiveFixedCount++;
+                  } else {
+                      console.log("Bỏ qua vì đầu vào rỗng.");
+                  }
+              }
+          }
+          console.log(`\nHoàn tất! Đã sửa tương tác ${interactiveFixedCount} lỗi.`);
+      } else {
+          console.log(`Đã ghi lỗi vào: ${errorLogPath}`);
+          console.log("Sếp hãy kiểm tra error_log.json để sửa tay hoặc dùng AI sửa các dòng này nhé!");
+      }
+  }
+  rl.close();
 }
 
-run().catch(console.error);
+run().catch(err => {
+    console.error(err);
+    rl.close();
+});
