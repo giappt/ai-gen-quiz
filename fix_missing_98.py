@@ -1,0 +1,60 @@
+import csv
+
+# part_96
+with open("mondai2_ordering/csv_filled/set_2_business/part_96.csv", "r") as f:
+    text = f.read()
+text = text.replace('確認もしずに', '確認もせずに')
+text = text.replace('しずに', 'せずに')
+with open("mondai2_ordering/csv_filled/set_2_business/part_96.csv", "w") as f:
+    f.write(text)
+
+# part_100
+with open("mondai2_ordering/csv_filled/set_2_business/part_100.csv", "r") as f:
+    lines = f.readlines()
+
+new_lines = []
+for line in lines:
+    if 'やすい,R－やすい,N4' in line:
+        new_lines.append('やすい,R－やすい,N4,①このペンはとても書きやすい。,この新しい社内システムは、画面がシンプルで操作しやすい。,この新しい社内システムは、,画面が,シンプルで,操作し,やすい,。,"Câu đánh giá về công cụ làm việc trong văn phòng. Chủ ngữ là hệ thống nội bộ mới (この新しい社内システムは). Tiếp theo là đặc điểm cấu tạo \'画面がシンプルで\' (giao diện đơn giản và...). Cấu trúc ngữ pháp V-masu (bỏ masu) + やすい diễn tả việc làm gì đó dễ dàng: động từ \'操作する\' chuyển thành dạng liên kết \'操作し\' kết hợp với \'やすい\' thành \'操作しやすい\' (dễ thao tác)."\n')
+    elif 'やたらに,,N2,①今日はやたらに忙しい一日だった。,弊社の製品を、' in line:
+        new_lines.append(line)
+    elif 'やたらに,,N2,①今日はやたらに忙しい一日だった。,"今月は競合他社が' in line:
+        pass # Skip
+    else:
+        new_lines.append(line)
+
+with open("mondai2_ordering/csv_filled/set_2_business/part_100.csv", "w") as f:
+    f.writelines(new_lines)
+
+# part_98
+data_98 = [
+["Grammar","Usage","JLPT Level","Reference Example","Original Example","Prefix","Chunk1","Chunk2","Chunk3","Chunk4","Suffix","Explanation"],
+["もともと","～てもともとだ","N2","①初めからあまり可能性はなかったから、失敗してももともとだ。","厳しい交渉になるのは承知の上だ。失敗してもともとだから、思い切ってこちらの条件を提示してみよう。","厳しい交渉になるのは承知の上だ。","失敗して","もともと","だから、","思い切ってこちらの条件を提示してみよう。","。","'もともと' biểu thị ý nghĩa 'vốn dĩ/từ đầu đã vậy'. Cấu trúc 'V-てもともとだ' mang nghĩa 'dù có thất bại thì cũng chẳng mất gì vì vốn dĩ từ đầu đã không kỳ vọng nhiều'. Trong kinh doanh, nó được dùng khi quyết định thử sức một việc khó khăn."],
+["もとより","もとより","N1","①そのことはもとより承知しています。","今期の赤字はもとより覚悟していたことだが、これほどとは思わなかった。","今期の赤字は","もとより","覚悟して","いたことだが、","これほどと","は思わなかった。","'もとより' là cách nói trang trọng của 'もちろん' (tất nhiên/vốn dĩ). Trong bối cảnh kinh doanh, nó dùng để khẳng định một điều gì đó là hiển nhiên đã biết hoặc đã chuẩn bị từ trước."],
+["もとより","～はもとより","N1","①ワープロはもとより、タイプライターすら使ったことがない。いつも手書きだ。","彼は英語はもとより、中国語も流暢に話すので、海外営業部には欠かせない人材だ。","彼は","英語は","もとより、","中国語も流暢に","話すので、","海外営業部には欠かせない人材だ。","'Nはもとより' mang ý nghĩa 'N thì đã đành/tất nhiên rồi, mà ngay cả...'. Cấu trúc này dùng để bổ sung thêm một yếu tố nổi bật hơn bên cạnh yếu tố cơ bản đã đề cập."],
+["もの","もの＜物体＞","N5","①この部屋にはいろいろな物がある。","オフィスのデスクの上には、不要な物は置かないようにしてください。","オフィスの","デスクの","上には、","不要な","物は置かないように","してください。","'もの' ở đây chỉ sự vật, đồ vật cụ thể (物体). Đi kèm với '不要な' (không cần thiết) để tạo thành cụm 'đồ vật không cần thiết', thường dùng trong các quy định 5S tại văn phòng."],
+["もの","もの＜言葉・知識・作品など＞","N4","①子供がものを言うようになった。","新入社員とはいえ、会議でははっきりとものを言う姿勢が評価されている。","新入社員とはいえ、","会議では","はっきりと","ものを","言う姿勢が","評価されている。","'ものを言う' là một cụm thành ngữ mang nghĩa 'lên tiếng/phát biểu ý kiến'. Trong môi trường công sở, nó chỉ việc mạnh dạn bày tỏ quan điểm cá nhân."],
+["もの","Nというもの","N3","①彼女は愛国心というものをもっていないのだろうか。","顧客満足度というものを第一に考えなければ、事業の成長はあり得ない。","顧客満足度","という","ものを","第一に","考えなければ、","事業の成長はあり得ない。","'Nというもの' dùng để trừu tượng hóa hoặc khái quát hóa một khái niệm. '顧客満足度というもの' (cái gọi là mức độ hài lòng của khách hàng) nhấn mạnh tầm quan trọng của khái niệm này."],
+["もの","Nというものは～だ","N3","①人間というものは不可解だ。","会社の信用というものは、一度失うと取り戻すのが非常に難しいものだ。","会社の信用","という","ものは、","一度失うと","取り戻すのが","非常に難しいものだ。","'Nというものは' dùng để đưa ra một chân lý, đặc tính hiển nhiên của sự vật. '会社の信用というものは' (uy tín của công ty là thứ...) định nghĩa tính chất cốt lõi của uy tín trong kinh doanh."],
+["もの","V－れないものはV－れない","N3","①A：これだけお願いしてもだめですか。B：いくら頼まれても、できないものはできないんだ。","予算が全く足りないので、今の段階ではどう頑張ってもできないものはできない。","予算が全く足りないので、今の段階では","どう","頑張っても","できない","ものは","できない。","Cấu trúc lặp lại động từ dạng phủ định 'V-れないものはV-れない' nhấn mạnh sự bất khả thi tuyệt đối, không có chỗ cho sự thỏa hiệp hay ngoại lệ."],
+["もの","～もの／～もん","N4","①借りたお金は返しておきました。もらいっぱなしではいやだもの。","今回の契約は絶対に逃したくない。これだけ時間をかけて準備してきたんだもの。","今回の契約は絶対に逃したくない。","これだけ","時間をかけて","準備して","きたんだ","もの。","'～もの/もん' đứng ở cuối câu để giải thích lý do một cách thân mật, mang sắc thái biện minh hoặc trình bày cảm xúc cá nhân mạnh mẽ."],
+["ものか","Naなものか　A－いものか　V－るものか　～ものか／～もんか","N2","①A：はさみも持って行く？B：そんなもの必要なもんか。","あんな理不尽な要求をする取引先と、二度と仕事などするものか。","あんな理不尽な要求をする","取引先と、","二度と","仕事など","する","ものか。","'V-るものか' là cấu trúc phủ định mạnh mẽ, thể hiện ý chí tuyệt đối không làm việc đó (nhất quyết không...). Đi kèm với '二度と' (không bao giờ... nữa) để nhấn mạnh sự tức giận hoặc cự tuyệt."],
+["ものか","V－ないものだろうか","N2","①もう少し涼しくならないものかなあ。","毎月の面倒な経費精算の作業、もっと簡単にならないものだろうか。","毎月の面倒な経費精算の作業、","もっと","簡単に","ならない","もの","だろうか。","'V-ないものだろうか' thể hiện mong ước, kỳ vọng về một sự thay đổi tích cực dù biết là khó khăn (giá mà... được thì tốt biết mấy). Thường dùng khi phàn nàn về quy trình làm việc."],
+["ものか","どうしたもの（だろう）か","N3","①反対派への説明はどうしたものかね。","納期が遅れることは確実だが、クライアントへの報告はどうしたものか。","納期が遅れることは確実だが、","クライアント","への","報告は","どうした","ものか。","'どうしたものか' là cụm từ thể hiện sự bối rối, phân vân không biết phải giải quyết thế nào cho ổn thỏa trước một tình huống khó khăn trong công việc."],
+["ものがある","Na－なものがある　A－いものがある　V－るものがある","N2","①この作品は発想に斬新なものがある。","彼のプレゼンテーションには、人を惹きつける力強いものがある。","彼の","プレゼンテーション","には、","人を惹きつける","力強い","ものがある。","'～ものがある' mang ý nghĩa 'có một điều gì đó rất...'. Dùng để diễn tả cảm nhận sâu sắc, ấn tượng mạnh mẽ của người nói về một sự vật, sự việc nào đó."],
+["ものだ","Naなものだ　A－いものだ　Vものだ　～ものだ＜本性＞","N3","①人の心は、なかなかわからないものだ。","新規事業というものは、最初はなかなかうまくいかないものだ。","新規事業","という","ものは、","最初はなかなか","うまくいかない","ものだ。","'V/A-ものだ' dùng để nêu lên một chân lý, bản chất tự nhiên của xã hội hoặc sự việc (thường là.../vốn dĩ là...). Giúp đưa ra lời khuyên hoặc an ủi trong bối cảnh khó khăn kinh doanh."],
+["ものだ","～ものだ","N3","①「ステレオがないと生活できない」とは、今の学生はぜいたくなことを言うものだ。","入社してわずか半年でこれだけの成果を出すとは、彼は大したものだ。","入社してわずか半年で","これだけの","成果を","出すとは、","彼は大した","ものだ。","'～ものだ' trong bối cảnh này đi kèm với từ chỉ mức độ ('大した') để thể hiện sự cảm thán, ngạc nhiên và thán phục trước năng lực của một cá nhân."],
+["ものだ","よく（も）～ものだ","N2","①あんなに負債の大きかった会社の再建がよくできたものだ。","あの厳しい条件で、よく取引先を説得できたものだと感心している。","あの厳しい条件で、","よく","取引先を","説得できた","ものだと","感心している。","'よく～ものだ' mang ý nghĩa khen ngợi, khâm phục (không ngờ lại có thể làm được...). Đi kèm với '感心している' (thán phục) để đánh giá cao nỗ lực thành công."],
+["ものだ","V－たいものだ","N3","①そのお話はぜひうかがいたいものです。","いつかは自分自身の会社を立ち上げて、社会に貢献したいものだ。","いつかは","自分自身の","会社を","立ち上げて、","社会に貢献し","たいものだ。","'V-たいものだ' nhấn mạnh mong muốn, ước nguyện sâu sắc từ đáy lòng (thực sự rất muốn...). Thường dùng để nói về hoài bão, tầm nhìn trong sự nghiệp."],
+["ものだ","V－たものだ","N3","①学生のころはよく貧乏旅行をしたものでした。","入社した頃は、よく先輩に怒られて泣いたものだ。","入社した頃は、","よく","先輩に","怒られて","泣いた","ものだ。","'V-たものだ' đi kèm với 'よく' diễn tả thói quen trong quá khứ hoặc những kỷ niệm thường xuyên xảy ra, mang theo chút cảm xúc hoài niệm khi nhìn lại quãng thời gian đã qua."],
+["ものだから","なものだから　Aものだから　Vものだから　～ものだから","N3","①私の前を走っている人が転んだものだから、それにつまづいて私もころんでしまった。","電車が遅れたものだから、大事な会議に遅刻してしまった。","電車が","遅れた","ものだから、","大事な会議に","遅刻して","しまった。","'～ものだから' dùng để trình bày lý do, biện minh cho một kết quả không mong muốn (thường là lỗi lầm hoặc sự cố). Mang sắc thái 'vì có lý do bất khả kháng nên mong được thông cảm'."],
+["ものだから","～おもったものだから","N3","①彼はもう知っていると思ったものだから、伝えませんでした。","その書類はもう提出済みだと思ったものだから、破棄してしまいました。","その書類は","もう","提出済みだと","思った","ものだから、","破棄してしまいました。","'～と思ったものだから' là cách nói biện minh do sự lầm tưởng chủ quan (tại tôi cứ nghĩ là... nên mới). Thường dùng khi giải thích nguyên nhân gây ra sai sót trong xử lý công việc."]
+]
+
+import csv
+
+with open("mondai2_ordering/csv_filled/set_2_business/part_98.csv", "w", newline='') as f:
+    writer = csv.writer(f)
+    writer.writerows(data_98)
+
+print("Fixed part 98, 96, 100")
