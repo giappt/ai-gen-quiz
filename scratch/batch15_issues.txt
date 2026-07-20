@@ -1,0 +1,2 @@
+part_71.csv:1
+ORIG: 「交渉における」 bổ nghĩa cho danh từ 「最重要課題」 phía sau nhằm chỉ bối cảnh diễn ra (「trong cuộc đàm phán」). 「信頼関係の」 bổ nghĩa cho 「構築」. Thứ tự sắp xếp logic đi từ bối cảnh đến chủ ngữ và cụm vị ngữ.

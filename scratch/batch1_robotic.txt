@@ -1,0 +1,27 @@
+part_2.csv-3: Mẫu 'V-たあとから' diễn tả sự việc muộn màng xảy ra ngay sau khi một quyết định đã cố định. Thứ tự đi từ hành động gốc '決めた' nối với 'あとから', tiếp đến là nội dung yêu cầu '時間を変更したいと' đi với thể bị động giả định '言われても'.
+part_2.csv-6: 'あとから' làm trạng từ chỉ thời gian hành động muộn hơn người khác. Thứ tự sắp xếp tự nhiên theo cú pháp: Chủ ngữ '私は' -> Trạng từ thời gian 'あとから' -> Trạng từ mức độ 'すぐに' -> Động từ chính '追いかける'.
+part_2.csv-9: 'あんまり' bổ nghĩa cho thể phủ định của tính từ để giảm nhẹ mức độ phán đoán. Thứ tự cấu trúc: Chủ ngữ '値段が' -> Phó từ 'あんまり' -> Tính từ đuôi i đổi thành thể liên dụng '安く' -> Trợ động từ phủ định 'ない'.
+part_2.csv-11: 'あまりの + Danh từ + に' chỉ nguyên nhân cực đại gây ra một trạng thái bất khả kháng. Thứ tự sắp xếp: Chủ thể 'スープが' -> Cụm nguyên nhân 'あまりの辛さに' -> Lượng từ giới hạn '一口も' -> Thể phủ định khả năng '飲むことができなかった'.
+part_2.csv-18: 'あるいは' đứng đầu mệnh đề phỏng đoán để tăng sắc thái cho cấu trúc '～かもしれない'. Thứ tự tự nhiên: Trạng từ 'あるいは' -> Chủ ngữ '雨が' -> Cụm động từ phỏng đoán '降るかもしれない' kết hợp trợ từ chỉ lý do 'から'.
+part_2.csv-19: Cấu trúc lặp lại 'あるいは...あるいは...' dùng để liệt kê các hành động song song. Cú pháp chia tách theo mạch câu: Cụm hành động một 'あるいは海へ行き、' -> từ nối 'あるいは' -> bổ ngữ hướng đi '山へ' -> động từ liệt kê '登ったりして'.
+part_2.csv-20: Cấu trúc 'N1にあるまじきN2' phê phán hành vi N2 không được phép có ở cương vị N1. Thứ tự bổ nghĩa bắt buộc: Danh từ cương vị + に '親に' -> Thành phần hạn định 'あるまじき' -> Tính từ bổ sung '卑劣な' -> Danh từ bị bổ nghĩa '行為'.
+part_3.csv-1: "あれで" dùng để đưa ra đánh giá tích cực trái ngược với vế tiêu cực trước đó. Thứ tự cú pháp: あれで (dù thế) + 料理を (món ăn) + 作るのが (việc làm) + 得意なん (giỏi) + ですよ (đấy).
+part_3.csv-2: "あれで" thể hiện sự ngạc nhiên về giá cả hoặc mức độ so với tính chất của vật. Thứ tự: あれで (với cái đó) + 千円 (1000 yên) + なら (nếu là) + すごくお買い (rất) + 得だね (hời).
+part_3.csv-3: "あれでも" nghĩa là "dù như thế đi nữa". Thứ tự kết hợp tự nhiên: あれでも (dù vậy) + 一応 (dù sao thì) + 店長な (là cửa hàng trưởng) + のです (đấy à).
+part_3.csv-4: "あんまり" đi với dạng phủ định "～ない" biểu thị ý nghĩa "không... lắm". Thứ tự câu: あんまり (không... lắm) + ご飯を (cơm) + 食べて (ăn) + いない (không).
+part_3.csv-5: "あんまり" đứng trước tính từ thể hiện mức độ quá mức dẫn đến kết quả vế sau. Thứ tự: あんまり (quá) + 嬉しくて (vui mừng nên) + 遅くまで (đến muộn) + 眠れなかった (không ngủ được).
+part_3.csv-6: Cấu trúc "～なんてあんまりだ" dùng để trách móc hành động của ai đó là quá đáng. Thứ tự: 食べて (ăn) + くれない (không làm cho) + なんて (cái việc như) + あんまりだ (quá đáng).
+part_3.csv-7: "いい" dùng để khen ngợi món đồ của đối phương trong giao tiếp. Thứ tự: スニーカー (giày thể thao) + いい (đẹp/tốt) + です (là) + ね。どこで (nhỉ, ở đâu).
+part_3.csv-8: "もういいです" dùng để từ chối một cách lịch sự khi đã cảm thấy đủ. Thứ tự câu: もう (đã) + いい (đủ rồi) + です (là) + よ。お腹 (nhé, bụng).
+part_3.csv-9: "いいね" đứng đầu câu dùng để nhắc nhở hoặc lưu ý đối phương. Thứ tự: いいね (nghe rõ chưa) + 買い物に (đi mua sắm) + 行くときは (khi đi) + 気をつける (cẩn thận).
+part_3.csv-10: "～はいいから" dùng để gạt bỏ một vấn đề qua một bên để thực hiện hành động tiếp theo. Thứ tự: そのことは (chuyện đó) + いいから (thôi bỏ đi) + 早く (nhanh lên) + 映画館に (vào rạp).
+part_3.csv-11: Cấu trúc "V-る + がいい" mang sắc thái mỉa mai hoặc phó mặc cho hậu quả xảy ra. Thứ tự: 友達に (bị bạn bè) + みんな (tất cả) + 嫌われる (ghét) + がいい (cứ việc/đáng đời).
+part_3.csv-12: "～と言った" dùng để trích dẫn nội dung đã nói với ai đó. Thứ tự câu: 片付ける (dọn dẹp) + と (rằng) + 言った (đã nói) + が (nhưng).
+part_3.csv-13: "～と言っている" dùng để truyền đạt lại lời nói hoặc ý định của người khác. Thứ tự: 遅れて (muộn) + 来る (đến) + と言って (nói rằng) + いる (đang).
+part_3.csv-14: "～と言われている" diễn tả một nhận định, lời đồn phổ biến trong xã hội. Thứ tự: 大盛りで (suất lớn) + 有名だ (nổi tiếng) + と言われて (được nói) + いる (đang).
+part_3.csv-15: Cấu trúc "～ように言われる" diễn tả việc được hoặc bị ai đó yêu cầu làm gì. Thứ tự: 買って (mua) + くる (về) + ように (hãy làm như) + 言われた (được bảo).
+part_3.csv-16: "文句を言う" là cụm từ đi liền mang nghĩa phàn nằn, cằn nhằn. Thứ tự cú pháp: 文句 (lời phàn nàn) + を (trợ từ) + 言う (nói) + のが (việc).
+part_3.csv-17: Mẫu câu "N1をN2だと言う" nghĩa là khẳng định N1 là N2. Thứ tự logic: 男性を (người đàn ông) + 婚約者 (vị hôn phu) + だと (rằng là) + 言った (đã nói).
+part_3.csv-18: "～という" đặt ở cuối câu dùng để truyền đạt thông tin nghe nói lại từ nguồn khác. Thứ tự: ケーキが (bánh) + とても (rất) + 美味しい (ngon) + という (nghe nói là).
+part_3.csv-19: Mẫu câu "名前を～といいます" dùng để giới thiệu tên gọi của ai đó. Thứ tự sắp xếp: 名前を (tên) + 健太 (Kenta) + と (là) + いい (gọi).
+part_3.csv-20: "N của ことを～という" dùng để định nghĩa hoặc gọi tên một đối tượng cụ thể. Thứ tự: ことを (về việc) + 略して (viết tắt) + 何と (như thế nào) + いい (gọi).

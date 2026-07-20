@@ -1,0 +1,2 @@
+part_31.csv-10: '私は' là chủ ngữ, '平日の夜は' là trạng ngữ chỉ thời gian xác định. Phó từ chỉ tần suất 'たいてい' (thường xuyên/đại để) đứng trước cụm thời gian cụ thể '11時ごろに' nhằm bổ nghĩa cho trạng thái tuần hoàn của động từ chính '寝ます' ở cuối câu.
+part_32.csv-3: Động từ tâm lý thể hiện ước muốn "欲しい" bỏ "い" kết hợp với đuôi "たがる/がる" để diễn tả mong muốn của ngôi thứ ba. Thể liên kết "欲しがって" nối câu chỉ nguyên nhân đưa đến hành động "買いに行く" ở vế sau.

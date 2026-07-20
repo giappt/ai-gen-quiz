@@ -1,0 +1,155 @@
+{
+    "part_7.csv-1": {
+        "Prefix": "このたび我が社の長年の社会奉仕活動に対して地域文化賞をいただきましたことは誠に",
+        "Chunk1": "光栄の",
+        "Chunk2": "いたりに",
+        "Chunk3": "存じ",
+        "Chunk4": "ます。",
+        "Suffix": "",
+        "Explanation": "Cấu trúc 'N + のいたり' (vô cùng/hết sức) đi với các danh từ chỉ cảm xúc như '光栄' (vinh hạnh) để diễn tả cảm xúc dâng trào đến tột độ."
+    },
+    "part_7.csv-2": {
+        "Prefix": "有機野菜が安全だと",
+        "Chunk1": "いちがいには",
+        "Chunk2": "言え",
+        "Chunk3": "ない",
+        "Chunk4": "。",
+        "Suffix": "",
+        "Explanation": "Phó từ 'いちがいに' luôn đi với thể phủ định '～ない' để mang ý nghĩa 'không thể đánh đồng tất cả đều là như vậy'."
+    },
+    "part_7.csv-3": {
+        "Prefix": "タイ料理は",
+        "Chunk1": "一度",
+        "Chunk2": "食べると",
+        "Chunk3": "病みつきに",
+        "Chunk4": "なる。",
+        "Suffix": "",
+        "Explanation": "Phó từ '一度' (một lần) đứng trước động từ thể điều kiện '食べると' để diễn tả ý nghĩa 'chỉ cần làm thử một lần là sẽ xảy ra kết quả phía sau'."
+    },
+    "part_7.csv-4": {
+        "Prefix": "こんなところは",
+        "Chunk1": "一度",
+        "Chunk2": "来れば",
+        "Chunk3": "たくさん",
+        "Chunk4": "だ。",
+        "Suffix": "",
+        "Explanation": "Phó từ '一度' (một lần) kết hợp với thể giả định '来れば' tạo ý nghĩa 'chỉ cần một lần là quá đủ rồi, không muốn thêm nữa'."
+    },
+    "part_7.csv-5": {
+        "Prefix": "本を",
+        "Chunk1": "読んでいる間に",
+        "Chunk2": "いつか",
+        "Chunk3": "眠り込んで",
+        "Chunk4": "しまったようだ。",
+        "Suffix": "",
+        "Explanation": "Phó từ 'いつか' (lúc nào không hay) diễn tả sự việc thay đổi trạng thái mà người nói không hề nhận ra."
+    },
+    "part_7.csv-6": {
+        "Prefix": "",
+        "Chunk1": "いつか",
+        "Chunk2": "見た",
+        "Chunk3": "映画の中にも",
+        "Chunk4": "こんな台詞があった。",
+        "Suffix": "",
+        "Explanation": "Phó từ 'いつか' (một lúc nào đó trong quá khứ) bổ nghĩa cho hành động '見た' để nhắc về một kỷ niệm không nhớ rõ thời gian cụ thể."
+    },
+    "part_7.csv-7": {
+        "Prefix": "あいつも",
+        "Chunk1": "いつかは",
+        "Chunk2": "きっと自分の間違いに",
+        "Chunk3": "気づく",
+        "Chunk4": "だろう。",
+        "Suffix": "",
+        "Explanation": "'いつかは' (một lúc nào đó trong tương lai) bổ nghĩa cho dự đoán '気づくだろう' để chỉ một kết quả chắc chắn sẽ xảy ra, chỉ là chưa biết khi nào."
+    },
+    "part_7.csv-8": {
+        "Prefix": "",
+        "Chunk1": "いつかの",
+        "Chunk2": "セールスマンが",
+        "Chunk3": "また",
+        "Chunk4": "来た。",
+        "Suffix": "",
+        "Explanation": "Đại từ 'いつか' đi với trợ từ 'の' tạo thành 'いつかの' bổ nghĩa cho danh từ, mang nghĩa 'người/việc của cái hôm trước đó'."
+    },
+    "part_7.csv-9": {
+        "Prefix": "30分待ったが、",
+        "Chunk1": "彼は",
+        "Chunk2": "いっこうに",
+        "Chunk3": "現れ",
+        "Chunk4": "ない。",
+        "Suffix": "",
+        "Explanation": "Phó từ 'いっこうに' (hoàn toàn không) luôn đi với thể phủ định để nhấn mạnh sự mong mỏi nhưng kết quả không hề thay đổi."
+    },
+    "part_7.csv-10": {
+        "Prefix": "計画の変更は",
+        "Chunk1": "いっさい",
+        "Chunk2": "な",
+        "Chunk3": "い",
+        "Chunk4": "。",
+        "Suffix": "",
+        "Explanation": "Phó từ 'いっさい' (hoàn toàn) kết hợp với phủ định 'ない' ở cuối câu mang ý nghĩa phủ nhận toàn bộ."
+    },
+    "part_7.csv-11": {
+        "Prefix": "",
+        "Chunk1": "いつしか",
+        "Chunk2": "あたりは薄暗くなり、",
+        "Chunk3": "人影も",
+        "Chunk4": "まばらになっていた。",
+        "Suffix": "",
+        "Explanation": "Phó từ 'いつしか' mang tính văn chương, có nghĩa là 'không biết từ lúc nào', diễn tả sự biến đổi tự nhiên của cảnh vật."
+    },
+    "part_7.csv-12": {
+        "Prefix": "こんなにつらい思いをするくらいなら、",
+        "Chunk1": "いっそ",
+        "Chunk2": "離婚して",
+        "Chunk3": "しまい",
+        "Chunk4": "たい。",
+        "Suffix": "",
+        "Explanation": "Phó từ 'いっそ' (thà rằng) đi sau một giả định tiêu cực, bổ nghĩa cho hành động mang tính quyết định dứt khoát ở vế sau."
+    },
+    "part_7.csv-13": {
+        "Prefix": "休職より",
+        "Chunk1": "いっそ",
+        "Chunk2": "転職を",
+        "Chunk3": "考えてみたら",
+        "Chunk4": "どうですか。",
+        "Suffix": "",
+        "Explanation": "Phó từ 'いっそ' (thà rằng/hay là) dùng để đưa ra một lời khuyên táo bạo, so sánh với một lựa chọn không mấy khả quan ở trước."
+    },
+    "part_7.csv-14": {
+        "Prefix": "",
+        "Chunk1": "いったい",
+        "Chunk2": "彼は",
+        "Chunk3": "生きているの",
+        "Chunk4": "だろうか。",
+        "Suffix": "",
+        "Explanation": "Phó từ 'いったい' (rốt cuộc là) đứng trước câu nghi vấn '～だろうか' để nhấn mạnh sự thắc mắc cực độ."
+    },
+    "part_7.csv-15": {
+        "Prefix": "彼女はおしゃべりな人で、",
+        "Chunk1": "いったん",
+        "Chunk2": "話し",
+        "Chunk3": "出すと",
+        "Chunk4": "止まらない。",
+        "Suffix": "",
+        "Explanation": "Phó từ 'いったん' (một khi đã) kết hợp với '～と' diễn tả điều kiện chắc chắn dẫn đến một trạng thái không thể vãn hồi."
+    },
+    "part_7.csv-16": {
+        "Prefix": "自分の仕事を",
+        "Chunk1": "こなす",
+        "Chunk2": "一方で、",
+        "Chunk3": "部下のめんどうも",
+        "Chunk4": "見なければならない。",
+        "Suffix": "",
+        "Explanation": "Cấu trúc 'V-ru 一方で' (một mặt thì) nối hai vế hành động diễn ra song song nhưng mang tính đối lập hoặc gánh nặng cho chủ thể."
+    },
+    "part_7.csv-17": {
+        "Prefix": "この映画は、",
+        "Chunk1": "一方では今年最高との",
+        "Chunk2": "高い評価を受けていながら、",
+        "Chunk3": "他方ではひどい出来だと言われて",
+        "Chunk4": "いる。",
+        "Suffix": "",
+        "Explanation": "Cấu trúc so sánh song song '一方では... 他方では...' (một mặt thì... mặt khác thì...) dùng để đưa ra hai góc nhìn trái ngược hoàn toàn."
+    }
+}

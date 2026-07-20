@@ -1,0 +1,135 @@
+import json
+
+fixes_2 = {
+    "part_40.csv-6": {
+        "Prefix": "この学校では、", "Chunk1": "毎年", "Chunk2": "五百名の学生が", "Chunk3": "卒業して", "Chunk4": "いく。", "Suffix": "",
+        "Explanation": "Cấu trúc 'V-te iku' biểu thị một sự biến đổi sẽ diễn ra trong tương lai hoặc một xu hướng tự nhiên."
+    },
+    "part_40.csv-7": {
+        "Prefix": "この音楽を聞くたびに、", "Chunk1": "別れた恋人のことが", "Chunk2": "思い出されて", "Chunk3": "いけ", "Chunk4": "ない。", "Suffix": "",
+        "Explanation": "Cấu trúc 'V-te wa ikenai' mang nghĩa cấm đoán hoặc không được phép. Ở đây chia thành '思い出されていけない' (không thể không nhớ lại, một cách tự nhiên)."
+    },
+    "part_40.csv-8": {
+        "Prefix": "友達のお父さんに、", "Chunk1": "駅まで", "Chunk2": "車で", "Chunk3": "送って", "Chunk4": "いただきました。", "Suffix": "",
+        "Explanation": "Cấu trúc 'V-te itadaku' (nhận được hành động từ người bề trên) diễn tả sự biết ơn khi được bố của bạn đưa ra ga."
+    },
+    "part_40.csv-9": {
+        "Prefix": "まず、", "Chunk1": "1階で", "Chunk2": "受け付けを", "Chunk3": "すませて", "Chunk4": "いただきます。", "Suffix": "それから3階の方にいらして下さい。",
+        "Explanation": "Cấu trúc 'V-te itadaku' ở đây mang sắc thái nhờ vả lịch sự (xin vui lòng làm V), thường dùng trong hướng dẫn công việc."
+    },
+    "part_40.csv-10": {
+        "Prefix": "この次からは、", "Chunk1": "間違え", "Chunk2": "ないで", "Chunk3": "いただきたい", "Chunk4": "ですね。", "Suffix": "",
+        "Explanation": "Cấu trúc phủ định 'V-nai de itadakitai' (mong bạn đừng...) dùng để nhắc nhở một cách lịch sự nhưng nghiêm túc."
+    },
+    "part_40.csv-11": {
+        "Prefix": "ご注文のお品ですが、", "Chunk1": "取り寄せますので、", "Chunk2": "3日ほど", "Chunk3": "待って", "Chunk4": "いただけますか。", "Suffix": "",
+        "Explanation": "Cấu trúc 'V-te itadakemasuka' là mẫu câu nhờ vả rất lịch sự (anh/chị có thể vui lòng... giúp tôi được không?)."
+    },
+    "part_40.csv-12": {
+        "Prefix": "A：私がやりましょう。", "Chunk1": "B：そうですか。", "Chunk2": "そうして", "Chunk3": "いただけると", "Chunk4": "助かります。", "Suffix": "",
+        "Explanation": "Cấu trúc 'V-te itadakeru to' (nếu được anh làm giúp thì...) biểu thị sự biết ơn chân thành khi nhận được sự giúp đỡ."
+    },
+    "part_40.csv-13": {
+        "Prefix": "環境保護の運動が盛んになってきたが、", "Chunk1": "本質的な", "Chunk2": "問題を", "Chunk3": "忘れていは", "Chunk4": "しまいか。", "Suffix": "",
+        "Explanation": "Cấu trúc 'V-te wa shimai ka' (phải chăng là đã...) thể hiện sự lo lắng, e ngại về một kết quả tiêu cực có thể đang diễn ra."
+    },
+    "part_40.csv-18": {
+        "Prefix": "調べてみると、", "Chunk1": "彼は", "Chunk2": "その会社を三か月前に", "Chunk3": "やめている", "Chunk4": "ことがわかった。", "Suffix": "",
+        "Explanation": "Cấu trúc 'V-te iru' biểu thị trạng thái là kết quả của một hành động đã hoàn tất trong quá khứ (đã nghỉ việc)."
+    },
+    "part_40.csv-19": {
+        "Prefix": "子供が大学に入るころには、", "Chunk1": "父親は", "Chunk2": "もう", "Chunk3": "定年退職して", "Chunk4": "いるだろう。", "Suffix": "",
+        "Explanation": "Cấu trúc 'V-te iru' kết hợp với 'だろう' diễn tả sự dự đoán về một trạng thái sẽ hoàn tất trong tương lai."
+    },
+    "part_43.csv-6": {
+        "Prefix": "この絵は", "Chunk1": "きれいで", "Chunk2": "あるが、", "Chunk3": "感動させる", "Chunk4": "ものがない。", "Suffix": "",
+        "Explanation": "Cấu trúc 'N/Na で あるが' (tuy là... nhưng) nối hai vế mang tính tương phản, dùng nhiều trong văn viết."
+    },
+    "part_44.csv-1": {
+        "Prefix": "こんな", "Chunk1": "うまい話は、", "Chunk2": "うそ", "Chunk3": "ではないかと", "Chunk4": "思う。", "Suffix": "",
+        "Explanation": "Cấu trúc 'ではないかと思う' (tôi e rằng/tôi nghĩ là...) đưa ra sự nghi ngờ một cách nhẹ nhàng."
+    },
+    "part_52.csv-1": {
+        "Prefix": "彼は、", "Chunk1": "いつ", "Chunk2": "寝ているのかと", "Chunk3": "思うほど", "Chunk4": "いそがしそうだ。", "Suffix": "",
+        "Explanation": "Cụm 'いつ寝ているのかと思うほど' (đến mức nghĩ rằng không biết ngủ lúc nào) bổ nghĩa nhấn mạnh cho sự bận rộn."
+    },
+    "part_52.csv-2": {
+        "Prefix": "", "Chunk1": "勉強している", "Chunk2": "かと", "Chunk3": "思えば", "Chunk4": "漫画を読んでいる。", "Suffix": "",
+        "Explanation": "Cấu trúc 'V-te iru ka to omoeba' (vừa mới tưởng là... thì đã) biểu thị hai hành động hoàn toàn trái ngược diễn ra liên tiếp."
+    },
+    "part_52.csv-3": {
+        "Prefix": "熱心に授業に出る学生が", "Chunk1": "いるかと", "Chunk2": "思えば、", "Chunk3": "全然出席せずに", "Chunk4": "試験だけ受けるような学生もいる。", "Suffix": "",
+        "Explanation": "Cấu trúc 'A ka to omoeba B' dùng để liệt kê hai sự vật/hiện tượng mang tính tương phản hoàn toàn."
+    },
+    "part_52.csv-4": {
+        "Prefix": "体にいいから", "Chunk1": "と", "Chunk2": "思って、", "Chunk3": "緑の野莱を食べる", "Chunk4": "ようにしています。", "Suffix": "",
+        "Explanation": "Cấu trúc '... to omotte' trích dẫn lý do hoặc suy nghĩ dẫn đến hành động ăn rau xanh mỗi ngày ở vế sau."
+    },
+    "part_52.csv-5": {
+        "Prefix": "何を", "Chunk1": "言うのかと", "Chunk2": "思ったら、", "Chunk3": "そんなくだらない", "Chunk4": "ことか。", "Suffix": "",
+        "Explanation": "Cấu trúc 'ka to omottara' (đang tưởng là...) diễn tả sự bất ngờ hoặc thất vọng khi sự thật không như mình nghĩ."
+    },
+    "part_52.csv-6": {
+        "Prefix": "今場所は横綱の優勝間違いなしと", "Chunk1": "思い", "Chunk2": "きや、", "Chunk3": "日目にケガで休場することに", "Chunk4": "なってしまった。", "Suffix": "",
+        "Explanation": "Cấu trúc 'to omoikiya' (tưởng là... nhưng thực ra lại...) mang tính văn chương, vế sau là kết quả hoàn toàn bất ngờ."
+    },
+    "part_52.csv-7": {
+        "Prefix": "つめたい雨が降ってきたと", "Chunk1": "思う", "Chunk2": "間もなく、", "Chunk3": "それは", "Chunk4": "雪にかわった。", "Suffix": "",
+        "Explanation": "Cấu trúc 'to omou ma mo naku' (chưa kịp nghĩ... thì đã) diễn tả hai sự việc thay đổi cực kỳ chớp nhoáng."
+    },
+    "part_52.csv-8": {
+        "Prefix": "急に", "Chunk1": "空が暗くなったかと", "Chunk2": "思うと、", "Chunk3": "大粒の雨が", "Chunk4": "ふってきた。", "Suffix": "",
+        "Explanation": "Cấu trúc 'ka to omou to' diễn tả trạng thái thời tiết thay đổi cực nhanh, vế trước vừa xảy ra thì vế sau ập đến lập tức."
+    },
+    "part_52.csv-9": {
+        "Prefix": "おばあちゃんへの", "Chunk1": "お土産にと", "Chunk2": "思って、", "Chunk3": "湯飲み茶碗を", "Chunk4": "買った。", "Suffix": "",
+        "Explanation": "Trợ từ 'と' kết hợp với '思って' trích dẫn ý nghĩ (muốn làm quà cho bà) làm nguyên nhân của hành động mua đồ."
+    },
+    "part_52.csv-10": {
+        "Prefix": "駅からあの建物までには", "Chunk1": "3", "Chunk2": "通り", "Chunk3": "の行き方が", "Chunk4": "ある。", "Suffix": "",
+        "Explanation": "Từ '通り' (toori) trong trường hợp này mang nghĩa là 'cách thức / loại', đi sau số đếm để chỉ số lượng phương án."
+    },
+    "part_52.csv-11": {
+        "Prefix": "計画は", "Chunk1": "なかなか", "Chunk2": "予定どおりには", "Chunk3": "進まない", "Chunk4": "ものだ。", "Suffix": "",
+        "Explanation": "Cấu trúc 'N + どおり' (theo đúng như N). Vế sau đi với phủ định diễn tả sự thật khách quan là mọi việc thường không như kế hoạch."
+    },
+    "part_52.csv-12": {
+        "Prefix": "おっしゃる", "Chunk1": "とおり", "Chunk2": "です。", "Chunk3": "（＝あなたの", "Chunk4": "意見に賛成です。）", "Suffix": "",
+        "Explanation": "Cấu trúc 'V-ru + とおり' biểu thị sự đồng tình hoàn toàn với lời nói của đối phương (đúng như những gì anh nói)."
+    },
+    "part_52.csv-13": {
+        "Prefix": "病気の", "Chunk1": "お見舞いには", "Chunk2": "果物とか", "Chunk3": "お花が", "Chunk4": "好まれる。", "Suffix": "",
+        "Explanation": "Trợ từ 'とか' dùng để liệt kê một cách chung chung một số ví dụ tiêu biểu (như là hoa quả, như là hoa)."
+    },
+    "part_52.csv-14": {
+        "Prefix": "休日は", "Chunk1": "テレビを見るとか、", "Chunk2": "買い物するとかして", "Chunk3": "過ごすことが", "Chunk4": "多い。", "Suffix": "",
+        "Explanation": "Cấu trúc 'V-ru toka V-ru toka' dùng để đưa ra vài ví dụ về các hành động thường làm một cách mập mờ, không xác định."
+    },
+    "part_52.csv-15": {
+        "Prefix": "山田さん", "Chunk1": "とか", "Chunk2": "いう人が", "Chunk3": "訪ねて", "Chunk4": "きていますよ。", "Suffix": "",
+        "Explanation": "Cấu trúc 'N とかいう' diễn tả sự nhớ mang máng, không chắc chắn về tên gọi của người khách."
+    },
+    "part_52.csv-16": {
+        "Prefix": "彼女は買い物に行くと", "Chunk1": "これがいいとか", "Chunk2": "あれがいいとか", "Chunk3": "言って、", "Chunk4": "決まるまでに本当に時間がかかる。", "Suffix": "",
+        "Explanation": "Lặp lại 'とか' khi dẫn lời nói ('nào là cái này đẹp, nào là cái kia đẹp') thể hiện sự phàn nàn nhẹ."
+    },
+    "part_52.csv-17": {
+        "Prefix": "隣の娘さんは", "Chunk1": "来月結婚式を", "Chunk2": "挙げる", "Chunk3": "とか", "Chunk4": "いうことだ。", "Suffix": "",
+        "Explanation": "Cấu trúc '... toka iu koto da' dùng để truyền đạt lại một tin đồn hoặc thông tin nghe ngóng được (nghe đâu là...)."
+    },
+    "part_52.csv-18": {
+        "Prefix": "途中で", "Chunk1": "事故が", "Chunk2": "あったとかで、", "Chunk3": "彼は1時間ほど", "Chunk4": "遅刻してきた。", "Suffix": "",
+        "Explanation": "Cấu trúc '... toka de' đưa ra lý do một cách không chắc chắn (hình như là do tai nạn hay sao đó)."
+    },
+    "part_52.csv-19": {
+        "Prefix": "女だというだけで、", "Chunk1": "とかく", "Chunk2": "軽く", "Chunk3": "見られがち", "Chunk4": "だ。", "Suffix": "",
+        "Explanation": "Phó từ 'とかく' (có khuynh hướng/thường là) luôn đi với những khuynh hướng xấu, kết hợp với 'がち' để nhấn mạnh sự tiêu cực."
+    },
+    "part_52.csv-20": {
+        "Prefix": "先のことを今から", "Chunk1": "とかく", "Chunk2": "心配しても", "Chunk3": "しようが", "Chunk4": "ない。", "Suffix": "",
+        "Explanation": "Phó từ 'とかく' trong ngữ cảnh này mang nghĩa 'lo nghĩ linh tinh/lo nghĩ nhiều hướng', đi với phủ định khuyên không nên suy nghĩ thừa thãi."
+    }
+}
+
+with open(r'd:\pj\xx\ai-gen-quiz\scratch\fixes_2.json', 'w', encoding='utf-8') as f:
+    json.dump(fixes_2, f, ensure_ascii=False, indent=4)

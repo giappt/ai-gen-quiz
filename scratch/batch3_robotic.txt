@@ -1,0 +1,4 @@
+part_11.csv-8: Cụm hành động trạng thái "晴れていた" kết hợp với mẫu "と思ったら" tạo thành cấu trúc chỉ sự thay đổi đột ngột (vừa mới thấy... thì đã). Vế sau bắt đầu bằng phó từ "急に" bổ nghĩa cho cụm chủ vị "大雨が降り出してくる" để đảm bảo tính logic về mặt thời gian.
+part_12.csv-5: Cấu trúc 'NがNだけに' nhấn mạnh tính chất đặc trưng đặc biệt của danh từ (chính vì là ngày cuối tuần), làm cơ sở logic cho trạng thái đông đúc của trung tâm thương mại.
+part_12.csv-19: 'お小遣いには限りがある' đưa ra một sự thật khách quan về giới hạn tiền bạc, liên từ 'から' nối vế này với lời khuyên mang tính logic ở mệnh đề sau.
+part_15.csv-15: Mệnh đề chứa lý do cốt lõi 家族が 応援してくれるからこそ (chính vì được gia đình ủng hộ) được đưa lên đầu câu để nhấn mạnh. Vế sau là kết quả diễn tiến theo logic tự nhiên: Trạng ngữ chủ ngữ 私は毎日 (tôi mỗi ngày) đi với cụm tân ngữ - động từ khả năng 仕事を 頑張れる (có thể cố gắng trong công việc).

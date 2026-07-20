@@ -1,0 +1,2 @@
+part_41.csv:3
+ORIG: Tân ngữ 「メールを」 đi liền với động từ 「チェックして」. Mẫu ngữ pháp 「V-てから」 biểu thị trình tự thời gian (sau khi thực hiện xong hành động vế trước). Sau đó là đối tượng tiếp nhận 「上司に」 và hành động chính 「報告します」.

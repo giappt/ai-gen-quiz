@@ -1,0 +1,12 @@
+part_36.csv-10: '～だろう' biểu thị sự suy đoán của người nói dựa trên một căn cứ nào đó. Động từ '降る' kết hợp với 'だろう' và thêm trợ từ chỉ lý do 'から' để tạo thành mệnh đề nguyên nhân cho hành động '傘を持っていこう'.
+part_36.csv-12: Đuôi 'だろうか' được đặt cuối câu để biểu thị sự tự hỏi hoặc phỏng đoán mang tính nghi vấn của người nói đối với thái độ của người mẹ.
+part_36.csv-13: Cấu trúc 'ではないだろうか' (chẳng phải là... hay sao) thể hiện sự phán đoán khá chắc chắn của người nói về một sự việc.
+part_37.csv-17: Trạng từ chỉ thời gian「夕方」. Cấu trúc「N của ついでに」lấy danh từ hành động「散歩」làm chính để chỉ việc nhân tiện. Vế sau là hành động kết hợp phụ: trạng ngữ nơi chốn「ポストに」, tân ngữ「手紙を」và cụm động từ「出してきた」.
+part_38.csv-15: Cụm '少し遅れる' là nội dung trích dẫn trực tiếp/gián tiếp, kết nối bằng trợ từ trích dẫn văn nói 'って' (thay cho と). Động từ '言っていたよ' chia ở quá khứ tiếp diễn để thuật lại lời nhắn của người khác.
+part_39.csv-7: Tính từ 「いい」 kết hợp trực tiếp với 「つもりだ」 thể hiện niềm tin chủ quan của bản thân.
+part_39.csv-11: Động từ chia ở thể Te liên tiếp 「起きて」 và 「して」 tạo thành chuỗi hành động theo thứ tự thời gian.
+part_40.csv-14: Cấu trúc 「V-ている」 diễn tả hành động đang tiếp diễn tại thời điểm nói. Thứ tự: chủ đề kèm trạng từ 「外はまだ」 (bên ngoài vẫn), danh từ 「雨が」 (trời mưa) đi với động từ thể て 「降って」 và đuôi tiếp diễn lịch sự 「います」.
+part_40.csv-15: Cấu trúc 「V-ている」 diễn tả trạng thái kết quả của một hành động vẫn còn tồn tại. Thứ tự: chủ đề 「その店のドアは」 (cửa của cửa hàng đó), phó từ 「もう」 (đã), động từ thể て 「開いて」 (mở) và đuôi trạng thái 「います」.
+part_40.csv-16: Cấu trúc 「V-ている」 diễn tả hành động đang diễn ra. Thứ tự: địa điểm 「公園で」, lượng từ 「たくさんの」 bổ nghĩa cho 「子供が」 (trẻ em), động từ thể て 「遊んで」 và phần đuôi tiếp diễn 「います」.
+part_40.csv-17: Cấu trúc 「Nをしている」 dùng để nói về nghề nghiệp hoặc vai trò. Thứ tự: chủ ngữ 「私の兄は」 (anh trai tôi), cụm danh từ nghề nghiệp 「中学校の先生を」 (giáo viên trung học) và đuôi hành động trạng thái 「しています」.
+part_40.csv-20: Cấu trúc 「V-ていない」 diễn tả trạng thái chưa hoàn thành. Thứ tự: chủ ngữ 「私は」 (tôi), cụm trạng từ thời gian 「まだ今日の」 (vẫn chưa... của ngày hôm nay), tân ngữ 「宿題を」 (bài tập) và động từ đuôi phủ định 「していません」.

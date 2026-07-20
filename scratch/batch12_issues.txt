@@ -1,0 +1,2 @@
+part_57.csv:8
+ORIG: Cấu trúc 「Nとともに」 (cùng với N). 「取引先の」 bổ nghĩa cho danh từ 「皆様」. 「と」 và 「ともに」 tách ra theo thứ tự cú pháp tự nhiên để tạo thành cụm trạng ngữ chỉ sự đồng hành. Vế sau là động từ nguyện vọng kính ngữ 「発展してまいりたいと存じます」.

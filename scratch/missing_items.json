@@ -1,0 +1,464 @@
+[
+    {
+        "id": "part_7.csv-1",
+        "Grammar": "いたり",
+        "JLPT Level": "N1",
+        "Reference Example": "①このたび我が社の長年の社会奉仕活動に対して地域文化賞をいただきましたことは誠に光栄のいたりに存じます。"
+    },
+    {
+        "id": "part_7.csv-2",
+        "Grammar": "いちがいに～ない",
+        "JLPT Level": "N2",
+        "Reference Example": "①有機野菜が安全だといちがいには言えない。"
+    },
+    {
+        "id": "part_7.csv-3",
+        "Grammar": "いちど",
+        "JLPT Level": "N4",
+        "Reference Example": "①タイ料理は一度食べると病みつきになる。"
+    },
+    {
+        "id": "part_7.csv-4",
+        "Grammar": "いちど",
+        "JLPT Level": "N4",
+        "Reference Example": "①こんなところは一度来ればたくさんだ。"
+    },
+    {
+        "id": "part_7.csv-5",
+        "Grammar": "いつか",
+        "JLPT Level": "N4",
+        "Reference Example": "①本を読んでいる間にいつか眠り込んでしまったようだ。"
+    },
+    {
+        "id": "part_7.csv-6",
+        "Grammar": "いつか",
+        "JLPT Level": "N4",
+        "Reference Example": "①いつか見た映画の中にもこんな台詞があった。"
+    },
+    {
+        "id": "part_7.csv-7",
+        "Grammar": "いつか",
+        "JLPT Level": "N4",
+        "Reference Example": "①あいつもいつかはきっと自分の間違いに気づくだろう。"
+    },
+    {
+        "id": "part_7.csv-8",
+        "Grammar": "いつか",
+        "JLPT Level": "N4",
+        "Reference Example": "①いつかのセールスマンがまた来た。"
+    },
+    {
+        "id": "part_7.csv-9",
+        "Grammar": "いっこうに",
+        "JLPT Level": "N2",
+        "Reference Example": "①30分待ったが、彼はいっこうに現れない。"
+    },
+    {
+        "id": "part_7.csv-10",
+        "Grammar": "いっさい",
+        "JLPT Level": "N2",
+        "Reference Example": "①計画の変更はいっさいない。"
+    },
+    {
+        "id": "part_7.csv-11",
+        "Grammar": "いつしか",
+        "JLPT Level": "N1",
+        "Reference Example": "①いつしかあたりは薄暗くなり、人影もまばらになっていた。"
+    },
+    {
+        "id": "part_7.csv-12",
+        "Grammar": "いっそ",
+        "JLPT Level": "N2",
+        "Reference Example": "①こんなにつらい思いをするくらいなら、いっそ離婚してしまいたい。"
+    },
+    {
+        "id": "part_7.csv-13",
+        "Grammar": "いっそ",
+        "JLPT Level": "N2",
+        "Reference Example": "①休職よりいっそ転職を考えてみたらどうですか。"
+    },
+    {
+        "id": "part_7.csv-14",
+        "Grammar": "いったい",
+        "JLPT Level": "N3",
+        "Reference Example": "①いったい彼は生きているのだろうか。"
+    },
+    {
+        "id": "part_7.csv-15",
+        "Grammar": "いったん～と",
+        "JLPT Level": "N3",
+        "Reference Example": "①彼女はおしゃべりな人で、いったん話し出すと止まらない。"
+    },
+    {
+        "id": "part_7.csv-16",
+        "Grammar": "いっぽう",
+        "JLPT Level": "N3",
+        "Reference Example": "①自分の仕事をこなす一方で、部下のめんどうも見なければならない。"
+    },
+    {
+        "id": "part_7.csv-17",
+        "Grammar": "いっぽう",
+        "JLPT Level": "N2",
+        "Reference Example": "①この映画は、一方では今年最高との高い評価を受けていながら、他方ではひどい出来だと言われている。"
+    },
+    {
+        "id": "part_22.csv-9",
+        "Grammar": "さも",
+        "JLPT Level": "N1",
+        "Reference Example": "①かれはさもおいしそうにビールを飲みほした。"
+    },
+    {
+        "id": "part_22.csv-19",
+        "Grammar": "しいしい",
+        "JLPT Level": "N1",
+        "Reference Example": "①女は遠慮しいしい部屋の片隅に座った。"
+    },
+    {
+        "id": "part_29.csv-9",
+        "Grammar": "そもそも",
+        "JLPT Level": "N2",
+        "Reference Example": "①父が殊に手を出したことが、わが家の苦労のそもそもの始まりだった。"
+    },
+    {
+        "id": "part_30.csv-3",
+        "Grammar": "それでも",
+        "JLPT Level": "N3",
+        "Reference Example": "①いろいろ説明してもらったが、それでもまだ納得できない。"
+    },
+    {
+        "id": "part_32.csv-7",
+        "Grammar": "だけ１",
+        "JLPT Level": "N3",
+        "Reference Example": "①スポーツはただ見るだけでは面白くない。"
+    },
+    {
+        "id": "part_32.csv-12",
+        "Grammar": "だけ１",
+        "JLPT Level": "N3",
+        "Reference Example": "①その野菜はめずらしいというだけでよく売れている。"
+    },
+    {
+        "id": "part_34.csv-5",
+        "Grammar": "だとすると",
+        "JLPT Level": "N3",
+        "Reference Example": "①A：近くに大きなホテルができるのは確実です。B：だとすると、この町の雇用率が上がるかもしれませんね。"
+    },
+    {
+        "id": "part_34.csv-7",
+        "Grammar": "だなんて",
+        "JLPT Level": "N2",
+        "Reference Example": "①今頃になって気が変わっただなんてよく言えますね。"
+    },
+    {
+        "id": "part_34.csv-9",
+        "Grammar": "だの",
+        "JLPT Level": "N2",
+        "Reference Example": "①彼女は市場に出かけると、肉だの野菜だの持ちきれないほど買ってきた。"
+    },
+    {
+        "id": "part_36.csv-4",
+        "Grammar": "たりとも",
+        "JLPT Level": "N1",
+        "Reference Example": "①試験まであと一カ月しかない。一日たりとも無駄にはできない。"
+    },
+    {
+        "id": "part_36.csv-8",
+        "Grammar": "たる",
+        "JLPT Level": "N1",
+        "Reference Example": "①そのショーの意外性たるや、すべての人の注目を集めるに十分であった。"
+    },
+    {
+        "id": "part_36.csv-9",
+        "Grammar": "たろう",
+        "JLPT Level": "N2",
+        "Reference Example": "①母は若いころはずいぶん美人だったろう。"
+    },
+    {
+        "id": "part_36.csv-12",
+        "Grammar": "だろう",
+        "JLPT Level": "N4",
+        "Reference Example": "①この計画に、母は賛成してくれるだろうか。"
+    },
+    {
+        "id": "part_36.csv-13",
+        "Grammar": "だろう",
+        "JLPT Level": "N3",
+        "Reference Example": "①さっきすれちがった人は、高校のときの同級生ではないだろか。"
+    },
+    {
+        "id": "part_36.csv-14",
+        "Grammar": "だろう",
+        "JLPT Level": "N2",
+        "Reference Example": "①相手が重役だろうが、社長だろうが、彼は遠慮せずに言いたいことを言う。"
+    },
+    {
+        "id": "part_36.csv-15",
+        "Grammar": "だろう",
+        "JLPT Level": "N3",
+        "Reference Example": "①その山道は、子供には厳しかっただろうに、よく歩き通した。"
+    },
+    {
+        "id": "part_36.csv-16",
+        "Grammar": "だろう",
+        "JLPT Level": "N3",
+        "Reference Example": "①あなたの言い方がきついから、彼女はとうとう泣き出してしまった。もっとやさしい言い方もあっただろうに。"
+    },
+    {
+        "id": "part_36.csv-17",
+        "Grammar": "ちがいない",
+        "JLPT Level": "N3",
+        "Reference Example": "①あんなすばらしい車に乗っているのだから、田村さんは金持ちにちがいない。"
+    },
+    {
+        "id": "part_36.csv-18",
+        "Grammar": "ちっとも～ない",
+        "JLPT Level": "N4",
+        "Reference Example": "①この前の旅行はちっとも楽しくなかった。"
+    },
+    {
+        "id": "part_36.csv-19",
+        "Grammar": "ちなみに",
+        "JLPT Level": "N2",
+        "Reference Example": "①この遊園地を訪れた人は、今年五十万人に上りました。これは去年の三十万人を大きく上回っています。ちなみに迷子の数も千人と去年の倍近くありました。"
+    },
+    {
+        "id": "part_36.csv-20",
+        "Grammar": "ちゃんと",
+        "JLPT Level": "N4",
+        "Reference Example": "①めがねを新しいのに変えたら、ちゃんと見えるようになった。"
+    },
+    {
+        "id": "part_39.csv-3",
+        "Grammar": "つもり",
+        "JLPT Level": "N4",
+        "Reference Example": "①来年はヨーロッパヘ旅行するつもりだ。"
+    },
+    {
+        "id": "part_39.csv-9",
+        "Grammar": "つもり",
+        "JLPT Level": "N3",
+        "Reference Example": "①私はそんなことを言ったつもりはない。"
+    },
+    {
+        "id": "part_40.csv-1",
+        "Grammar": "ていい",
+        "JLPT Level": "N4",
+        "Reference Example": "①この部屋にあるものは自由に使っていい。"
+    },
+    {
+        "id": "part_40.csv-2",
+        "Grammar": "ていく",
+        "JLPT Level": "N4",
+        "Reference Example": "①学校まで走っていこう。"
+    },
+    {
+        "id": "part_40.csv-3",
+        "Grammar": "ていく",
+        "JLPT Level": "N4",
+        "Reference Example": "①あの子は、友達とけんかして、泣きながら帰っていった。"
+    },
+    {
+        "id": "part_40.csv-4",
+        "Grammar": "ていく",
+        "JLPT Level": "N3",
+        "Reference Example": "①あと少しだからこの仕事をすませていきます。"
+    },
+    {
+        "id": "part_40.csv-5",
+        "Grammar": "ていく",
+        "JLPT Level": "N3",
+        "Reference Example": "①結婚してからも仕事は続けていくつもりです。"
+    },
+    {
+        "id": "part_40.csv-6",
+        "Grammar": "ていく",
+        "JLPT Level": "N3",
+        "Reference Example": "①この学校では、毎年五百名の学生が卒業していく。"
+    },
+    {
+        "id": "part_40.csv-7",
+        "Grammar": "ていけない",
+        "JLPT Level": "N1",
+        "Reference Example": "①この音楽を聞くたびに、別れた恋人のことが思い出されていけない。"
+    },
+    {
+        "id": "part_40.csv-8",
+        "Grammar": "ていただく",
+        "JLPT Level": "N4",
+        "Reference Example": "①友達のお父さんに、駅まで車で送っていただきました。"
+    },
+    {
+        "id": "part_40.csv-9",
+        "Grammar": "ていただく",
+        "JLPT Level": "N3",
+        "Reference Example": "①まず、1階で受け付けをすませていただきます。それから3階の方にいらして下さい。"
+    },
+    {
+        "id": "part_40.csv-10",
+        "Grammar": "ていただく",
+        "JLPT Level": "N3",
+        "Reference Example": "①A：この次からは、間違えないでいただきたいですね。B：はい、申し訳ございませんでした。"
+    },
+    {
+        "id": "part_40.csv-11",
+        "Grammar": "ていただく",
+        "JLPT Level": "N3",
+        "Reference Example": "①A二ご注文のお品ですが、取り寄せますので、3日ほど待っていただけますか。B：ええ、かまいません。"
+    },
+    {
+        "id": "part_40.csv-12",
+        "Grammar": "ていただく",
+        "JLPT Level": "N3",
+        "Reference Example": "①A：私がやりましょう。B：そうですか。そうしていただけると助かります。"
+    },
+    {
+        "id": "part_40.csv-13",
+        "Grammar": "ていはしまいか",
+        "JLPT Level": "N1",
+        "Reference Example": "①環境保護の運動が盛んになってきたが、本質的な問題を忘れていはしまいか。"
+    },
+    {
+        "id": "part_40.csv-18",
+        "Grammar": "ている",
+        "JLPT Level": "N4",
+        "Reference Example": "①調べてみると、彼はその会社を三か月前にやめていることがわかった。"
+    },
+    {
+        "id": "part_40.csv-19",
+        "Grammar": "ている",
+        "JLPT Level": "N3",
+        "Reference Example": "①子供が大学に入るころには、父親はもう定年退職しているだろう。"
+    },
+    {
+        "id": "part_43.csv-6",
+        "Grammar": "ではあるが",
+        "JLPT Level": "N2",
+        "Reference Example": "①この絵はきれいではあるが、感動させるものがない。"
+    },
+    {
+        "id": "part_44.csv-1",
+        "Grammar": "ではないか2",
+        "JLPT Level": "N3",
+        "Reference Example": "①こんなうまい話は、うそではないかと思う。"
+    },
+    {
+        "id": "part_52.csv-1",
+        "Grammar": "とおもう",
+        "JLPT Level": "N2",
+        "Reference Example": "①彼は、いつ寝ているのかと思うほどいそがしそうだ。"
+    },
+    {
+        "id": "part_52.csv-2",
+        "Grammar": "とおもう",
+        "JLPT Level": "N2",
+        "Reference Example": "①勉強しているかと思えば漫画を読んでいる。"
+    },
+    {
+        "id": "part_52.csv-3",
+        "Grammar": "とおもう",
+        "JLPT Level": "N2",
+        "Reference Example": "①熱心に授業に出る学生がいるかと思えば、全然出席せずに試験だけ受けるような学生もいる。"
+    },
+    {
+        "id": "part_52.csv-4",
+        "Grammar": "とおもう",
+        "JLPT Level": "N4",
+        "Reference Example": "①体にいいからと思って、緑の野莱を食べるようにしています。"
+    },
+    {
+        "id": "part_52.csv-5",
+        "Grammar": "とおもう",
+        "JLPT Level": "N2",
+        "Reference Example": "①何を言うのかと思ったら、そんなくだらないことか。"
+    },
+    {
+        "id": "part_52.csv-6",
+        "Grammar": "とおもう",
+        "JLPT Level": "N1",
+        "Reference Example": "①今場所は横綱の優勝間違いなしと思いきや、日目にケガで休場することになってしまった。"
+    },
+    {
+        "id": "part_52.csv-7",
+        "Grammar": "とおもう",
+        "JLPT Level": "N2",
+        "Reference Example": "①つめたい雨が降ってきたと思う間もなく、それは雪にかわった。"
+    },
+    {
+        "id": "part_52.csv-8",
+        "Grammar": "とおもう",
+        "JLPT Level": "N2",
+        "Reference Example": "①急に空が暗くなったかと思うと、大粒の雨がふってきた。"
+    },
+    {
+        "id": "part_52.csv-9",
+        "Grammar": "とおもう",
+        "JLPT Level": "N4",
+        "Reference Example": "①おばあちゃんへのお土産にと思って、湯飲み茶碗を買った。"
+    },
+    {
+        "id": "part_52.csv-10",
+        "Grammar": "とおり",
+        "JLPT Level": "N3",
+        "Reference Example": "①駅からあの建物までには3通りの行き方がある。"
+    },
+    {
+        "id": "part_52.csv-11",
+        "Grammar": "とおり",
+        "JLPT Level": "N3",
+        "Reference Example": "①計画はなかなか予定どおりには進まないものだ。"
+    },
+    {
+        "id": "part_52.csv-12",
+        "Grammar": "とおり",
+        "JLPT Level": "N3",
+        "Reference Example": "①おっしゃるとおりです。（＝あなたの意見に賛成です。）"
+    },
+    {
+        "id": "part_52.csv-13",
+        "Grammar": "とか1",
+        "JLPT Level": "N3",
+        "Reference Example": "①病気のお見舞いには果物とかお花が好まれる。"
+    },
+    {
+        "id": "part_52.csv-14",
+        "Grammar": "とか1",
+        "JLPT Level": "N3",
+        "Reference Example": "①休日はテレビを見るとか、買い物するとかして過ごすことが多い。"
+    },
+    {
+        "id": "part_52.csv-15",
+        "Grammar": "とか2",
+        "JLPT Level": "N3",
+        "Reference Example": "①山田さんとかいう人が訪ねてきていますよ。"
+    },
+    {
+        "id": "part_52.csv-16",
+        "Grammar": "とか2",
+        "JLPT Level": "N3",
+        "Reference Example": "①彼女は買い物に行くとこれがいいとかあれがいいとか言って、決まるまでに本当に時間がかかる。"
+    },
+    {
+        "id": "part_52.csv-17",
+        "Grammar": "とか2",
+        "JLPT Level": "N3",
+        "Reference Example": "①隣の娘さんは来月結婚式を挙げるとかいうことだ。"
+    },
+    {
+        "id": "part_52.csv-18",
+        "Grammar": "とか2",
+        "JLPT Level": "N2",
+        "Reference Example": "①途中で事故があったとかで、彼は1時間ほど遅刻してきた。"
+    },
+    {
+        "id": "part_52.csv-19",
+        "Grammar": "とかく",
+        "JLPT Level": "N2",
+        "Reference Example": "①女だというだけで、とかく軽く見られがちだ。"
+    },
+    {
+        "id": "part_52.csv-20",
+        "Grammar": "とかく",
+        "JLPT Level": "N2",
+        "Reference Example": "①先のことを今からとかく心配してもしようがない。"
+    }
+]

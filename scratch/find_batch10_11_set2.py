@@ -1,0 +1,22 @@
+import csv, os
+dir_path = r'd:\pj\xx\ai-gen-quiz\mondai2_ordering\csv_filled\set_2_business'
+out = []
+leakage_str = "Câu được chia thành các phần tương ứng để kiểm tra khả năng sắp xếp trật tự từ ngữ pháp trong tiếng Nhật một cách chính xác nhất"
+for i in range(46, 56):
+    file = f'part_{i}.csv'
+    path = os.path.join(dir_path, file)
+    if not os.path.exists(path): continue
+    with open(path, encoding='utf-8-sig') as f:
+        r = list(csv.reader(f))
+        headers = r[0]
+        exp_idx = headers.index('Explanation') if 'Explanation' in headers else -1
+        if exp_idx == -1: exp_idx = len(headers) - 1
+        
+        for idx, row in enumerate(r):
+            if idx == 0: continue
+            if len(row) > exp_idx:
+                exp = ','.join(row[exp_idx:]) 
+                exp_clean = exp.replace('"', '')
+                if 'thứ tự' in exp_clean.lower() or 'cú pháp' in exp_clean.lower() or 'logic' in exp_clean.lower() or leakage_str.lower() in exp_clean.lower():
+                    out.append(f'{file}-{idx}: {exp}')
+open(r'd:\pj\xx\ai-gen-quiz\scratch\batch10_11_set2_issues.txt', 'w', encoding='utf-8').write('\n'.join(out))

@@ -1,0 +1,8 @@
+part_46.csv:8
+ORIG: 「本日の」 bổ nghĩa cho danh từ 「業務報告が」. 「終わった」 là động từ thể quá khứ bổ nghĩa cho danh từ 「人」. 「人から」 chỉ thứ tự ưu tiên, đi kèm phó từ 「順次」 (lần lượt). Động từ 「退社し」 kết hợp với đuôi 「てもよろしい」 tạo thành mẫu ngữ pháp biểu thị sự cho phép (Permission) từ cấp trên giao cho cấp dưới trong công ty.
+
+part_48.csv:10
+ORIG: Vế đầu 「先方が提案を受け入れたということは」 đưa ra sự thực làm tiền đề logic (việc đối tác chấp nhận đề xuất). Vế sau chỉ ra hệ quả tất yếu mang tính giải thích 「来月からプロジェクトが始まるということだ」 (đồng nghĩa với việc dự án sẽ bắt đầu từ tháng tới).
+
+part_48.csv:19
+ORIG: Câu đầu đưa ra đề xuất mang tính chiến lược thương mại (nên đổi nhà cung ứng). Liên từ 「というのも」 bắt đầu câu sau để bổ sung luận cứ giải thích lý do một cách logic. Mệnh đề nguyên nhân 「対応が非常に遅れている」 chỉ ra khiếm khuyết của đối tác, kết bằng dạng lịch sự 「からです」.

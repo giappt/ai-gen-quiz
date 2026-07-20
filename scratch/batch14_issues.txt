@@ -1,0 +1,20 @@
+part_69.csv:3
+ORIG: Cụm từ cố định 「なんということもなく」 mang nghĩa không có gì đặc biệt hoặc diễn ra suôn sẻ. Được tách thành các khúc cú pháp tự nhiên để bổ nghĩa cho trạng từ chỉ cách thức 「予定通りに」 đứng trước động từ trang trọng 「終了いたしました」.
+part_70.csv:1
+ORIG: Cấu trúc phó từ 「なんら」 đi kèm với thể phủ định 「しない」 nhằm nhấn mạnh ý nghĩa 「hoàn toàn không...」. Thứ tự kết hợp logic trong câu công sở: Chủ ngữ 「仕様変更は」 -> Cụm sở hữu bổ nghĩa 「当方の」 đi với danh từ đối tượng 「開発計画に」 -> Phó từ định ngữ 「なんら」 đứng trước động từ phủ định định vị kết quả 「影響しない」 -> Kết thúc bằng cụm nhận định khách quan 「と考えられます」.
+part_70.csv:3
+ORIG: Hình thức 「R-にV」 (với R là thể ます bỏ ます của động từ, và V là cùng động từ đó chia thể quá khứ hoặc hiện tại) dùng để nhấn mạnh mức độ lặp lại hoặc sự kỹ lưỡng tối đa của hành động. Ở đây 「練りに練った」 nghĩa là hoạch định vô cùng kỹ càng. Thứ tự cú pháp: Trạng từ thời gian và mức độ 「今回、長期間」 -> Tính ngữ bổ nghĩa cấu trúc lặp 「練りに練った」 bổ nghĩa cho danh từ chủ ngữ 「事業計画書が」 -> Nơi chốn/phương tiện thông qua 「取締役会で」 -> Động từ bị động kính ngữ kết câu 「承認されました」.
+part_70.csv:4
+ORIG: Ngữ pháp 「V-るにV-れない」 biểu thị tình trạng dù rất muốn làm một hành động nào đó nhưng do hoàn cảnh ràng buộc nên không thể thực hiện được. Vế 「断るに断れない」 nghĩa là muốn từ chối mà bất khả kháng không thể từ chối. Trình tự logic: Vế nguyên nhân khách quan 「急な依頼なだけに」 -> Định ngữ chỉ đối tượng 「今回の案件は」 -> Cụm ngữ pháp lưỡng lự chọn lựa 「断るに断れない」 đóng vai trò định ngữ bổ nghĩa cho danh từ chỉ thực tế 「状況」 -> Động từ trạng thái 「にあります」.
+part_70.csv:6
+ORIG: Mẫu 「～にあたり」 là dạng văn viết, trang trọng hơn của 「にあたって」, thường thấy trong các thông báo, văn bản công sở. Trình tự cú pháp diễn tiến tự nhiên: Định ngữ thời gian tương lai 「次半期の」 -> Cụm danh từ chỉ sự kiện công nghệ 「新システムの導入に」 đi kèm quán ngữ chỉ bối cảnh chuẩn bị 「あたり」 -> Cụm tân ngữ xác định đối tượng phục vụ 「全社員向けの研修を」 -> Động từ khiêm nhường ngữ trang trọng kết câu 「実施いたします」.
+part_70.csv:8
+ORIG: Ngữ pháp 「Nにあっても」 mang ý nghĩa nhượng bộ 「ngay cả trong hoàn cảnh N đặc biệt/bất lợi đi chăng nữa」. Thứ tự sắp xếp câu: Cụm bổ nghĩa định hình tính chất 「今回のような不測の」 gắn với danh từ bối cảnh 「事態に」 -> Liên từ nhượng bộ ngữ pháp 「あっても」 -> Cụm danh từ chủ ngữ vế sau 「冷静な対応が」 -> Động từ bị động khách quan chỉ quy định/yêu cầu 「求められます」.
+part_70.csv:11
+ORIG: Động từ định ngữ 「に至る」 diễn tả kết quả đạt đến một trạng thái hoặc mốc cụ thể sau một quá trình dài. Thứ tự logic câu: Cụm thời gian kéo dài 「数ヶ月に及ぶ」 bổ nghĩa cho danh từ tiến trình 「交渉を」 -> Động từ liên kết chuỗi thời gian 「経て」 -> Trạng từ và danh từ đích đến 「ようやく最終合意に」 -> Động từ kết quả đóng vai trò bổ nghĩa bổ ngữ 「至る」 -> Cụm danh từ chỉ viễn cảnh kết câu 「見通しとなりました」.
+part_70.csv:15
+ORIG: Mẫu 「～に至っても」 diễn tả sự phê phán hoặc kinh ngạc: 「ngay cả khi tình hình đã tồi tệ đến mức... mà vẫn không thay đổi hành vi」. Thứ tự kết hợp câu: Cụm bổ ngữ hành động khởi đầu 「クライアントから正式な抗議を」 -> Cụm động từ bổ nghĩa danh từ sự cố 「受ける事態に」 -> Cấu trúc nhượng bộ tương phản ngữ pháp 「至っても」 -> Tân ngữ bổ nghĩa vế sau 「適切な対応を」 -> Cụm vị ngữ phủ định kèm phán đoán khách quan kết câu 「行わなかったようです」.
+part_70.csv:18
+ORIG: Mẫu 「Nにおいて」 ở đây dùng để khoanh vùng khía cạnh, lĩnh vực hoặc năng lực được đem ra đánh giá, so sánh (「về mặt.../ trong lĩnh vực...」). Thứ tự cú pháp logic: Định ngữ nội dung thương mại 「製造コストの」 bổ nghĩa danh từ khía cạnh kèm cấu trúc 「削減において」 -> Chủ ngữ tự xưng trang trọng 「弊社は」 -> Cụm đối tượng đối chiếu cạnh tranh 「競合他社に対して」 -> Cụm tân ngữ kết quả 「大きな優位性を」 -> Động từ khiêm nhường ngữ trạng thái kết câu 「持っております」.
+part_70.csv:19
+ORIG: Cấu trúc 「Nに応じて」 diễn tả sự điều chỉnh, thay đổi sao cho tương thích và phù hợp với sự biến đổi của N (「tùy theo.../ ứng với...」). Thứ tự câu chuẩn mực kinh doanh: Định ngữ kế hoạch tương lai 「来期の」 bổ nghĩa chủ ngữ câu hành động 「予算配分は」 -> Cụm sở hữu bộ phận 「各プロジェクトの」 đi liền danh từ tiêu chuẩn thay đổi kèm ngữ pháp 「進捗状況に応じて」 -> Phó từ cách thức thích ứng 「柔軟に」 -> Động từ khiêm nhường ngữ thể hiện quyết tâm tổ chức kết câu 「決定いたします」.

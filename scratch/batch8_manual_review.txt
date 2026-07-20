@@ -1,0 +1,62 @@
+part_37.csv:1
+ORIG: Cấu trúc biểu thị việc thực hiện hành động một cách cẩn thận, chuẩn chỉ, không sai sót (「ちゃんと」). Thứ tự tự nhiên của câu: Trạng ngữ chỉ thời gian (「明日の会議の前に、」) -> Tân ngữ chịu tác động (「この大切な資料を」) -> Mục đích/Trạng thái (「ミスがないように」) -> Phó từ (「ちゃんと」) -> Động từ chia thể て đi liền với cấu trúc chuẩn bị trước (「確認しておいてください。」).
+
+part_37.csv:2
+ORIG: Hậu tố 「中（ちゅう）」 gắn sau danh từ hành động để chỉ một trạng thái đang diễn ra (「来客中」: đang tiếp khách). Thứ tự kết hợp logic: Chủ ngữ (「社長は」) -> Phó từ thời gian trang trọng lịch sự (「ただいま」) -> Mệnh đề chỉ lý do nguyên nhân (「来客中ですので、」) -> Trạng ngữ chỉ địa điểm (「受付のソファで」) -> Lượng từ/phó từ mức độ (「少々」) -> Cấu trúc kính ngữ cầu khiến tôn kính (「お待ちください。」).
+
+part_37.csv:3
+ORIG: Hậu tố 「中（ちゅう・じゅう）」 khi đi sau danh từ chỉ thời gian mang nghĩa là 「trong phạm vi thời hạn/khoảng thời gian đó」 (「今週中」: trong tuần này). Thứ tự các thành phần câu: Cụm danh từ làm chủ đề (「新しいプロジェクトの企画書は、」) -> Thời hạn thực hiện (「今週中には」) -> Cách thức bắt buộc (「必ずメールで」) -> Động từ làm định ngữ (「提出する」) bổ nghĩa cho danh từ kết thúc chỉ kế hoạch (「予定です。」).
+
+part_37.csv:4
+ORIG: Phó từ 「ちょっと」 dùng để chỉ mức độ nhẹ nhàng hoặc số lượng nhỏ (「một chút」). Thứ tự sắp xếp câu: Khởi đầu bằng lời xin lỗi (「すみません、」) -> Chủ ngữ (「私は」) -> Trạng ngữ thời gian và phó từ mức độ (「今ちょっと」) -> Tính từ mang đuôi chỉ nguyên nhân (「忙しいですから、」) -> Thời điểm tiếp theo (「後で」) -> Động từ hành động kết thúc (「電話します。」).
+
+part_37.csv:5
+ORIG: Phó từ 「ちょっと」 đặt trước động từ nhằm giảm bớt sự đường đột, làm giảm nhẹ mức độ của hành động hoặc lời nhờ vả để tăng tính lịch sự. Thứ tự câu: Gọi tên đối tượng (「田中さん、」) -> Mệnh đề định ngữ (「机の上にある」) bổ nghĩa cho tân ngữ (「その資料を」) -> Phó từ giảm nhẹ (「ちょっと」) -> Người tiếp nhận (「私に」) -> Động từ cầu khiến (「見せてください。」).
+
+part_37.csv:6
+ORIG: Phó từ 「ちょっと」 đứng trước tính từ tiêu cực (「難しい」) nhằm nói giảm nói tránh, làm dịu giọng điệu nhận xét trong công sở để không làm mất lòng đồng nghiệp. Thứ tự cú pháp: Mệnh đề phụ bổ nghĩa (「木村さんが書いた」) gắn vào cụm danh từ chủ đề (「メールの日本語は、」) -> Phó từ giảm nhẹ giọng điệu (「ちょっと」) -> Tính từ tâm điểm (「難しい」) -> Vĩ từ cảm thán (「ですね。」) và câu phản hồi của đối phương.
+
+part_37.csv:7
+ORIG: Cách nói bỏ lửng 「ちょっと…」 là một hình thức từ chối khéo léo, tế nhị vô cùng đặc trưng và quan trọng trong môi trường công sở Nhật Bản. Thứ tự hội thoại logic: Lời dẫn dắt (「急な仕事ですが、」) -> Cụm thời gian định ngữ (「今週の土曜日に」) -> Câu hỏi khả năng hành động (「出勤できますか。」) -> Câu trả lời đưa mốc thời gian làm chủ đề nhấn mạnh (「B：土曜日は」) và kết thúc bằng phó từ lửng.
+
+part_37.csv:8
+ORIG: Phó từ 「ちょっと」 khi đi kèm với một tính từ mang nghĩa tích cực (「面白い」) sẽ mang sắc thái nhấn mạnh, đánh giá cao (「khá là」, 「không phải dạng vừa đâu」). Thứ tự tự nhiên: Chủ ngữ mệnh đề định ngữ (「鈴木さんが」) -> Cụm động từ bổ nghĩa (「会議で提案した」) bổ sung ý nghĩa cho chủ đề câu (「新しいアイデアは、」) -> Phó từ đánh giá (「ちょっと」) -> Tính từ (「面白い」) -> Đuôi câu đồng tình (「ですね。」).
+
+part_37.csv:9
+ORIG: Cấu trúc 「ちょっと～ない」 đi với thể phủ định mang nghĩa là 「hiếm có」, 「không dễ gì tìm được」, dùng để khen ngợi mức độ xuất sắc của sự vật. Thứ tự từ: Định ngữ sở hữu (「佐藤さんの」) -> Cụm tính từ chỉ mức độ cao (「これほど素晴らしい」) bổ nghĩa cho danh từ chủ đề (「企画書は、」) -> Trạng từ thời gian (「最近」) -> Phó từ đi kèm phủ định (「ちょっと」) -> Động từ phủ định trang trọng (「ありません。」).
+
+part_37.csv:10
+ORIG: Cấu trúc 「ちょっと～ない」 phối hợp để làm nhẹ sắc thái của lời từ chối hoặc thừa nhận sự thiếu sót của bản thân, thể hiện sự lịch sự khi không thể đáp ứng thông tin. Thứ tự: Gọi tên cấp trên (「A：鈴木部長、」) -> Tân ngữ chủ đề của câu hỏi (「他社との契約書はどこですか。」) -> Lời xin lỗi của người phản hồi (「B：すみません、」) -> Đại từ nhân xưng đi kèm phó từ giới hạn (「私にはちょっと」) -> Động từ phủ định kết thúc (「わかりません。」).
+
+part_37.csv:11
+ORIG: Thán từ 「ちょっと」 đứng đầu câu dùng để gọi, gây sự chú ý với người nghe một cách nhẹ nhàng, thường dùng giữa đồng nghiệp thân thiết hoặc cấp trên gọi cấp dưới (君). Thứ tự sắp xếp câu: Thán từ gọi (「ちょっと、」) -> Tên người nhận lời gọi (「木村君、」) -> Tân ngữ chịu tác động (「この会議の資料を」) -> Lượng từ ước lượng (「5部ほど」) -> Động từ cầu khiến hành động (「コピーしてください。」).
+
+part_37.csv:12
+ORIG: Cụm từ 「ちょっとした + Danh từ」 dùng để chỉ những việc nhỏ nhặt, không có gì to tát nhằm làm nhẹ bớt tính chất vấn đề ban đầu. Thứ tự ngữ pháp: Trạng ngữ nơi chốn bổ nghĩa (「社内での」) -> Cụm từ định ngữ (「ちょっとした」) bổ nghĩa cho cụm danh từ chủ ngữ (「連絡のミスが、」) -> Cụm danh từ kết quả biến đổi (「大きなトラブルに」) -> Động từ biểu thị kết quả đáng tiếc (「なってしまいました。」).
+
+part_37.csv:13
+ORIG: Cụm từ 「ちょっとした + Danh từ」 ở đây mang ý nghĩa tích cực, biểu thị mức độ khá lớn, đáng kể, không thể coi thường. Thứ tự kết hợp câu: Mệnh đề phụ định ngữ thời gian (「先月発売された」) -> Định ngữ sở hữu (「弊社の」) -> Cụm từ chủ đề (「新しい製品は、」) -> Trạng ngữ địa điểm kết hợp cụm bổ nghĩa mức độ (「市場でちょっとした」) -> Danh từ mục tiêu (「ブームに」) -> Động từ trạng thái kéo dài (「なっています。」).
+
+part_37.csv:14
+ORIG: Mẫu ngữ pháp 「V1(Stem)つV2(Stem)つ」 biểu thị hai hành động đối lập diễn ra luân phiên liên tục hoặc một trạng thái giằng co gay gắt. Cụm 「抜きつ抜かれつ」 mang nghĩa vượt lên rồi lại bị vượt qua. Thứ tự câu: Định ngữ (「今回の」) -> Trạng ngữ phạm vi sự kiện (「大型プロジェクトの入札では、」) -> Đối tượng đối phó (「ライバル企業と」) -> Trạng từ thời gian (「最後まで」) -> Cụm ngữ pháp đóng vai trò tính từ bổ nghĩa (「抜きつ抜かれつの」) -> Cụm danh động từ kết thúc (「激しい競争となりました。」).
+
+part_37.csv:15
+ORIG: Phó từ 「つい」 diễn tả một hành động lỡ xảy ra ngoài ý muốn hoặc vô ý thức do một trạng thái tâm lý/sức khỏe thúc đẩy, thường đi kèm đuôi câu 「～てしまう」. Thứ tự logic: Trạng ngữ chỉ nguyên nhân gốc (「連日の残業で」) -> Vế câu chỉ lý do trực tiếp (「大変疲れていたので、」) -> Trạng ngữ thời gian (「重要な会議中に」) -> Phó từ đứng ngay trước cụm hành động (「つい居眠りを」) -> Động từ thể hiện sự hối tiếc (「してしまった。」).
+
+part_37.csv:16
+ORIG: Liên từ 「ついでに」 đứng ở đầu câu thứ hai, mang nghĩa 「nhân tiện, tiện thể」, dùng để kết nối một hành động phụ phát sinh thuận đường với hành động chính ở câu thứ nhất. Thứ tự sắp xếp: Trạng từ thời gian (「午後から」) -> Cụm tân ngữ hành động chính (「郵便局へ契約書を」) -> Kết thúc câu thứ nhất (「出しに行きました。」) -> Liên từ nối (「ついでに、」) -> Địa điểm hành động phụ (「近くの銀行で」) -> Hoàn thành hành động phụ (「用事も済ませてきました。」).
+
+part_37.csv:17
+ORIG: Cấu trúc 「V-る + ついでに」 dùng để lồng ghép hành động phụ vào một cơ hội hay một lộ trình của hành động chính có sẵn. Thứ tự cú pháp: Trạng từ thời gian tương lai (「来週」) -> Mệnh đề định ngữ chỉ hành động chính (「東京へ出張する」) -> Danh từ ngữ pháp chỉ sự nhân tiện (「ついでに、」) -> Đối tượng hướng tới của hành động phụ (「現地の取引先にも」) -> Mục đích hành động phụ gắn với cấu trúc kế hoạch (「挨拶に行く予定です。」).
+
+part_37.csv:18
+ORIG: Liên từ 「ついては」 mang tính chất trang trọng cao, dùng phổ biến trong thư tín thương mại, email kinh doanh với nghĩa 「về việc đó/chính vì lý do đó cho nên...」, mở đầu cho một đề xuất hoặc yêu cầu dựa trên bối cảnh đã nêu ở câu trước. Thứ tự câu: Thời gian (「来月、」) -> Sự tình dẫn nhập (「弊社は創立10周年を」 + 「迎えることとなりました。」) -> Liên từ trang trọng đầu câu hai (「ついては、」) -> Tân ngữ hành động tiếp sau (「記念パーティーを」) -> Vế kết quả kính ngữ thể hiện mong muốn (「開催いたしますので、ご出席いただけますと幸いです。」).
+
+part_37.csv:19
+ORIG: Phó từ 「ついに」 diễn tả một kết quả cuối cùng đã đạt được, một cái đích đã chạm tới sau khi trải qua một quá trình dài nỗ lực, kiên trì, thường đi với thể quá khứ 「～た」. Thứ tự các thành phần: Đối tượng phối hợp hành động (「他社と何ヶ月も」) -> Hành động tích lũy (「交渉を重ねた」) -> Danh từ chỉ hệ quả (「結果、」) -> Phó từ nhấn mạnh kết cục (「ついに」) -> Chủ ngữ chịu tác động (「念願の新しい契約が」) -> Động từ kết thúc (「成立しました。」).
+
+part_37.csv:20
+ORIG: Cấu trúc 「ついに + Động từ thể phủ định (～なかった)」 diễn tả một kết cục đáng tiếc, dù đã cố gắng hết sức hoặc đợi chờ rất lâu nhưng kết quả mong muốn cuối cùng đã không xảy ra. Thứ tự cú pháp: Trạng từ mức độ (「最後まで」) -> Tính từ bổ nghĩa cách thức (「粘り強く」) -> Vế câu hành động đối lập (「交渉を続けたが、」) -> Chủ đề câu phủ định (「先方の同意は」) -> Phó từ nhấn mạnh trạng thái phủ định (「ついに」) -> Động từ khả năng phủ định kết thúc (「得られませんでした。」).
+
+part_39.csv:11
+ORIG: Tân ngữ 「資料を」 đi với động từ chia thể て là 「印刷して」 để nối tiếp hành động theo trình tự thời gian. Vế tiếp theo bắt đầu bằng đối tượng nhận 「部長に」, phó từ 「すぐ」 và kết thúc bằng mẫu câu cầu khiến lịch sự 「渡してください」.

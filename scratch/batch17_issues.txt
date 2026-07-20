@@ -1,0 +1,8 @@
+part_84.csv:3
+ORIG: Cấu trúc 「V/A/N (thể bổ nghĩa danh từ) + 範囲で」 nghĩa là 「trong phạm vi...」. Trình tự logic của câu: Chủ đề thảo luận (今回の件は) -> chủ ngữ của mệnh đề bổ ngữ (私が) -> hành động giới hạn phạm vi (把握している範囲で) -> hành động khiêm nhường ngữ hướng tới đối phương (お答えいたします)。
+part_84.csv:4
+ORIG: Ngữ pháp N4 「反対に」 (trái ngược, ngược lại). Ở đây đóng vai trò là trạng từ bổ nghĩa cho động từ hành động. Thứ tự tự nhiên: Chủ ngữ (新人の鈴木さんは) -> cụm danh từ làm tân ngữ (配布資料の綴じる向きを) -> trạng từ chỉ cách thức (反対に) -> hành động (セットして) -> kết cục ngoài ý muốn, thể hiện sự tiếc nuối (しまった)。
+part_84.csv:5
+ORIG: Cấu trúc 「～とは反対に」 biểu thị sự tương phản, trái ngược hoàn toàn với một sự việc/đối tượng trước đó. 「の」 được dùng để danh từ hóa mệnh đề 「値上げした」. Thứ tự tự nhiên: Đối tượng so sánh (競合他社が値上げしたの) -> liên từ chỉ sự tương phản (とは反対に) -> chủ ngữ vế sau (我が社は) -> tân ngữ (価格を) -> hành động đối lập (据え置いた)。
+part_84.csv:18
+ORIG: Cấu trúc 「ひとつ間違えば」 nghĩa là 「chỉ cần một sai lầm nhỏ/sơ suất nhỏ xảy ra thì... (sẽ dẫn đến hậu quả nghiêm trọng)」. Trình tự logic: Chủ đề hành động nhạy cảm (契約書の作成は) -> trạng từ giả định rủi ro (ひとつ) -> điều kiện giả định (間違えば) -> định ngữ chỉ quy mô hậu quả (巨額の) -> mệnh đề chỉ hướng kết quả tiêu cực (損失につながる) -> danh từ chỉ mối nguy hại/lo sợ (恐れがあります)。

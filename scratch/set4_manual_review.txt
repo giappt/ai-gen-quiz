@@ -1,0 +1,362 @@
+part_2.csv:9
+ORIG: Phó từ phủ định 「あまり」 đi với thể phủ định ở cuối câu là 「ありません」 để mang ý nghĩa 「không... lắm」. Từ chỉ mức độ 「まだ」 (vẫn chưa) đứng trước 「あまり」 để bổ trợ ý nghĩa. Cụm chỉ đối tượng 「世間に」 (đối với xã hội/dư luận) đứng trước tính từ đuôi na chia thể phủ định 「有名では」 để bổ nghĩa cho tính từ này. Thứ tự đúng: まだ -> あまり -> 世間に -> 有名では.
+part_2.csv:10
+ORIG: Trạng từ 「あまりにも」 (quá đỗi, cực kỳ) đứng trước bổ nghĩa cho tính từ chia thể Te chỉ nguyên nhân là 「悲しくて」. Vế kết quả phía sau có danh từ sở hữu 「読者の」 bổ nghĩa cho tân ngữ 「涙を」, đi liền trước động từ kết thúc câu 「誘った」 (lấy đi nước mắt/làm rơi nước mắt). Thứ tự logic: あまりにも -> 悲しくて -> 読者の -> 涙を.
+part_5.csv:1
+ORIG: いかにも thường đi kèm với らしい để thể hiện tính chất điển hình (đúng nghĩa là, quả nhiên là). 真実を追い求める (đuổi theo chân lý) là mệnh đề định ngữ bổ nghĩa cho danh từ 新聞記者 (nhà báo). 新聞記者らしかった (rất ra dáng nhà báo) kết hợp với いかにも tạo thành cấu trúc hoàn chỉnh bổ nghĩa cho chủ ngữ 彼のその冷徹な眼差しは (Ánh mắt lạnh lùng đóのanh ta). Thứ tự sắp xếp logic: いかにも -> đối tượng định ngữ -> danh từ -> らしかった.
+part_5.csv:3
+ORIG: Cấu trúc Nいかんでは mang nghĩa tùy thuộc vào N mà... Ở đây, N là 動向 (xu hướng/động thái) được bổ nghĩa bởi 世論の (của dư luận). Cụm này định hình điều kiện dẫn đến vế sau: 内閣総辞職という (được gọi là nội các từ chức tập thể) bổ nghĩa cho danh từ 最悪の事態 ở phần Suffix. Thứ tự sắp xếp: 世論の -> 動向 -> いかんでは -> 内閣総辞職という -> Suffix.
+part_5.csv:5
+ORIG: いくら đóng vai trò nghi vấn từ chỉ số tiền không xác định. Động từ 払う chia sang thể giả định 払ったら (nếu trả...) biểu thị điều kiện. Tiếp theo là tân ngữ この原稿を (bản thảo này) đi trước động từ chính 買ってくれます (mua cho tôi). Đuôi câu hỏi là か. Thứ tự đúng: いくら -> 払ったら -> この原稿を -> 買ってくれます.
+part_5.csv:6
+ORIG: 「Cấu trúc いくらでも biểu thị số lượng vô hạn, không giới hạn (bao nhiêu cũng có/được). 金なら (nếu là tiền) làm chủ đề được nhấn mạnh, theo sau bởi trạng từ いくらでも và động từ tồn tại ある để chỉ sự dồi dào. Cụm trích dẫn kết thúc bằng と đi với động từ 言って. Thứ tự logic: 金なら -> いくらでも -> ある」と -> 言って.
+part_5.csv:9
+ORIG: Cấu trúc いくら～といっても mang ý nghĩa cho dù nói là... đi chăng nữa. いくら mở đầu mệnh đề. Chủ ngữのmệnh đề phụ là 電子書籍が (sách điện tử). Tính từ đuôi na 便利 kết hợp với だといっても thành 便利だといっても (cho dù nói là tiện lợi). Thứ tự đúng: いくら -> 電子書籍が -> 便利だと -> いっても.
+part_5.csv:10
+ORIG: Cấu trúc いくら～からといって diễn tả ý cho dù lý do là... thì cũng không được làm vế sau. いくら kết hợp với mệnh đề nguyên nhân 仕事が忙しい (công việc bận rộn). Đuôi mệnh đề là からといって (dẫu nói là vì lý do...). Thứ tự logic: いくら -> 仕事が -> 忙しい -> からといって.
+part_5.csv:14
+ORIG: Cấu trúc ～でなくてはいけない đi sau danh từ để chỉ nghĩa phải là/bắt buộc phải là... Trạng từ 常に (luôn luôn) đi trước để bổ nghĩa cho trạng thái. 中立な (trung lập) là tính từ đuôi na bổ nghĩa cho danh từ 立場 (lập trường/vị thế). Thứ tự logic: 常に -> 中立な -> 立場で -> なくてはいけない.
+part_5.csv:15
+ORIG: Danh từ 大震災 (trận động đất lớn) đi kèm chỉ thị từ あの (đó). Cấu trúc N以後 (kể từ sau N) gắn vào sau danh từ để tạo trạng ngữ chỉ thời gian. Vế sau bắt đầu bằng 政府の (của chính phủ) bổ nghĩa cho danh từ 防災対策 (biện pháp phòng chống thiên tai) ở phần Suffix. Thứ tự sắp xếp: あの -> 大震災 -> 以後、 -> 政府の.
+part_5.csv:16
+ORIG: Trạng từ 以後 đứng đầu câu trích dẫn để chỉ mốc thời gian từ nay về sau. Cụm danh từ このような不祥事 (vụ bê bối như thế này) làm tân ngữ đi với trợ từ を. Động từ chính là 起こす (gây ra) chia sang thể cấm đoán/khuyên can mạnh mẽ 起こしてはならない (không được phép gây ra). Thứ tự đúng: 以後 -> このような -> 不祥事を -> 起こしてはならない.
+part_5.csv:17
+ORIG: Trạng từ いささか (hơi/một chút, mang sắc thái trang trọng, văn viết) bổ nghĩa cho tính từ 唐突すぎる (quá đột ngột). 読者にとって (đối với độc giả) là cụm giới từ chỉ đối tượng cảm nhận. Cụm 唐突すぎる感 (cảm giác quá đột ngột) làm tân ngữ cho 否めない (không thể phủ nhận). Thứ tự logic: 読者にとって -> いささか -> 唐突すぎる -> 感が否めない.
+part_12.csv:8
+ORIG: 「今日の」 bổ nghĩa cho danh từ 「外」 (ngoài trời). 「外はとても」 (ngoài trời rất) đi kèm với tính từ 「寒いですが」 (lạnh nhưng - biểu thị quan hệ tương phản) đóng vai trò kết thúc vế thứ nhất. Vế thứ hai bắt đầu với chủ đề 「部屋の中は」 (bên trong phòng thì) đi kèm tính từ 「静かで」 (yên tĩnh và - nối tiếp trạng thái) bổ nghĩa cho vị ngữ cuối cùng ở Suffix 「暖かいです」 (ấm áp). Thứ tự đúng: 今日の (Prefix) + 外はとても+ 寒いですが、+ 部屋の中は+ 静かで+ 暖かいです。(Suffix).
+part_13.csv:2
+ORIG: Cấu trúc 「Nのかぎり」 biểu thị ý nghĩa 「với tất cả/ toàn bộ N」. Ở đây, 「知恵の限り」(tất cả trí khôn) đi với động từ 「尽くす」(vắt kiệt, dốc hết) chia thể Te là 「尽くして」 để nối câu. Cụm 「難解な謎に」(vào câu đố hóc búa) là đối tượng bổ nghĩa cho động từ hành động 「挑む」(thử thách, đương đầu) ở cuối câu. Thứ tự logic: 知恵の -> 限りを -> 尽くしてその -> 難解な謎に。
+part_13.csv:4
+ORIG: Động từ phức ghép 「隠し続ける」(tiếp tục che giấu) chia sang thể 「隠し続けている」 kết hợp với 「限り」 tạo thành cấu trúc 「Vている限り」 (chừng nào còn...). Phía trước cần có tân ngữ 「この真実を」(sự thật này). Vế sau chỉ kết quả tất yếu, nơi chốn nhận trạng thái là 「私たちの心に」(đến với tâm hồn chúng ta) đi trước chủ ngữ 「平和は訪れない」(hòa bình không đến). Thứ tự logic: 隠し -> 続けている -> 限り -> 私たちの心に。
+part_13.csv:9
+ORIG: Cấu trúc 「R-かけのN」 biểu thị một hành động đang làm dở thì dừng lại, bổ nghĩa cho danh từ phía sau. Ở đây, động từ 「読む」(đọc) bỏ masu thành 「読み」 kết hợp với 「かけの」 để bổ nghĩa cho danh từ 「小説が」(cuốn tiểu thuyết). Trạng từ 「静かに」(lặng lẽ, yên tĩnh) đứng trước động từ bị động 「置かれていた」(được đặt) ở phần Suffix. Thứ tự sắp xếp: 読み -> かけの -> 小説が -> 静かに。
+part_13.csv:12
+ORIG: Cấu trúc 「V-たが最後」 mang ý nghĩa 「một khi đã... thì kết cục (xấu) là không thể tránh khỏi」. Trạng từ 「一度」(một khi, một lần) đi trước động từ thể quá khứ 「迷い込んだ」(đã lạc vào). Tiếp theo là liên từ kết hợp 「が」 và danh từ 「最後」, đi kèm trạng từ phủ định 「二度と」(không bao giờ... lần thứ hai) để bổ nghĩa cho vế phủ định 「抜け出すことはできない」 ở Suffix. Thứ tự logic: 一度 -> 迷い込んだ -> が -> 最後、二度と。
+part_13.csv:15
+ORIG: Cấu trúc 「V-るかたわらで」 chỉ không gian vật lý bên cạnh một vật hay sự việc đang diễn ra (そば). Ở đây, chủ ngữのmệnh đề bổ ngữ là 「暖炉の」(lò sưởi - sử dụng の thay cho が trong mệnh đề định ngữ) đi trước động từ 「燃える」(cháy). Cụm này bổ nghĩa cho 「かたわらで」(ở bên cạnh). Sau đó, tính từ 「古い」(cũ kỹ) bổ nghĩa cho danh từ 「羊皮紙の書物」 ở Suffix. Thứ tự sắp xếp: 暖炉の -> 燃える -> かたわらで、 -> 古い。
+part_13.csv:16
+ORIG: Cấu trúc 「V-るかたわら」 thể hiện việc song song thực hiện một công việc phụ bên cạnh công việc chính (副次的動作). Định ngữ 「本業の」(của nghề nghiệp chính) bổ nghĩa cho tân ngữ 「会社を」(công ty). Động từ chính 「経営する」(điều hành, kinh doanh) bổ nghĩa trực tiếp cho liên từ 「かたわら」. Thứ tự đúng: 本業の -> 会社を -> 経営する -> かたわら、。
+part_13.csv:17
+ORIG: Cấu trúc 「R-がち/Nがち」 thể hiện xu hướng dễ xảy ra một trạng thái tiêu cực. Ở đây, định ngữ 「自分の」(của bản thân) bổ nghĩa cho danh từ phương tiện 「頭で」(bằng đầu). Cụm động từ danh từ hóa 「考えることを」(việc suy nghĩ) làm tân ngữ cho động từ 「忘れる」(quên). Động từ 「忘れる」 bỏ masu thành 「忘れ」 để kết hợp với hậu tố 「がちである」 ở phần Suffix. Thứ tự đúng: 自分の -> 頭で -> 考えることを -> 忘れ。
+part_13.csv:18
+ORIG: Cấu trúc 「R-がち」 dùng với động từ thể liên dụng (R-stem) chỉ xu hướng tiêu cực dễ xảy ra. Tân ngữ 「本質を」(bản chất) đi kèm với động từ phức 「見失う」(đánh mất, thất lạc) chia thể liên dụng là 「見失い」. Hậu tố 「がち」 đóng vai trò như một tính từ đuôi na, kết hợp với liên từ chỉ nguyên nhân 「なので」 để dẫn dắt đến kết luận ở phần Suffix 「注意が必要だ」(cần chú ý). Thứ tự sắp xếp: 本質を -> 見失い -> がち -> なので。
+part_13.csv:20
+ORIG: Phó từ chỉ thời gian 「かつて」(đã từng trong quá khứ) đứng đầu mệnh đề bổ ngữ định ngữ để bổ nghĩa cho động từ 「満ちていた」(đã tràn ngập). Trạng từ chỉ nơi chốn 「ここに」(ở đây) xác định không gianのtrạng thái. Động từ 「満ちていた」 bổ nghĩa cho danh từ chỉ người 「人々の」(của mọi người), từ đó tạo nên cụm chủ ngữ 「人々の歓声が」(tiếng reo hòのmọi người) cho vế sau ở phần Suffix. Thứ tự logic: かつて -> 여기에 -> 満ちていた -> 人々の。
+part_14.csv:16
+ORIG: Cấu trúc nhượng bộ 「確かに～かもしれないが」 thể hiện sự đồng ý một phần (「đúng là có thể... nhưng...」). Phó từ 「確かに」 đứng trước chủ ngữ 「効果が」 và động từ tồn tại 「ある」. Cụm động từ 「ある」 kết hợp với đuôi phán đoán kết hợp liên từ nghịch đối 「かもしれないが」 để mở đầu cho vế tương phản ở cuối câu. Thứ tự sắp xếp đúng là 1-2-3-4.
+part_16.csv:1
+ORIG: Cấu trúc 「からといって」 (nói thế không có nghĩa là) đi với phủ định 「とは限らない」 (không hẳn là) ở cuối câu. Thứ tự sắp xếp là: 「書いてある」 (được viết) bổ nghĩa cho lý do -> 「からといって」 (dẫu nói là) -> 「すべてが」 (tất cả mọi điều) làm chủ ngữ cho vế sau -> 「正しいとは」 đi với 「限らない」 để tạo thành cụm hoàn chỉnh mang nghĩa 「không hẳn là đúng」.
+part_18.csv:1
+ORIG: 「くらい」 biểu thị mức độ tối thiểu, đi sau danh từ 「真実」 (sự thật). Trình tự logic: 1. Đưa ra đối tượng tối thiểu ở đầu câu (真実くらい) -> 2. Hành động không cần thiết đối với mức độ đó (わざわざ言葉にせずとも - dù không cần cố công diễn tả thành lời) -> 3. Chủ ngữ thực hiện hành động làm sáng tỏ (彼女の澄んだ瞳が) -> 4. Vị ngữ kết thúc câu (すべてを物語っていた - đã nói lên tất cả).
+part_18.csv:2
+ORIG: Cấu trúc 「～のは～ぐらいのものだ」 dùng để nhấn mạnh trường hợp duy nhất hoặc cực kỳ hiếm hoi. Trình tự logic: 1. Nêu sự việc hiếm hoi làm chủ ngữ danh từ hóa bằng 「のは」 (涙を流したのは) -> 2. Định ngữ bổ nghĩa cho thời điểm (あの凄惨な事件の) -> 3. Mệnh đề định ngữ chỉ hành động (遺品を整理した) -> 4. Kết cấu nhấn mạnh giới hạn thời gian (時ぐらいのものだ).
+part_18.csv:5
+ORIG: 「Nの結果」 biểu thị kết quảのmột hành động, sự việc trước đó. Trình tự logic: 1. Tính từ bổ nghĩa cho danh từ khảo sát (綿密な) -> 2. Cụm danh từ chỉ sự việc hành động và từ kết quả (世論調査の結果、) -> 3. Cụm bổ nghĩa cho chủ ngữ (新法案に対する) -> 4. Chủ ngữ và vị ngữ chỉ kết quả thực tế xuất hiện (国民の強い反発が / 浮き彫りになった).
+part_18.csv:6
+ORIG: 「結局」 (kết cục, cuối cùng thì) dùng ở vị trí phó từ trước cụm hành động kết quả cuối cùngのmột chuỗi diễn biến. Trình tự logic: 1. Chủ ngữ và trạng huống dẫn dắt (容疑者は厳しい取り調べの末に) -> 2. Phó từ chỉ kết cục (結局) -> 3. Tân ngữのhành động tự thú (すべての罪を) -> 4. Kết quả chung cuộc diễn ra ngoài ý muốn (自白することになった).
+part_18.csv:7
+ORIG: 「決して～ない」 cấu trúc phủ định mạnh mẽ (quyết không/tuyệt đối không). Trình tự logic: 1. Cụm danh từ tân ngữ được định ngữ hóa (あの凄惨な戦場の記憶を) -> 2. Chủ ngữ kèm phó từ phủ định đi trước (私たちは決して) -> 3. Trạng ngữ chỉ đối tượng hướng tới (後世に) -> 4. Vị ngữ phủ định bắt buộc tương thích với 「決して」 (忘れてはならない).
+part_18.csv:8
+ORIG: 「けど」 đặt ở đầu câu thứ hai làm liên từ biểu thị quan hệ nghịch đối mang tính văn nói/bình dân, chuyển ý giữa hai câu độc lập. Trình tự logic: 1. Phát biểu câu đầu (結末が悲しすぎる。) -> 2. Liên từ nối ý nghịch (けど、) -> 3. Chủ ngữ bổ nghĩaのcâu sau (それが人生の) -> 4. Tân ngữ và vị ngữ phản biện (真実を / 描いているとも言える).
+part_18.csv:9
+ORIG: 「～けど」 nối hai mệnh đề đối lập trong cùng một câu. Mệnh đề 1 là nhận định ban đầu mang tính thừa nhận, mệnh đề 2 đưa ra nghi vấn. Trình tự logic: 1. Chủ đề câu (この記事は) -> 2. Nội dung mệnh đề thứ nhất (真実を伝えていると) -> 3. Động từ nhận định đi kèm trợ từ nối nghịch 「けど」 (思うけど、) -> 4. Ý kiến phản biện ngược lại ở vế sau (少し偏見が / 混ざっている気もする).
+part_18.csv:10
+ORIG: 「けれど」 đóng vai trò liên từ nối hai câu có nghĩa trái ngược, trang trọng hơn 「けど」. Trình tự logic: 1. Phát biểu câu thứ nhất về lời hứa (政府は財政再建を公約した。) -> 2. Liên từ nghịch đảo đầu câu sau (けれど、) -> 3. Định từ bổ nghĩa cho danh từ sau (具体的な) -> 4. Đối tượng và hành động phủ định thực tế trái ngược (増税案は / 提示しなかった).
+part_18.csv:13
+ORIG: 「けれども」 là liên từ nghịch đối mang tính trang trọng, văn viết cao hơn 「けれど」. Trình tự logic: 1. Kết quả tích cực ban đầu ở câu 1 (大きな反響を呼んだ。) -> 2. Liên từ chỉ sự đối lập ở đầu câu 2 (けれども、) -> 3. Cụm danh từ định hướng địa điểm (被災地の) -> 4. Vị ngữ chỉ kết quả thực tế không mong muốn ở câu 2 (真の救済には / 繋がらなかった).
+part_18.csv:15
+ORIG: 「現在」 đóng vai trò danh từ chỉ mốc thời gian/bối cảnh hiện tại sau một định ngữ dài. Trình tự logic: 1. Chủ ngữのmệnh đề định nghĩa (インターネットが) -> 2. Mệnh đề trạng thái hoàn thành định nghĩa cho bối cảnh (社会インフラとなった) -> 3. Mốc thời gian bối cảnh (現在、) -> 4. Chủ thể và vấn đề đang được đặt ra ở hiện tại (新聞メディアの果たすべき / 役割が問い直されている).
+part_18.csv:16
+ORIG: 「Nごし」 chỉ không gian trung gian qua đó hành động được thực hiện (qua gương một chiều). Trình tự logic: 1. Chủ ngữ và vị trí trung gian (老刑事は取調室の) -> 2. Phương tiện không gian thực hiện hành động (マジックミラーごしに、) -> 3. Cụm từ định ngữ chỉ đối tượng bị quan sát (無表情な容疑者の) -> 4. Tân ngữ và vị ngữ chỉ hành động quan sát chi tiết (様子を / じっと観察していた).
+part_18.csv:17
+ORIG: 「Nごし」 chỉ khoảng thời gian kéo dài liên tục để thực hiện một việc. Trình tự logic: 1. Chủ ngữ (作家は) -> 2. Trạng từ thời gian kéo dài bổ nghĩa cho danh từ sau (十数年ごしの) -> 3. Danh từ hành động và quá trình tích lũy (執筆活動を経て、) -> 4. Trạng từ thời gian kết quả và tân ngữ vĩ ngữ chính kết thúc câu (ついに生涯の傑作となる / 大河小説を書き上げた).
+part_18.csv:18
+ORIG: 「こそ」 nhấn mạnh vào danh từ chỉ địa điểm/bối cảnh (現代社会に) nhằm khẳng định đây chính là nơi cần thiết nhất. Trình tự logic: 1. Định ngữ chỉ trạng tháiのbối cảnh (この混迷を極める) -> 2. Danh từ chỉ bối cảnh kèm trợ từ nhấn mạnh (現代社会にこそ、) -> 3. Chủ ngữ mệnh đề phụ (文学が持つ) -> 4. Chủ ngữ chính và vị ngữ thể hiện nhu cầu thiết yếu (想像力の価値が / 求められている).
+part_18.csv:19
+ORIG: 「Nでこそあれ」 biểu thị cấu trúc nhượng bộ/khẳng định cực đoan: 「chỉ có thể là A chứ quyết không thể là B」. Trình tự logic: 1. Chủ đề phát biểu (彼の告発は、) -> 2. Thừa nhận bản chất duy nhất đúng bằng cấu trúc nhượng bộ (真実の追求でこそあれ、) -> 3. Phó từ phủ định đi trước (決して) -> 4. Loại trừ khả năng đối lập ở vế sau (個人的な恨みによる / ものではない).
+part_18.csv:20
+ORIG: 「Nこそ～が」 thể hiện sự nhượng bộ đối lập: 「tuy cái này thì... nhưng...」. Trình tự logic: 1. Chủ đề câu (この記事は、) -> 2. Điểm hạn chế được đưa ra nhượng bộ bằng cấu trúc nhấn mạnh (文体こそ硬いのだが、) -> 3. Tân ngữ chínhのmệnh đề khen ngợi phía sau (事件の本質を) -> 4. Trạng từ bổ nghĩa và vị ngữ thể hiện giá trị cốt lõi thực sự (見事に / 穿っている).
+part_22.csv:1
+ORIG: Cấu trúc biểu thị sự xin phép: V-させて (thể sai khiến) + ください。Thứ tự sắp xếp tự nhiên: 「どうか」 (phó từ khẩn cầu) bổ nghĩa cho hành động cuối câu -> 「私に」 (chỉ đối tượng thực hiện hành động sai khiến đi với trợ từ に) -> 「最後の瞬間まで」 (trạng ngữ chỉ thời gian) -> 「語らせて」 (thể sai khiến nhóm 1の語る) -> 「ください」 (yêu cầu lịch sự).
+part_22.csv:20
+ORIG: Cấu trúc 「Nしか～ない」 biểu thị sự duy nhất (chỉ có...). Thứ tự sắp xếp tự nhiên: 「一人の」 (lượng từ bổ nghĩa cho danh từ chỉ người) -> 「社員」 (danh từ chỉ đối tượng) -> 「しか」 (trợ từ đi sau danh từ) -> 「残って」 (thể てのđộng từ 残る) -> 「いなかった」 (thể phủ địnhのいる đi kèm sau thể て, kết hợp với しか để nhấn mạnh chỉ còn lại).
+part_28.csv:1
+ORIG: Thứ tự sắp xếp dựa trên sự liệt kê các danh từ làm tân ngữ cho động từ 置いた ở cuối câu. 「古い本」 (sách cũ) và 「黒い万年筆」 (bút máy màu đen) là các danh từ được liệt kê trước. Liên từ 「そうして」 dùng để nối danh từ cuối cùng 「一枚の」 (một tấm - bổ nghĩa cho 写真) vào chuỗi liệt kê. Cấu trúc đầy đủ là 「[N1]、[N2]、そうして、[N3]を [Động từ]」.
+part_39.csv:1
+ORIG: Câu nói về lý tưởngのngười nhà báo. Ở đây 「つまり」 (tức là) dùng để giải thích rõ hơn, diễn đạt lại cụm 「真実を追うこと」 (việc theo đuổi sự thật) thành 「権力の監視」 (giám sát quyền lực). Thứ tự sắp xếp tự nhiên theo ngữ pháp: Trợ từ 「を」 đi sau danh từ 「真実」 để làm tân ngữ cho danh từ hóa 「追うこと」; liên từ 「つまり」 liên kết hai cụm đồng nghĩa; trợ từ 「に」 đi sau danh từ chỉ mục đích 「監視」 để bổ nghĩa cho động từ 「命を捧げた」 (cống hiến sinh mạng cho...).
+part_39.csv:2
+ORIG: Câu mang tính chất bình luận thời sự về một dự luật. 「つまり」 ở đây dùng để đưa ra kết luận diễn dịch cuối cùng (「Tóm lại là/Nói tóm lại...」). Thứ tự sắp xếp đúng cú pháp: Chủ ngữ 「この法案の可決は」 đứng trước; liên từ 「つまり」 đứng đầu mệnh đề kết luận bổ nghĩa cho trạng thái thực tế 「実質的な増税」 (tăng thuế trên thực tế); cụm động từ 「意味しているのだ」 (nghĩa là...) đứng ở cuối câu để hoàn thành cấu trúc biểu thị ý nghĩa.
+part_39.csv:6
+ORIG: Cấu trúc 「V-る + つもりで」 biểu thị trạng thái chuẩn bị tinh thần hoặc mang mục đích, ý định khi thực hiện hành động tiếp theo. Thứ tự sắp xếp câu văn văn học: Cụm tân ngữ chỉ đối tượng 「波乱万丈な半生を」 (nửa đời đầy sóng gió) đứng trước địa điểm/hình thức 「小説に」 (vào tiểu thuyết) và động từ 「書く」; động từ 「書く」 bổ nghĩa cho danh từ 「つもりで」 để thể hiện ý định; vế sau kết thúc bằng cụm hành động thực tế 「ペンを取った」 (đã cầm bút).
+part_39.csv:10
+ORIG: Cấu trúc 「V-た + つもりで」 diễn tả giả định xem như đã thực hiện hành động đó (dù thực tế chưa) để lấy quyết tâm làm việc khác. Thứ tự sắp xếp câu mang tính chất quyết liệtのphóng viên điều tra: Trạng từ 「もう」 (đã) đi kèm động từ quá khứ 「死んだ」 bổ nghĩa cho danh từ 「つもりで」 (với tâm thế như đã chết); vế sau là cụm tân ngữ 「社会の闇を」 (góc tối xã hội) bổ nghĩa cho động từ 「暴く」 (vạch trần); từ 「暴く」 bổ nghĩa cho danh từ 「取材」 (hoạt động lấy tin/phóng sự) làm mục tiêu cho hành động cuối 「挑む」 (thử thách/dấn thân).
+part_39.csv:12
+ORIG: Cấu trúc lặp lại tính từ đuôi イ 「A-くて A-くて + ならない/仕方がない」 nhằm nhấn mạnh cảm xúc vô cùng mãnh liệt, không thể kìm nén được. Thứ tự sắp xếp trong bản tin phóng sự: Chủ ngữ 「被害者の母親は」 đứng đầu mệnh đề chính; tính từ 「悔しい」 (tiếc nuối, uất hận) được lặp lại thành 「悔しくて悔しくて」 để nhấn mạnh nỗi đau; tiếp theo là cụm biểu thị mức độ cực hạn 「ならなかった」 (không chịu nổi) kết hợp với trợ từ trích dẫn 「と」; cuối cùng là hành động miêu tả biểu cảm 「涙を拭った」 (lau nước mắt).
+part_39.csv:16
+ORIG: Cấu trúc yêu cầu lịch sự 「V-てあげてください」 (xin hãy làm việc gì đó có lợi cho đối tượng khác). Thứ tự sắp xếp lời thoại nhân vật: Trạng từ 「その」 kết hợp tính từ quá khứ 「傷ついた」 bổ nghĩa cho danh từ 「鳥を」 (chú chim bị thương); tiếp theo là cách thức hành động 「優しく手当てして」 (nhẹ nhàng chữa trị); động từ thể て kết hợp với 「あげて」 và kết thúc câu yêu cầu bằng 「ください」; cuối cùng bao bọc bằng dấu ngoặc kép và trợ từ 「と」 đi với động từ tường thuật 「頼んだ」 (đã cầu xin).
+part_41.csv:1
+ORIG: Cấu trúc biểu thị trạng thái đang diễn ra: 「V-ている」. Ở đây động từ 「眠る」 (ngủ) chia sang thể Te là 「眠って」 đi kèm 「いる」 thành 「眠っている」 (đang ngủ). Thứ tự sắp xếp tự nhiên trong câu: Trạng ngữ chỉ nơi chốn 「古い公園の池の前に」 đứng đầu, tiếp theo là chủ ngữ chỉ đối tượng thực hiện hành động 「猫が」, phó từ bổ nghĩa cho động từ 「静かに」 đứng trước động từ liên kết 「眠っている」 tạo nên một câu tả cảnh hoàn chỉnh.
+part_41.csv:2
+ORIG: Ngữ pháp 「V-ておく」 biểu thị việc chuẩn bị trước một hành động cho mục đích nào đó. Động từ 「調べる」 (tra cứu, tìm hiểu) được chia ở thể Te là 「調べて」 kết hợp với 「おく」. Thứ tự logic: Mục đích 「明日の取材のために」 (để chuẩn bị cho buổi thu thập thông tin ngày mai) -> Định ngữ chỉ sở hữu 「この町の」 bổ nghĩa cho danh từ tân ngữ 「歴史」 -> Tân ngữ kèm trợ từ chỉ đối tượng 「歴史を」 -> Phó từ bổ nghĩa 「よく」 -> Cấu trúc hành động chuẩn bị 「調べておく」.
+part_41.csv:4
+ORIG: Cấu trúc 「V-てからでないと... ない」 nghĩa là 「Nếu chưa làm V1 thì không thể làm V2」. Ở đây, V1 là 「確認する」 (xác nhận) chuyển thành 「確認して」 kết hợp với 「からでないと」. Thứ tự sắp xếp câu logic: Tân ngữ bổ nghĩa 「統計のデータを」 -> V1 thể Te 「確認して」 -> Liên kết giả định tiêu cực 「からでないと」 -> Định ngữ chỉ định 「この」 -> Chủ ngữ vế sau làm chủ thể tiếp nhận hành động phủ định khả năng 「社説は」 -> V2 thể phủ định khả năng 「書けない」 (không thể viết).
+part_41.csv:5
+ORIG: Mẫu câu 「V-てからでないto...」 kết hợp với một kết quả không mong muốn ở thể bị động/thông thường (ở đây là 「怒られる」 - bị mắng). Trình tự logic: Đối tượng cấp trên 「編集長に」 -> Tân ngữ 「許可を」 -> Động từ nhận 「もらって」 -> Cấu trúc điều kiện ràng buộc 「からでないと」 -> Trạng từ thời gian vế sau 「後で」 -> Hệ quả tiêu cực kết thúc câu 「怒られる」.
+part_41.csv:6
+ORIG: Cấu trúc ngữ pháp cao cấp 「V-てからというもの（は）」 dùng để biểu thị kể từ sau khi một sự kiện xảy ra thì có một sự thay đổi lớn kéo dài liên tục đến nay. V1 là 「始まる」 (bắt đầu) chuyển thành thể Te 「始まって」. Thứ tự sắp xếp câu: Định ngữ cảm xúc 「あの悲惨な」 -> Chủ ngữ sự kiện vế đầu 「戦争が」 -> Hành động khởi đầu thể Te 「始まって」 -> Mẫu cấu trúc giới hạn thời điểm 「からというものは」 -> Nơi chốn khởi nguồnのsự thay đổi 「この街から」 -> Kết quả biến đổi tiêu cực kéo dài ở cuối câu 「笑顔が消えてしまった」.
+part_41.csv:10
+ORIG: Cấu trúc 「V-てくる」 ở đây chỉ trạng thái/phương thức di chuyển tiến lại gần vị tríのngười nói (vừa thực hiện hành động V vừa tiến lại gần). Động từ di chuyển 「走る」 (chạy) chuyển sang thể Te 「走って」 kết hợp với 「きた」. Trình tự logic: Chủ ngữ thực hiện hành động 「目撃者は」 -> Trạng thái đồng thời 「震えながら」 (vừa run rẩy vừa...) -> Điểm đến danh từ 「警察署」 -> Trợ từ giới hạn điểm đến 「まで」 -> Động từ hành động di chuyển kết hợp thể hướng tâm 「走ってきた」.
+part_41.csv:11
+ORIG: Ý nghĩa 「V-てくる」 chỉ hướng di chuyển tiến về phía người nói hoặc về một điểm mốc không gian mà người nói đang đứng từ góc nhìn trần thuật. Động từ hồi hương 「帰る」 chuyển thành thể Te 「帰って」 kết hợp với động từ di chuyển gốc 「くる」 ở quá khứ 「きた」. Thứ tự logic: Chủ ngữ miêu tả 「若い写真家は」 -> Phó từ tần suất 「再び」 (lại một lần nữa) -> Định ngữ chỉ tính chất nơi chốn 「この荒れた」 -> Điểm đến kèm trợ từ chỉ hướng 「村に」 -> Tổ hợp động từ di chuyển hướng tâm 「帰ってきた」.
+part_41.csv:12
+ORIG: Ý nghĩa 「V-てくる」 (Kế khởi) biểu thị việc đi thực hiện một hành động ở một nơi khác rồi quay trở lại vị trí ban đầu (Làm việc gì đó rồi quay lại). Động từ hành động 「買う」 chia ở thể Te 「買って」 đi cùng 「きます」. Trình tự logic: Định ngữ thời gian 「今日の」 -> Tân ngữ mua sắm 「新聞を」 -> Phó từ mức độ mang tính giảm nhẹ 「ちょっと」 -> Nơi chốn xảy ra hành động 「売店で」 -> Hành động vế trước thể Te 「買って」 -> Hành động quay lại ở cuối câu 「きます」.
+part_41.csv:14
+ORIG: Cấu trúc 「V-てくる」 biểu thị một trạng thái mới bắt đầu xuất hiện hoặc lọt vào tầm mắtのngười nói (xuất hiện, hiện ra). Động từ khả năng tự phát 「見える」 (nhìn thấy) chia ở thể Te 「見えて」 kết hợp với 「きた」. Thứ tự sắp xếp logic: Phó từ trạng thái 「ゆっくりと」 (chầm chậm) -> Chủ ngữ vế đầu 「黒い雲が」 -> Trạng thái biến đổi trung gian 「晴れて」 -> Đối tượng xuất hiện vế sau 「青い空が」 -> Biểu đạt sự xuất hiện ở cuối câu 「見えてきた」.
+part_41.csv:16
+ORIG: Cấu trúc 「V-てくる」 biểu thị hành độngのmột đối tượng khác hướng về phía người nói hoặc nhómのngười nói (ở đây người viết đứng ở lập trường chính phủ hoặc quan sát viên tiếp nhận). Động từ gửi 「送る」 được chia ở thể Te 「送って」 kết hợp trợ động từ biểu đạt hướng tác động 「きた」. Thứ tự logic: Chủ thể hành động 「野党の代表が」 -> Đối tượng nhận hành động hướng tâm 「政府に」 -> Tính từ bổ nghĩa 「厳しい」 -> Tân ngữ trực tiếp 「抗議を」 -> Động từ hành động hướng về phía đối tượng trung tâm 「送ってきた」.
+part_41.csv:17
+ORIG: Ngữ pháp 「V-てくれ」 là thể mệnh lệnh, yêu cầu một cách suồng sã, trực tiếp (hầu như chỉ dùng bởi nam giới hoặc trong các tình huống khẩn cấp, kịch tính trong tiểu thuyết). Động từ 「話す」 chia ở thể Te 「話して」 kết hợp với 「くれ」. Trình tự logic: Trạng từ thời gian cụ thể 「あの夜に」 -> Chủ ngữのmệnh đề phụ 「何が」 -> Động từ nghi vấn gián tiếp 「あったのか」 -> Tân ngữ đích thực 「真実を」 -> Động từ hành động yêu cầu mệnh lệnh kết thúc câu 「話してくれ」.
+part_41.csv:19
+ORIG: Cấu trúc 「V-てくれる」 diễn tả hành độngのngười khác mang lại lợi ích cho người nói hoặc người thuộc nhómのngười nói. Động từ 「教える」 chia ở thể Te 「教えて」 kết hợp với trợ động từ ban ơn 「くれた」. Thứ tự logic: Chủ thể thực hiện hành động tốt 「親切な先生が」 -> Người nhận lợi ích 「私に」 -> Định ngữ chỉ địa điểm 「図書館の」 -> Tân ngữ đối tượng 「道を」 -> Động từ chia thể Te kèm hành động ban ơn 「教えてくれた」.
+part_42.csv:1
+ORIG: Cấu trúc 「V-てやってくれないか」 dùng để nhờ vả một cách thân mật nhưng khẩn thiết. Thứ tự sắp xếp: 「記事に」 (trên bài báo) -> Động từ chia thể Te 「書いて」 (viết) -> 「やって」 (làm cho đối tượng yếu thế hoặc vai dưới) -> 「くれない」 (thể phủ địnhのくれる biểu thị ý nhờ vả) -> Trợ từ nghi vấn 「か」 kết thúc câu.
+part_42.csv:3
+ORIG: Cấu trúc khiêm nhường ngữ 「V-て差し上げる」 dùng khi làm việc có lợi cho người có vai vế cao hơn. Thứ tự sắp xếp: 「夫人に向かって」 (hướng về phía phu nhân) -> Động từ 「読む」 chia thể Te thành 「読んで」 -> Kết hợp trợ động từ khiêm nhường 「差し上げた」 chia ở quá khứ.
+part_42.csv:15
+ORIG: Mẫu 「V-てのこと」 biểu thị ý nghĩa 「chính vì có V nên mới có kết quả ngày hôm nay」. Thứ tự sắp xếp: Chủ ngữ vế kết quả 「実現したのは」 -> Cụm danh từ bổ nghĩa 「水面下の」 -> Chủ ngữ vế điều kiện 「外交努力gì」 -> Đi liền với cấu trúc nhấn mạnh nguyên nhân 「あってのことだ」.
+part_42.csv:18
+ORIG: Mẫu 「Vのでは」 được dùng để đưa ra phán đoán dẫn đến kết cục không tốt từ thực tế. Thứ tự sắp xếp: Định ngữ 「そんなに重要な」 bổ nghĩa cho danh từ chỉ nơi chốn 「記事で」 -> Cụm tân ngữ 「ミスを連発しているのでは」 -> Tân ngữ vế sau 「読者の信頼を」 -> Động từ chỉ kết quả xấu 「失ってしまいますよ」.
+part_53.csv:1
+ORIG: Cấu trúc ngữ pháp N2 「と考えられる」 thể hiện sự suy đoán hoặc đánh giá mang tính khách quanのngười viết (thường dùng trong văn viết và báo chí). Thứ tự sắp xếp như sau: 1. Danh từ chủ thể hành động 「立ち上げ」 đi với trợ từ 「は」 làm chủ ngữ cho vế phụ. 2. Phó từ chỉ mức độ 「極めて」 (cực kỳ) đứng trước để bổ nghĩa cho tính từ 「困難である」. 3. Thể khẳng định trang trọng 「困難である」 kết hợp trực tiếp với cấu trúc phán đoán 「と考えられ」 để tạo tính liên kết với vế sau.
+part_53.csv:3
+ORIG: Cấu trúc N1 「〜ものと考えられる」 biểu thị sự suy đoán, kết luận mang tính logic và khách quan dựa trên chứng cứ cụ thể (thường dùng trong văn phong báo cáo điều tra). Thứ tự sắp xếp câu: 1. Danh từ bổ nghĩa 「内部」 liên kết với danh từ 「事情」 qua trợ từ 「の」. 2. Cụm danh từ chỉ tính chất 「事情に詳しい」 đứng liền trước để bổ nghĩa trực tiếp cho danh từ chỉ người 「人物」. 3. Thể khẳng định trang trọng 「である」 kết hợp trực tiếp danh từ 「人物」 với cấu trúc phán đoán logic 「ものと考えられる」.
+part_53.csv:5
+ORIG: Cấu trúc ngữ pháp N4 「Nのとき」 chỉ thời điểm diễn ra một trạng thái trong quá khứ. Thứ tự sắp xếp: 1. Danh từ chủ thể 「子供」 kết hợp với trợ từ sở hữu/định ngữ 「の」 để bổ nghĩa cho danh từ chỉ thời gian 「とき」. 2. Vế chỉ mốc thời gian 「子供のとき」 đứng ngay sau chủ ngữ phụ 「私が」. 3. Danh từ 「この川」 đi kèm trợ từ đề tài 「は」 làm chủ ngữ chính cho mệnh đề mô tả cảnh vật phía sau.
+part_53.csv:7
+ORIG: Cấu trúc N1 「Nときたひには」 (văn nói cổ, thường xuất hiện trong tiểu thuyết để phê phán, than phiền về một đối tượng). Thứ tự sắp xếp câu: 1. Từ chỉ định 「あの」 bổ nghĩa cho đối tượng bị phàn nàn 「大作家」. 2. Đối tượng 「大作家」 liên kết trực tiếp với cụm nhấn mạnh 「ときたひには」. 3. Trạng ngữ thời gian 「締め切り直前に」 đi trước cấu trúc điều kiện phủ định 「ならないと」 (nếu không... thì không).
+part_53.csv:9
+ORIG: Cấu trúc N2 「Nときたら」 dùng để lôi một đối tượng quen thuộc ra phàn nàn, bất mãn. Thứ tự sắp xếp câu: 1. Từ hạn định 「最近の」 bổ nghĩa cho danh từ chủ thể bị phàn nàn 「若手記者」. 2. Đối tượng 「若手記者」 liên kết trực tiếp với quán ngữ 「ときたら」. 3. Trạng từ chỉ địa điểm 「現場に」 đứng trước động từ thể liên dụng phủ định 「足を運ばず」 (không chịu đến tận nơi).
+part_53.csv:11
+ORIG: Cấu trúc N1 「〜ときているから」 dùng để đưa ra một hoặc nhiều lý do thuyết phục, hiển nhiên dẫn đến một kết quả tất yếu. Thứ tự sắp xếp câu: 1. Chủ ngữのmệnh đề phụ 「内容が」 đứng trước phó từ chỉ mức độ 「非常に」. 2. Tính từ đuôi i 「面白い」 kết hợp với trợ từ liên kết 「と」 và phần đuôi ngữ pháp chỉ nguyên nhân 「きているから」.
+part_53.csv:12
+ORIG: Cấu trúc N2 「時として」 (đôi khi, thỉnh thoảng) dùng để chỉ một sự kiện hiếm khi xảy ra nhưng thỉnh thoảng vẫn xuất hiện. Thứ tự sắp xếp câu: 1. Trạng từ chỉ tần suất 「時として」 đứng đầu mệnh đề mới để bổ nghĩa cho toàn bộ hành động phía sau. 2. Danh từ làm chủ thể hành động 「激しい嵐が」 đi kèm trợ từ 「が」 đứng trước tân ngữ 「木々を」. 3. Động từ tác động 「揺らす」 bổ nghĩa cho danh từ hóa biểu thị tần suất 「ことがある」.
+part_53.csv:13
+ORIG: Cấu trúc 「時として〜ない」 biểu thị việc trong những bối cảnh đặc thù, một trạng thái phủ định hoàn toàn sẽ diễn ra. Thứ tự sắp xếp: 1. Trạng từ 「時として」 đứng làm trạng ngữ bổ trợ cho mệnh đề phủ định. 2. Cụm bổ nghĩa 「一瞬の」 đứng trước danh từ chủ đề 「油断も」 (ngay cả một sự lơ là). 3. Động từ bị động phủ định 「許されない」 đóng vai trò kết thúc câu để nhấn mạnh mức độ nghiêm trọng.
+part_53.csv:14
+ORIG: Cấu trúc N3 「時に」 đóng vai trò liên từ đứng đầu câu dùng để chuyển đổi đề tài một cách đột ngột. Thứ tự sắp xếp câu: 1. Mệnh đề chủ ngữ phụ 「あなたが」 đi trước động từ bổ nghĩa 「探している」. 2. Định ngữ 「探している」 bổ nghĩa trực tiếp cho danh từ 「あの古い絵」. 3. Cụm danh từ chỉ đối tượng 「あの古い絵の行方」 đi kèm cấu trúc giới từ chỉ chủ đề 「について」 để làm tiền đề cho câu hỏi ở suffix.
+part_53.csv:15
+ORIG: Cấu trúc N4 「時には」 (thỉnh thoảng, có lúc) chỉ một hành động hoặc trạng thái diễn ra không thường xuyên. Thứ tự sắp xếp câu: 1. Trạng ngữ thời gian 「時には」 đứng ở đầu mệnh đề mới để tạo bối cảnh đặc biệt. 2. Tân ngữ 「自分の意見を」 đứng trước phó từ chỉ trạng thái 「はっきりと」. 3. Phó từ bổ nghĩa cho động từ hành động 「主張する」, đi liền với cấu trúc tần suất thỉnh thoảng 「こともある」.
+part_53.csv:16
+ORIG: Cấu trúc N4 「どこか(が)」 dùng để chỉ điểm nghi vấn hoặc bộ phận không xác định cụ thể (ở đâu đó, phần nào đó). Thứ tự sắp xếp câu: 1. Đại từ chỉ nơi chốn/điểm mơ hồ 「どこかが」 đóng vai trò chủ ngữ mệnh đề phụ. 2. Trạng từ chỉ cách thức 「意図的に」 đứng trước động từ thể bị động tiếp diễn 「書き換えられている」 để bổ nghĩa. 3. Động từ đi liền với trợ động từ so sánh phán đoán 「ような」 để bổ nghĩa trực tiếp cho danh từ cảm xúc ở suffix.
+part_53.csv:17
+ORIG: Cấu trúc N3 「どこか」 đóng vai trò phó từ biểu thị sự mơ hồ, không rõ ràng (có cái gì đó, có vẻ). Thứ tự sắp xếp: 1. Phó từ 「どこか」 đứng trước để bổ nghĩa cho tính từ miêu tả trạng thái tâm lý 「寂しげな」. 2. Tính từ 「寂しげな」 bổ nghĩa trực tiếp cho danh từ chủ ngữ 「影が」. 3. Cụm danh từ chủ ngữ đi liền động từ trạng thái 「漂っている」 trước cấu trúc phán đoán ngoại quan 「ように見えた」.
+part_53.csv:18
+ORIG: Cấu trúc N2 「どことなく」 mang nghĩa là không hiểu sao, một cách mơ hồ không rõ lý do. Thứ tự sắp xếp câu: 1. Trạng từ 「どことなく」 đứng trước tính từ biểu cảm 「物悲しい」 để bổ nghĩa cho sắc thái mơ hồ. 2. Tính từ 「物悲しい」 bổ nghĩa trực tiếp cho danh từ chủ ngữ 「雰囲気」. 3. Cụm danh từ chủ ngữ đi liền động từ miêu tả trạng thái 「漂っていた」 để kết thúc cảnh tả.
+part_53.csv:19
+ORIG: Cấu trúc N3 「現在のところ」 mang nghĩa cho đến thời điểm hiện tại, tạm thời là. Thứ tự sắp xếp câu: 1. Danh từ chỉ thời gian 「現在」 bổ nghĩa cho danh từ 「ところ」 qua trợ từ liên kết 「の」. 2. Cụm định ngữ dài 「事件に関与した」 bổ nghĩa trực tiếp cho danh từ 「疑い」. 3. Cụm chủ đề 「疑いのある人物は」 đi trước động từ phủ định ở suffix.
+part_53.csv:20
+ORIG: Cấu trúc N1 「V-るところとなる」 là cách biểu đạt trang trọng trong văn viết, báo chí mang nghĩa 「trở thành đối tượngのhành động V」 hoặc 「dẫn tới kết cục V」. Thứ tự sắp xếp: 1. Định ngữ 「多くの」 bổ nghĩa cho danh từ làm chủ ngữ mệnh đề phụ 「市民」. 2. Chủ ngữ phụ 「市民が」 đi trước động từ dạng từ điển 「反対する」. 3. Động từ 「反対する」 liên kết trực tiếp với cấu trúc trang trọng 「ところとなる」 trước trợ động từ phán đoán 「だろう」 ở suffix.
+part_56.csv:4
+ORIG: ～ものとする dùng trong văn bản quy định hoặc luật lệ. Trình tự logic: Chủ ngữ -> Trạng ngữ chỉ thời điểm -> Tân ngữ -> Động từ chính + ngữ pháp.
+part_56.csv:10
+ORIG: Nとすれば thường dùng để bày tỏ quan điểm từ vị trí/lập trườngのngười đó. Thứ tự logic: [Chủ ngữ/Lập trường] + とすれば + [Nhận định].
+part_64.csv:2
+ORIG: Cấu trúc 「何か」 chỉ một vật gì đó không xác định rõ. Thứ tự sắp xếp tuân theo cú pháp cơ bảnのtiếng Nhật: Tính từ 「古い」 bổ nghĩa cho danh từ 「箱
+part_67.csv:3
+ORIG: Cụm danh từ 「木の葉」 (lá cây) được bổ nghĩa bởi 「公園 của」. Chủ ngữ 「葉が」 đi với tính từ đuôi i đổi sang dạng liên kết 「赤く」 (đỏ) kết hợp với động từ 「なります」 (trở nên) để biểu thị sự thay đổi trạng thái. Thứ tự logic: 1-2-3-4.
+part_67.csv:9
+ORIG: Cụm trạng ngữ 「この町から」 (từ thị trấn này) đi kèm tính từ/động từ 「遠く離れた」 (xa xôi) bổ nghĩa cho danh từ 「支店」 (chi nhánh). Cụm 「支店で働く」 (làm việc ở chi nhánh) làm định ngữ cho 「こと」 tạo cấu trúc 「ことになる」 biểu thị một kế hoạch đã được quyết định. Thứ tự đúng: 1-2-3-4.
+part_67.csv:16
+ORIG: Động từ 「使う」 đưa về dạng Masu-stem 「使い」 kết hợp với 「なれた」 (thể quá khứの「なれる」) tạo cụm định ngữ 「使いなれた」 (quen dùng). Cụm này bổ nghĩa cho danh từ 「古い万年筆を」. Cụm tân ngữ này làm bổ ngữ cho hành động 「手に取った」 (cầm lấy). Thứ tự logic: 1-2-3-4.
+part_69.csv:2
+ORIG: Mẫu câu cảm thán 「なんという + Danh từ + だ」 biểu thị sự ngạc nhiên lớn đối với danh từ 「原稿」 (bản thảo). Thứ tự sắp xếp: mở ngoặc kép -> phó từ cảm thán 「なんという」 đứng trước danh từ -> danh từ 「原稿」 -> đuôi cảm thán 「だ」 kèm trợ từ trích dẫn 「と」 -> bổ ngữ 「ため息を」 cho động từ chính 「ついた」。
+part_69.csv:3
+ORIG: Cụm từ 「なんということもない」 có nghĩa là 「không có gì đặc biệt, bình thường」. Cụm này bổ nghĩa cho danh từ 「日常」 qua trợ từ 「の」. Thứ tự sắp xếp tự nhiên: 「なんという」 -> 「こともない」 tạo thành tính từ -> bổ nghĩa cho 「日常の」 -> danh từ 「一部に」 -> cụm giới hạn 「過ぎなかった」 (chỉ là).
+part_69.csv:4
+ORIG: 「なんとかして」 thể hiện ý chí quyết tâm thực hiện hành động bằng mọi giá. Nó đứng trước để bổ nghĩa cho toàn bộ vế hành động phía sau. Thứ tự sắp xếp: phó từ ý chí 「なんとかして」 -> đối tượng tương tác 「内部告発者と」 -> tân ngữ 「接触を」 -> động từ thể ý định 「試みようと」 đi kèm 「した」.
+part_69.csv:5
+ORIG: 「なんとか」 mang nghĩa là 「bằng cách nào đó, cuối cùng cũng xoay xở được」 (kết quả khách quan mang lại). Thứ tự sắp xếp: trạng từ khách quan 「なんとか」 -> tân ngữ 「倒産を」 -> động từ thể khả năng 「免れることが」 -> trợ động từ hoàn thành 「できた」。
+part_69.csv:6
+ORIG: Cụm từ 「なんとかなる」 mang nghĩa 「rồi mọi chuyện sẽ ổn thôi」. Đi kèm trợ từ trích dẫn 「と」 để làm tân ngữ cho động từ 「信じていた」. Thứ tự logic: nội dung trích dẫn 「なんとかなると」 -> chủ ngữのhành động tin tưởng 「主人公は」 -> trạng từ bổ nghĩa 「強く」 -> động từ chính ở dạng tiếp diễn 「信じていた」.
+part_69.csv:7
+ORIG: 「何とか言って」 có nghĩa là 「hãy nói điều gì đó để giải quyết vấn đề」. Thứ tự sắp xếp hành động: chủ thể phát ngôn 「著者から」 -> hành động nói 「何とか言って」 -> đối tượng nhận tác động 「彼らを」 -> động từ sai khiến chỉ trạng thái 「安心させて」 -> biểu thị mong muốn 「ほしい」.
+part_69.csv:8
+ORIG: 「何とかいう」 đóng vai trò bổ nghĩa cho danh từ 「村」 mang nghĩa 「ngôi làng tên là gì đó không rõ」. Thứ tự sắp xếp: vùng địa lý 「東北地方の」 -> cụm từ mơ hồ 「何とかいう」 -> danh từ chỉ nơi chốn 「村に」 -> thuộc tính 「その事件の」 -> chủ ngữ 「目撃者が」 -> động từ phỏng đoán sự tồn tại 「いるらしい」.
+part_69.csv:9
+ORIG: Cấu trúc 「N + とかなんとかいう + N」 dùng khi không nhớ rõ hoặc nói một cách đại khái về tên danh từ. Thứ tự sắp xếp: danh từ cụ thể trong ngoặc kép 「悲劇」とか」 -> cụm từ mơ hồ 「なんとかいう」 -> danh từ chính 「小説が」 -> động từ chỉ xu hướng 「流行しているそうだ」.
+part_69.csv:10
+ORIG: Cấu trúc 「～とかなんとか言って」 dùng để trích dẫn một lý do mơ hồ, có ý mỉa mai hoặc hoài nghi. Thứ tự logic: chủ ngữ 「その政治家は」 -> lý do viện cớ 「体調が悪い」 -> cụm từ trích dẫn đại khái 「とかなんとか」 -> hành động nói 「言って」 -> hành động đột ngột cắt đứt cuộc họp báo 「突然会見を打ち切った」.
+part_69.csv:11
+ORIG: Trạng từ 「なんとしても」 nhấn mạnh quyết tâm cao độ 「bằng mọi giá/dù thế nào đi nữa」. Thứ tự logic: chủ ngữ 「生き残った若者は」 -> trạng từ ý chí 「なんとしても」 -> bổ nghĩa 「故郷の」 cho danh từ chỉ đối tượng 「家族に」 -> nguyện vọng kèm trích dẫn 「会いたいと」 -> động từ chính 「強く願った」.
+part_69.csv:12
+ORIG: Trạng từ 「なんとなく」 biểu thị cảm giác mơ hồ, không rõ nguyên nhân. Thứ tự sắp xếp: trạng từ chỉ cảm giác 「なんとなく」 -> tác nhân gây ra hành động bị động 「誰かに」 -> động từ thể bị động 「見られている」 -> kết cấu tạo cảm giác 「ような気がした」.
+part_69.csv:13
+ORIG: Trạng từ văn học 「なんとはなしに」 chỉ hành động diễn ra một cách vô thức, không mục đích rõ ràng. Thứ tự logic: chủ ngữ 「作家は」 -> trạng từ chỉ tâm trạng 「なんとはなしに」 -> bổ ngữ sở hữu 「窓の」 -> tân ngữ chính 「外の雨を」 -> trạng từ bổ trợ 「ぼんやりと」 -> động từ chính 「眺めていた」.
+part_69.csv:14
+ORIG: Trạng từ 「なんとも」 dùng để nhấn mạnh mức độ cảm xúc cực kỳ cao. Thứ tự logic: chủ ngữ 「老人は」 -> trạng từ mức độ 「なんとも」 -> tính từ chỉ cảm xúc buồn bã 「切ない」 bổ nghĩa cho danh từ tân ngữ 「表情を」 -> nơi chốn xuất hiện biểu cảm 「顔に」 -> động từ biểu hiện 「浮かべた」.
+part_69.csv:15
+ORIG: Cấu trúc 「なんとも + V-がたい」 (thể khó khăn) diễn tả việc hoàn toàn không thể đưa ra phán đoán rõ ràng nào. Thứ tự sắp xếp: trạng từ thời gian 「現段階では」 -> trạng từ phủ định nhẹ 「なんとも」 -> động từ căn bản 「判断し」 đi kèm đuôi biểu thị sự khó khăn và trợ từ trích dẫn 「がたいと」 -> động từ tuyên bố 「発表した」.
+part_69.csv:16
+ORIG: Cấu trúc 「なんとも + V-ようがない」 biểu thị sự bất lực hoàn toàn, không có cách nào thực hiện hành động. Thứ tự logic: phương thức diễn tả 「言葉では」 -> trạng từ 「なんとも」 -> danh động từ 「表現」 đi kèm đuôi cấu trúc mức độ 「しようがないほど」 -> tính từ kết thúc 「悲惨だった」.
+part_69.csv:17
+ORIG: Cụm từ 「なんとも思っていない」 có nghĩa là 「không bận tâm/chẳng nghĩ ngợi gì」. Thứ tự sắp xếp: trạng từ phủ định 「なんとも」 -> động từ suy nghĩ thể phủ định 「思っていない」 -> bổ nghĩa 「ような」 -> danh từ tân ngữ 「態度を」 -> động từ kết thúc 「崩さなかった」.
+part_69.csv:18
+ORIG: Cấu trúc phủ định tuyệt đốiのtính từ đuôi i: 「Tính từ -くも何ともない」 (không... một chút nào). Thứ tự logic: cụm bổ nghĩa mức độ 「この程度の」 -> chủ ngữ chính 「挫折は」 -> liên từ trạng tháiのtính từ 「痛くも」 -> cụm từ nhấn mạnh và phủ định 「何とも」 + 「ない」.
+part_69.csv:19
+ORIG: Trạng từ liên kết 「なんにしても」 mang nghĩa 「dù sao đi nữa/trong bất kỳ trường hợp nào」. Thứ tự sắp xếp: liên từ đứng đầu vế kết luận 「なんにしても」 -> bổ ngữ sở hữu 「社会の」 -> danh từ chủ ngữ 「変革は」 -> động từ phủ định khả năng 「避けられない」 -> phỏng đoán 「だろう」.
+part_69.csv:20
+ORIG: Cấu trúc nhượng bộ 「N + はなんにしろ」 nghĩa là 「bất kể N có là gì đi nữa」. Thứ tự logic: thuộc tính sở hữu 「犯行の」 -> danh từ chủ ngữ 「動機は」 -> cụm từ nhượng bộ 「なんにしろ、」 -> cụm tính từ bổ nghĩa liên hoàn 「罪のない」 -> 「市民を巻き込む」 -> bổ nghĩa cho chủ ngữ chính 「テロ行為は決して許されない」.
+part_70.csv:2
+ORIG: Mẫu câu cảm thán 「なんという + Danh từ + だ」 biểu thị sự ngạc nhiên lớn đối với danh từ 「原稿」 (bản thảo). Thứ tự sắp xếp: mở ngoặc kép -> phó từ cảm thán 「なんという」 đứng trước danh từ -> danh từ 「原稿」 -> đuôi cảm thán 「だ」 kèm trợ từ trích dẫn 「と」 -> bổ ngữ 「ため息を」 cho động từ chính 「ついた」。
+part_70.csv:3
+ORIG: Cụm từ 「なんということもない」 có nghĩa là 「không có gì đặc biệt, bình thường」. Cụm này bổ nghĩa cho danh từ 「日常」 qua trợ từ 「の」. Thứ tự sắp xếp tự nhiên: 「なんという」 -> 「こともない」 tạo thành tính từ -> bổ nghĩa cho 「日常の」 -> danh từ 「一部に」 -> cụm giới hạn 「過ぎなかった」 (chỉ là).
+part_70.csv:4
+ORIG: 「なんとかして」 thể hiện ý chí quyết tâm thực hiện hành động bằng mọi giá. Nó đứng trước để bổ nghĩa cho toàn bộ vế hành động phía sau. Thứ tự sắp xếp: phó từ ý chí 「なんとかして」 -> đối tượng tương tác 「内部告発者と」 -> tân ngữ 「接触を」 -> động từ thể ý định 「試みようと」 đi kèm 「した」.
+part_70.csv:5
+ORIG: 「なんとか」 mang nghĩa là 「bằng cách nào đó, cuối cùng cũng xoay xở được」 (kết quả khách quan mang lại). Thứ tự sắp xếp: trạng từ khách quan 「なんとか」 -> tân ngữ 「倒産を」 -> động từ thể khả năng 「免れることが」 -> trợ động từ hoàn thành 「できた」。
+part_70.csv:6
+ORIG: Cụm từ 「なんとかなる」 mang nghĩa 「rồi mọi chuyện sẽ ổn thôi」. Đi kèm trợ từ trích dẫn 「と」 để làm tân ngữ cho động từ 「信じていた」. Thứ tự logic: nội dung trích dẫn 「なんとかなると」 -> chủ ngữのhành động tin tưởng 「主人公は」 -> trạng từ bổ nghĩa 「強く」 -> động từ chính ở dạng tiếp diễn 「信じていた」.
+part_70.csv:7
+ORIG: 「何とか言って」 có nghĩa là 「hãy nói điều gì đó để giải quyết vấn đề」. Thứ tự sắp xếp hành động: chủ thể phát ngôn 「著者から」 -> hành động nói 「何とか言って」 -> đối tượng nhận tác động 「彼らを」 -> động từ sai khiến chỉ trạng thái 「安心させて」 -> biểu thị mong muốn 「ほしい」.
+part_70.csv:8
+ORIG: 「何とかいう」 đóng vai trò bổ nghĩa cho danh từ 「村」 mang nghĩa 「ngôi làng tên là gì đó không rõ」. Thứ tự sắp xếp: vùng địa lý 「東北地方の」 -> cụm từ mơ hồ 「何とかいう」 -> danh từ chỉ nơi chốn 「村に」 -> thuộc tính 「その事件の」 -> chủ ngữ 「目撃者が」 -> động từ phỏng đoán sự tồn tại 「いるらしい」.
+part_70.csv:9
+ORIG: Cấu trúc 「N + とかなんとかいう + N」 dùng khi không nhớ rõ hoặc nói một cách đại khái về tên danh từ. Thứ tự sắp xếp: danh từ cụ thể trong ngoặc kép 「悲劇」とか」 -> cụm từ mơ hồ 「なんとかいう」 -> danh từ chính 「小説が」 -> động từ chỉ xu hướng 「流行しているそうだ」.
+part_70.csv:10
+ORIG: Cấu trúc 「～とかなんとか言って」 dùng để trích dẫn một lý do mơ hồ, có ý mỉa mai hoặc hoài nghi. Thứ tự logic: chủ ngữ 「その政治家は」 -> lý do viện cớ 「体調が悪い」 -> cụm từ trích dẫn đại khái 「とかなんとか」 -> hành động nói 「言って」 -> hành động đột ngột cắt đứt cuộc họp báo 「突然会見を打ち切った」.
+part_70.csv:11
+ORIG: Trạng từ 「なんとしても」 nhấn mạnh quyết tâm cao độ 「bằng mọi giá/dù thế nào đi nữa」. Thứ tự logic: chủ ngữ 「生き残った若者は」 -> trạng từ ý chí 「なんとしても」 -> bổ nghĩa 「故郷の」 cho danh từ chỉ đối tượng 「家族に」 -> nguyện vọng kèm trích dẫn 「会いたいと」 -> động từ chính 「強く願った」.
+part_70.csv:12
+ORIG: Trạng từ 「なんとなく」 biểu thị cảm giác mơ hồ, không rõ nguyên nhân. Thứ tự sắp xếp: trạng từ chỉ cảm giác 「なんとなく」 -> tác nhân gây ra hành động bị động 「誰かに」 -> động từ thể bị động 「見られている」 -> kết cấu tạo cảm giác 「ような気がした」.
+part_70.csv:13
+ORIG: Trạng từ văn học 「なんとはなしに」 chỉ hành động diễn ra một cách vô thức, không mục đích rõ ràng. Thứ tự logic: chủ ngữ 「作家は」 -> trạng từ chỉ tâm trạng 「なんとはなしに」 -> bổ ngữ sở hữu 「窓の」 -> tân ngữ chính 「外の雨を」 -> trạng từ bổ trợ 「ぼんやりと」 -> động từ chính 「眺めていた」.
+part_70.csv:14
+ORIG: Trạng từ 「なんとも」 dùng để nhấn mạnh mức độ cảm xúc cực kỳ cao. Thứ tự logic: chủ ngữ 「老人は」 -> trạng từ mức độ 「なんとも」 -> tính từ chỉ cảm xúc buồn bã 「切ない」 bổ nghĩa cho danh từ tân ngữ 「表情を」 -> nơi chốn xuất hiện biểu cảm 「顔に」 -> động từ biểu hiện 「浮かべた」.
+part_70.csv:15
+ORIG: Cấu trúc 「なんとも + V-がたい」 (thể khó khăn) diễn tả việc hoàn toàn không thể đưa ra phán đoán rõ ràng nào. Thứ tự sắp xếp: trạng từ thời gian 「現段階では」 -> trạng từ phủ định nhẹ 「なんとも」 -> động từ căn bản 「判断し」 đi kèm đuôi biểu thị sự khó khăn và trợ từ trích dẫn 「がたいと」 -> động từ tuyên bố 「発表した」.
+part_70.csv:16
+ORIG: Cấu trúc 「なんとも + V-ようがない」 biểu thị sự bất lực hoàn toàn, không có cách nào thực hiện hành động. Thứ tự logic: phương thức diễn tả 「言葉では」 -> trạng từ 「なんとも」 -> danh động từ 「表現」 đi kèm đuôi cấu trúc mức độ 「しようがないほど」 -> tính từ kết thúc 「悲惨だった」.
+part_70.csv:17
+ORIG: Cụm từ 「なんとも思っていない」 có nghĩa là 「không bận tâm/chẳng nghĩ ngợi gì」. Thứ tự sắp xếp: trạng từ phủ định 「なんとも」 -> động từ suy nghĩ thể phủ định 「思っていない」 -> bổ nghĩa 「ような」 -> danh từ tân ngữ 「態度を」 -> động từ kết thúc 「崩さなかった」.
+part_70.csv:18
+ORIG: Cấu trúc phủ định tuyệt đốiのtính từ đuôi i: 「Tính từ -くも何ともない」 (không... một chút nào). Thứ tự logic: cụm bổ nghĩa mức độ 「この程度の」 -> chủ ngữ chính 「挫折は」 -> liên từ trạng tháiのtính từ 「痛くも」 -> cụm từ nhấn mạnh và phủ định 「何とも」 + 「ない」.
+part_70.csv:19
+ORIG: Trạng từ liên kết 「なんにしても」 mang nghĩa 「dù sao đi nữa/trong bất kỳ trường hợp nào」. Thứ tự sắp xếp: liên từ đứng đầu vế kết luận 「なんにしても」 -> bổ ngữ sở hữu 「社会の」 -> danh từ chủ ngữ 「変革は」 -> động từ phủ định khả năng 「避けられない」 -> phỏng đoán 「だろう」.
+part_70.csv:20
+ORIG: Cấu trúc nhượng bộ 「N + はなんにしろ」 nghĩa là 「bất kể N có là gì đi nữa」. Thứ tự logic: thuộc tính sở hữu 「犯行の」 -> danh từ chủ ngữ 「動機は」 -> cụm từ nhượng bộ 「なんにしろ、」 -> cụm tính từ bổ nghĩa liên hoàn 「罪のない」 -> 「市民を巻き込む」 -> bổ nghĩa cho chủ ngữ chính 「テロ行為は決して許されない」.
+part_84.csv:3
+ORIG: Cấu trúc 「V-た + 範囲で」 biểu thị trong phạm vi/giới hạnのhành động V. Động từ 「調査した」 bổ nghĩa cho danh từ 「範囲」. Chủ ngữのhành động điều tra là 「私たちが」 đứng trước động từ. Sau 「範囲で」 (trong phạm vi) là tân ngữ 「真実を」 bổ nghĩa cho động từ kết thúc câu 「報道します」. Thứ tự logic: 「私たちが」 -> 「調査した」 -> 「範囲で」 -> 「真実を」.
+part_84.csv:5
+ORIG: Cấu trúc 「〜とは反対に」 có nghĩa là 「ngược lại với...」. Ở đây, danh từ 「予想」 (dự báo) đi với trợ từ 「とは」 để kết hợp với 「反対に」 tạo thành cụm trạng ngữ tương phản. 「事前の」 (trước đó) bổ nghĩa cho 「予想」. 「物価は」 (giá cả) làm chủ ngữ cho hành động vế sau. Thứ tự đúng: 「事前の」 -> 「予想とは」 -> 「反対に、」 -> 「物価は」.
+part_84.csv:9
+ORIG: Cấu trúc 「N1 を N2 に控えて」 (với N2 là thời gian) diễn tả sự việc N1 sắp sửa diễn ra vào thời gian N2 (cận kề, sắp tới). Ở đây, N1 là 「大統領選挙」 đi với trợ từ 「を」, N2 là 「来月」 đi với trợ từ 「に」, tiếp sau là động từ liên kết 「控えて」. Danh từ 「首都の」 (của thủ đô) bổ nghĩa cho chủ ngữ 「警備」 ở vế sau. Thứ tự đúng: 「大統領選挙を」 -> 「来月に」 -> 「控えて、」 -> 「首都の」.
+part_84.csv:11
+ORIG: Phó từ mức độ 「非常に」 (rất, cực kỳ) bổ nghĩa cho tính từ 「強い」 (mạnh). Tính từ 「強い」 bổ nghĩa cho danh từ 「風」 (gió). Chủ ngữ 「風が」 đi với động từ kết thúc 「吹いています」. Trạng ngữ chỉ thời gian 「現在は」 đứng đầu cụm để xác định mốc thời gian. Thứ tự đúng: 「現在は」 -> 「非常に」 -> 「強い」 -> 「風が」.
+part_84.csv:13
+ORIG: Cấu trúc nhấn mạnh phủ định 「N一つない / V-ない」 nghĩa là 「không một...」. Ở đây, cụm trạng ngữ chỉ địa điểm 「深い森の中では」 (trong khu rừng sâu) xác định bối cảnh. Tính từ 「深い」 bổ nghĩa cho danh từ 「森」. 「物音」 (tiếng động) đi liền với 「一つ」 và động từ thể phủ định khả năng 「聞こえなかった」 để tạo ý nghĩa 「không nghe thấy một tiếng động nào」. Thứ tự đúng: 「深い」 -> 「森の中では、」 -> 「物音」 -> 「一つ」.
+part_84.csv:16
+ORIG: Cấu trúc 「Nひとつ + V-できない / phủ định」 dùng để chỉ ra một ví dụ cực đoan, nhấn mạnh việc ngay cả một điều cơ bản như N cũng không thể làm được. Ở đây, 「記者たちの」 (của các nhà báo) và tính từ 「単純な」 (đơn giản) bổ nghĩa cho danh từ 「質問ひとつ」 (ngay cả một câu hỏi). Trạng từ 「満足に」 (một cách thỏa đáng/hài lòng) đứng trước động từ khả năng phủ định 「答えられなかった」 để bổ nghĩa cho hành động trả lời. Thứ tự đúng: 「記者たちの」 -> 「単純な」 -> 「質問ひとつ」 -> 「満足に」.
+part_84.csv:17
+ORIG: Phó từ 「ひとつ」 ở đầu câu biểu thị lời đề nghị, khẩn cầu hoặc thử làm một việc gì đó (thử, xin hãy). Tiếp theo là đối tượng thực hiện hành động 「私に」 (cho tôi). Cụm tân ngữ 「独自の調査を」 (cuộc điều tra độc lập) làm bổ ngữ cho động từ thể sai khiến 「させて」. Động từ này kết hợp với 「ください」 ở phần đuôi tạo thành câu cầu khiến. Thứ tự đúng: 「ひとつ、」 -> 「私に」 -> 「独自の調査を」 -> 「させて」.
+part_84.csv:18
+ORIG: Cấu trúc 「ひとつ間違えば」 nghĩa là 「nếu chỉ sai một ly」, 「sơ sẩy một chút là」. Danh từ bổ nghĩa 「外交上の」 (về mặt ngoại giao) bổ nghĩa cho 「判断を」 (quyết định). Cụm 「ひとつ間違えば」 đi sau tân ngữ để tạo thành điều kiện giả định phủ định. Tính từ 「重大な」 (trọng đại, nghiêm trọng) đứng cuối để bổ nghĩa trực tiếp cho danh từ 「衝突」 (xung đột) ở phần đuôi câu. Thứ tự logic: 「外交上の」 -> 「判断を」 -> 「ひとつ間違えば」 -> 「重大な」.
+part_84.csv:20
+ORIG: Cấu trúc 「一通りの + N」 nghĩa là 「N ở mức độ cơ bản/thông thường」. Cụm tính từ bổ nghĩa 「業務に必要な」 (cần thiết cho công việc) đứng trước để bổ nghĩa cho toàn bộ cụm danh từ phía sau. 「一通りの」 bổ nghĩa cho danh từ chỉ cách thức 「取材方法を」 (phương pháp lấy tin). Đối tượng thực hiện hành động dạy là 「先輩から」 (từ tiền bối) đứng trước động từ thể bị động 「教え込まれた」 (được dạy dỗ/rèn luyện kịch liệt). Thứ tự logic: 「業務に必要な」 -> 「一通りの」 -> 「取材方法を」 -> 「先輩から」.
+part_86.csv:2
+ORIG: Mẫu ngữ pháp 「V-るべきだ」 dùng để thể hiện nghĩa vụ hoặc một lời khuyên mạnh mẽ mang tính chủ quan 「nên làm gì」. Ở đây, động từ 「対応する」 chuyển thành dạng văn viết trang trọng 「対応すべき」 và kết hợp với đuôi khẳng định 「だ」. Thứ tự sắp xếp logic: cụm trạng ngữ mục đích 「復興に向けて」 -> phó từ bổ nghĩa mức độ 「より」 -> tính từ đuôi na chia dạng trạng từ 「迅速に」 -> cụm động từ mang ý nghĩa khuyên nhủ 「対応すべき」 đứng trước trợ từ trích dẫn 「だ」.
+part_86.csv:3
+ORIG: Mẫu ngữ pháp 「V-ておくべきだった」 biểu thị sự hối hận sâu sắc về một hành động đáng lẽ nên chuẩn bị hoặc làm sẵn trong quá khứ nhưng bản thân đã bỏ lỡ. Thứ tự sắp xếp tự nhiên: trạng ngữ chỉ thời gian quá khứ 「あの時」 -> phó từ mức độ bổ nghĩa 「もっと」 -> trạng từ cách thức 「真剣に」 bổ nghĩa trực tiếp cho cụm động từ chuẩn bị kèm ngữ pháp 「話し合っておくべき」 -> đuôi khẳng định quá khứ 「だった」 nối với trợ từ trích dẫn 「と」.
+part_86.csv:7
+ORIG: Mẫu ngữ pháp trang trọng 「V-るべくもない」 mang nghĩa phủ định tuyệt đối 「hoàn toàn không thể V / không cách nào làm V」. Ở đây cụm động từ 「取り戻す」 (khôi phục/lấy lại) kết hợp trực tiếp với ngữ pháp này. Thứ tự sắp xếp: định ngữ sở hữu thời gian 「かつての」 -> tân ngữ bị tác động 「栄光を」 -> động từ thể từ điển 「取り戻す」 -> mẫu phủ định 「べくもない」 làm vị ngữ kết câu trước trợ từ trích dẫn 「と」.
+part_86.csv:9
+ORIG: Tính từ đuôi na 「へた（下手）」 dùng để biểu thị sự kém cỏi, vụng về trong một lĩnh vực. Cấu trúc cơ bản là 「[Ai đó] は [Lĩnh vực] がへただ」. Thứ tự sắp xếp tự nhiên: chủ đề câu 「私は」 -> đối tượng yếu kém 「歌が」 -> tính từ và liên từ nguyên nhân 「へたですから」 -> cụm chỉ vị trí không gian bổ nghĩa 「みんなの前で」 đứng trước mệnh đề kết luận.
+part_86.csv:10
+ORIG: Cấu trúc 「V-るのがへただ」 dùng để diễn đạt việc vụng về hoặc kém trong việc thực hiện một hành động cụ thể nào đó (đã được danh từ hóa bằng 「の」). Thứ tự sắp xếp: chủ từ 「兄は」 -> tân ngữのhành động 「絵を」 -> động từ chính hành động 「描く」 -> trợ từ danh từ hóa 「のが」 -> tính từ chỉ sự vụng về và liên từ nghịch đối 「へたですが」.
+part_86.csv:11
+ORIG: Trạng từ 「へたに」 mang nghĩa 「lóng ngóng, dại dột thực hiện hành động khi chưa có kỹ năng」. Nó dùng để bổ nghĩa cho hành động ở vế sau. Thứ tự logic: trạng từ 「へたに」 khởi đầu mệnh đề -> chủ thể tự thực hiện hành động 「自分で」 -> động từ thể ý chí hành động 「修理しよう」 -> cấu trúc giả định bắt đầu hành động 「とすると」 để dẫn tới kết quả tiêu cực.
+part_86.csv:13
+ORIG: Trạng từ 「べつだん（別段）」 luôn đi kèm với thể phủ định ở cuối câu để tạo cấu trúc mang nghĩa 「không có gì đặc biệt / không hẳn là...」. Thứ tự sắp xếp các thành phần: trạng từ phủ định 「べつだん」 đặt đầu mệnh đề phủ định -> tính từ bổ nghĩa cho danh từ 「怪しい」 -> danh từ chủ từ phụ 「証拠は」 -> động từ chia thể phủ định tách rời 「見つから」 trước đuôi phủ định 「なかった」.
+part_86.csv:14
+ORIG: Cụm từ trang trọng 「別段のN」 dùng nhiều trong văn phong hành chính, chính trị hoặc báo chí, mang ý nghĩa 「danh từ đặc biệt/riêng biệt nào khác」. Ở đây bổ nghĩa cho 「cuộc điều tra」. Thứ tự sắp xếp: cụm từ bổ nghĩa mức độ 「これ以上の」 -> định ngữ trạng từ 「別段の」 -> tân ngữ chịu tác động 「調査を」 -> động từ thể từ điển định ngữ hóa 「行う」 đứng ngay trước danh từ đích 「予定」.
+part_86.csv:15
+ORIG: Cấu trúc 「N là 別として」 mang ý nghĩa loại trừ 「ngoại trừ N ra / chưa bàn tới N」. Ở đây, 「các khu đô thị lớn」 (大都市圏) bị loại trừ để tập trung phân tích vùng nông thôn. Thứ tự sắp xếp tự nhiên: mệnh đề loại trừ đầu câu 「大都市圏は別として」 -> trạng ngữ chỉ phạm vi thảo luận 「地方の町では」 -> danh từ nguyên nhân 「高齢化に」 -> động từ liên kết ý nghĩa kéo theo 「伴う」 -> danh từ sở hữu chỉ đối tượng cốt lõi 「公共交通機関の」.
+part_86.csv:16
+ORIG: Mẫu câu nghi vấn loại trừ 「...かどうかは別として」 có nghĩa 「việc có... hay không chưa bàn tới / là một chuyện hoàn toàn khác」. Trình tự logic: chủ ngữのmệnh đề phụ 「その計画が」 -> tính từ đuôi na làm vị ngữ chia thể trang trọng văn viết 「現実的である」 -> liên từ nghi vấn lựa chọn 「かどうかは」 -> cụm từ loại trừ 「別として、」 -> tân ngữのmệnh đề chính phía sau 「新しい視点を」.
+part_86.csv:17
+ORIG: Mẫu câu phủ định nhẹ nhàng 「別に～ない」 biểu thị ý nghĩa 「không có gì đặc biệt / không hẳn là...」 nhằm giảm nhẹ mức độ. Thứ tự sắp xếp tự nhiên: đối tượng cảm xúc 「私には」 -> trạng từ nhấn mạnh phủ định 「別に」 -> định ngữ bổ nghĩa cho danh từ 「驚くような」 -> danh từ làm chủ ngữ phụ đi kèm từ phủ định phủ quát 「ことは何も」 -> vị ngữ phủ định quá khứ 「なかった」.
+part_86.csv:20
+ORIG: Hậu tố 「~っぽい」 mang tính khẩu ngữ dùng để diễn tả xu hướng, tính chất 「dễ bị / có vẻ đầy...」 (động từ bỏ ます hoặc danh từ + っぽい). Động từ 「怒る」 bỏ ます kết hợp thành tính từ đuôi i 「怒りっぽい」 (dễ nổi giận), chuyển sang dạng liên kết trạng từ biến đổi là 「怒りっぽく」 đi kèm 「なる」. Thứ tự sắp xếp: trạng ngữ chỉ thời gian 「最近は」 -> phó từ bổ nghĩa mức độ 「少し」 -> tính từ trạng từ hóa 「怒りっぽく」 -> động từ biến đổi chia quá khứ và trợ từ trích dẫn liên kết 「なったと」.
+part_89.csv:2
+ORIG: Mẫu 「N đềあるまい」 mang ý nghĩa 「cũng không phải là N (nên không thể đối xử/hành xử như thế được)」. Ở đây, 「素人 (người nghiệp dư)」 kết hợp với trợ từ 「đề」 và động từ 「あるまい」 (phủ định phỏng đoánのである) để tạo thành mệnh đề giả định phủ định. Trình tự logic: Chủ ngữ (nhà báo chuyên nghiệp) thì 「không phải là kẻ nghiệp dư」 (素人でもあるまい), do đó vế sau đưa ra kết luận đương nhiên là 「không thể lơ là việc xác nhận nguồn tin」 (情報源の確認を怠るはずがない).
+part_89.csv:3
+ORIG: Mẫu 「N đềあるまいし」 mang ý nghĩa 「vì không phải là N nên... (vế sau thường là chỉ trích hoặc phủ định mạnh mẽ)」. 「独裁国家 (quốc gia độc tài)」 đi với 「でもあるまいし」 tạo thành lý do bác bỏ tính hợp lýのhành động ở vế sau. Thứ tự logic: 「独裁国家」 + 「で」 (trợ từ chỉ trạng thái) + 「あるまい」 (phủ định phỏng đoánのある) + 「し」 (phân tách câu chỉ lý do), kết nối tự nhiên với vế sau phản đối việc đàn áp tự do ngôn luận.
+part_92.csv:1
+ORIG: Thứ tự sắp xếp đúng theo mạch câu báo chí: 「まもなく」 (phó từ chỉ thời gian sắp sửa diễn ra) bổ nghĩa trực tiếp cho hành động phía sau. Tiếp theo là định ngữ 「厳重な警備の」 (sự canh phòng nghiêm ngặt) bổ nghĩa cho danh từ chỉ địa điểm 「滑走路に」 (đường băng). Cuối cùng là động từ chính 「着陸する」 kết hợp với Suffix để tạo thành mệnh đề gián tiếp.
+part_92.csv:10
+ORIG: Cách dùng trừu tượngの「見える」 mang ý nghĩa 「bộc lộ, xuất hiện dấu hiệu」. Ở đây, 「兆しが見える」 nghĩa là 「nhìn thấy điềm báo/dấu hiệu」. Trình tự logic: bối cảnh 「不況の末に」 (sau thời kỳ suy thoái kéo dài) -> phó từ 「ようやく」 (cuối cùng thì) -> danh từ bổ nghĩa 「経済回復の」 (của sự phục hồi kinh tế) -> cụm từ trung tâm 「兆しが見える」.
+part_92.csv:13
+ORIG: Cấu trúc 「V-plain + ように見える」 (trông có vẻ như làm gì đó / dường như là...). Thứ tự sắp xếp: tân ngữのhành động 「国民の負担を」 (gánh nặngのngười dân) -> động từ bổ nghĩa trạng thái 「減らすように」 (như thể làm giảm) -> vị ngữ 「見えるが」 (nhìn có vẻ... nhưng) để liên kết tương phản với vế thực tế ở Suffix.
+part_92.csv:20
+ORIG: Cụm từ chỉ sự phán đoán sai lầm 「見込み違いだった」 (đã tính toán sai/lầm lẫn). Thứ tự câu: mệnh đề nhượng bộ 「だったが」 (đã là kế hoạch vạn toàn nhưng...) -> hành động sai lầm được danh từ hóa 「相手の能力を侮ったのは」 (việc coi thường năng lực đối thủ) -> vị ngữ kết luận 「見込み違いだった」 (là một sự tính toán sai lầm).
+part_93.csv:6
+ORIG: Cụm động từ bổ nghĩa định ngữ 吸い込まれそうな (như thể bị hút vào) đứng trước bổ nghĩa cho danh từ 人形 (búp bê). Danh từ 人形 kết hợp với từ so sánh みたいな (giống như) để tạo thành một cụm tính từ bổ nghĩa cho danh từ tiếp theo là 瞳で (bằng đôi mắt). Cụm này làm trạng ngữ chỉ phương thức cho hành động ở phần suffix. Thứ tự logic: 吸い込まれそうな -> 人形 -> みたいな -> 瞳で.
+part_93.csv:7
+ORIG: Trạng từ so sánh まるで (như thể là) đứng đầu để nhấn mạnh ý so sánh. Cụm danh từ sở hữu 真夏の (giữa mùa hè) bổ nghĩa cho danh từ 台風 (bão). Danh từ 台風 liên kết trực tiếp với đuôi phán đoán so sánh みたいだ (giống như) tạo thành vị ngữ hoàn chỉnh cho câu gián tiếp, đứng trước trợ từ trích dẫn と ở phần suffix. Thứ tự logic: まるで -> 真夏の -> 台風 -> みたいだ.
+part_93.csv:9
+ORIG: Mệnh đề chủ ngữ bắt đầu bằng cụm bổ ngữ 海外旅行に (du lịch nước ngoài) kết hợp động từ danh từ hóa 行くのは (việc đi). Tiếp theo là vế so sánh gồm tân ngữ 贅沢品を (hàng xa xỉ) và động từ 買う (mua). Động từ thể từ điển 買う liên kết trực tiếp với biểu thức みたいなものだ (gần như là/chẳng khác nào) để hoàn thành vị ngữ câu. Thứ tự logic: 海外旅行に -> 行くのは -> 贅沢品を -> 買う.
+part_93.csv:10
+ORIG: Tính từ đuôi な bổ nghĩa 新たな (mới) đi trước để bổ nghĩa cho danh từ chủ ngữ 衝突が (xung đột). Động từ thể quá khứ 起きた (đã xảy ra) làm vị ngữ cho mệnh đề phụ, liên kết trực tiếp với đuôi phỏng đoán みたいだ (hình như là/có vẻ như). Toàn bộ mệnh đề này đứng trước trợ từ trích dẫn と ở phần suffix. Thứ tự logic: 新たな -> 衝突が -> 起きた -> みたいだ.
+part_93.csv:11
+ORIG: Danh từ chỉ người 彼 (anh ấy) kết hợp với cấu trúc chỉ ví dụ みたいな (như là) để bổ nghĩa cho danh từ phía sau. Tiếp theo, tính từ đuôi な 情熱的な (nhiệt huyết) bổ nghĩa trực tiếp cho danh từ chỉ nghề nghiệp 作家 (nhà văn) để làm tân ngữ đích cho cụm động từ chuyển đổi trạng thái になりたい (muốn trở thành) ở phần suffix. Thứ tự logic: 彼 -> みたいな -> 情熱的な -> 作家.
+part_93.csv:12
+ORIG: Chỉ thị từ この (này) bổ nghĩa cho danh từ chỉ địa điểm 区域内に (trong khu vực). Phó từみだりに (tự tiện/vô cớ) đứng trước để bổ nghĩa cho động từ hành vi 立ち入る (xâm nhập). Động từ này đứng trước trợ từ danh từ hóa ことは ở phần suffix để làm chủ ngữ cho câu bị động nghiêm cấm. Thứ tự logic: この -> 区域内に -> みだりに -> 立ち入る.
+part_93.csv:13
+ORIG: Cụm trạng ngữ chỉ địa điểm 海で (ở biển) đứng trước để chỉ nơi chốn xảy ra hành động. Tính từ きれいな (đẹp) bổ nghĩa trực tiếp cho danh từ tân ngữ 夕日を (hoàng hôn). Động từ chỉ hành vi 見る kết hợp với cụm danh từ hóa のが (việc xem...) để làm chủ ngữ cho tính từ biểu thị sở thích 好きだ (thích) ở phần suffix. Thứ tự logic: 海で -> きれいな -> 夕日を -> 見るのが.
+part_93.csv:14
+ORIG: Cụm danh từ sở hữu 市場の (của thị trường) bổ nghĩa cho danh từ 回復には (đối với sự phục hồi). Cụm phó từ và danh từ まだ時間が (vẫn cần thời gian) đi kèm động từ và trợ từ liên kết かかると (cho rằng mất/tốn...) để làm mệnh đề nội dung nhận định cho động từ phán đoán みている (đang nhìn nhận/cho rằng) ở phần suffix. Thứ tự logic: 市場の-> 回復には -> まだ時間が -> かかると.
+part_93.csv:15
+ORIG: Cụm giới từ 世論調査に (trong khảo sát dư luận) kết hợp động từ định ngữ みる (nhìn thấy ở...) bổ nghĩa cho cụm phía sau. Tiếp theo, danh từ sở hữu 政治不信の (sự bất tín nhiệm chính trị) bổ nghĩa cho danh từ làm chủ ngữ chính 広がりは (sự lan rộng). Toàn bộ cụm này đi với tính từ vị ngữ 極めて深刻だ (cực kỳ nghiêm trọng) ở phần suffix. Thứ tự logic: 世論調査に -> みる -> 政治不信の -> 広がりは.
+part_93.csv:16
+ORIG: Trạng từ 一斉に (đồng loạt) đứng trước bổ nghĩa cho động từ thể quá khứ 消えた (đã tắt). Động từ này làm định ngữ bổ nghĩa cho danh từ liên kết ところを kết hợp với みると, tạo thành cấu trúc chỉ căn cứ phán đoán ところをみると (nhìn từ việc.../nhìn vào chỗ...). Mệnh đề này dẫn tới phán đoán ở phần suffix. Thứ tự logic: 一斉に -> 消えた -> ところを -> みると、.
+part_93.csv:17
+ORIG: Phó từ 見るからに (nhìn qua đã thấy/trông có vẻ) đứng trước bổ nghĩa cho tính từ đuôi な 重厚な (sang trọng/uy nghiêm). Tiếp theo, cụm danh từ chất liệu 革張りの (bằng da) bổ nghĩa cho danh từ chủ ngữ ソファが (chiếc sofa). Danh từ này đi với vị ngữ chỉ trạng thái tồn tại 置かれていた (đang được đặt) ở phần suffix. Thứ tự logic: 見るからに -> 重厚な -> 革張りの -> ソファが.
+part_93.csv:18
+ORIG: Danh từ chỉ phương hướng 東 (phía Đông) kết hợp với hậu tố chỉ hướng 向きの để bổ nghĩa cho danh từ chỉ địa điểm 部屋には (trong căn phòng). Cụm phó từ và tính từ 毎朝まばゆい (mỗi sáng rực rỡ) đứng trước bổ nghĩa trực tiếp cho danh từ chủ ngữ 光が (ánh sáng) đi kèm động từ 差し込んだ (chiếu vào) ở phần suffix. Thứ tự logic: 東 -> 向きの -> 部屋には -> 毎朝まばゆい.
+part_93.csv:19
+ORIG: Danh từ chỉ đối tượng 初心者 (người mới bắt đầu) đi với hậu tố 向きに (phù hợp với/dành cho) đóng vai trò trạng ngữ bổ nghĩa phương thức. Tiếp theo, danh từ chủ ngữ phụ 操作が (thao tác) đi kèm danh từ chỉ hành động 簡略化 (giản lược hóa) để kết hợp với động từ bị động trạng thái されている ở phần suffix. Thứ tự logic: 初心者 -> 向きに -> 操作が -> 簡略化.
+part_93.csv:20
+ORIG: Cụm tính động từ chỉ nhận định 時期尚早 (chưa đúng thời điểm/quá sớm) kết hợp hệ từ và trợ từ liên kết だと đứng trước bổ nghĩa cho động từ 批判する (phê phán). Động từ này làm định ngữ bổ nghĩa cho danh từ 向きも (phía/bộ phận người/giới). Toàn bộ cụm này đi với động từ tồn tại ある ở phần suffix để tạo thành nghĩa 「cũng có những ý kiến phê phán rằng...」. Thứ tự logic: 時期尚早 -> だと -> 批判する -> 向きも.
+part_97.csv:3
+ORIG: Phó từ もしかしたら dùng để diễn tả sự nghi ngờ, liên kết với trợ từ nghi vấn 「か」 ở cuối câu. Thứ tự sắp xếp các thành phần: Cụm định ngữ 「あの事件の」bổ nghĩa cho chủ ngữ 「真犯人は」 . Tiếp theo là thành phần chỉ nơi chốn 「彼の身内に」bổ nghĩa cho động từ tồn tại chỉ phỏng đoán 「いるのだろう」 , kết thúc bằng trợ từ nghi vấn 「か」 ở Suffix.
+part_97.csv:4
+ORIG: Liên từ もしくは kết nối hai danh từ song song 「XもしくはY」 (hoặc X hoặc Y) mang tính trang trọng. Trình tự logic: Danh từ thứ nhất 「避難所」-> Liên từ 「もしくは」-> Danh từ thứ hai được định ngữ hóa 「最寄りの役所」đi với trợ từ chỉ địa điểm hành động 「で」để bổ nghĩa cho động từ chính ở phần Suffix.
+part_97.csv:6
+ORIG: Phó từ もしも diễn tả giả định cực kỳ giả thuyết, thường đi kèm với thể điều kiện 「～たら」 ở cuối vế. Thứ tự sắp xếp tự nhiên: Trạng từ chỉ thời gian 「あの時」-> Định ngữ 「彼の」bổ nghĩa cho tân ngữ 「手を」-> Động từ giả định phủ định quá khứ 「離さなかったら」dẫn nhập vào kết quả ở phần Suffix.
+part_97.csv:7
+ORIG: Cụm danh từ 「もしものN」 mang ý nghĩa 「trong trường hợp khẩn cấp/có sự cố xảy ra」. Ở đây N là 「時」 (khi). Trình tự logic: Cụm ngữ pháp 「もしもの」bổ nghĩa cho danh từ 「時」 kèm trợ từ 「の」để tạo thành cụm chỉ mục đích/chuẩn bị 「ために」 . Cụm này bổ nghĩa cho trạng ngữ chỉ nơi chốn 「日記の最後に」 , rồi kết thúc bằng hành động chính ở Suffix.
+part_97.csv:13
+ORIG: Phó từ もっと dùng để biểu thị mức độ hơn nữa. Trình tự logic: Phó từ 「もっと」bổ nghĩa cho trạng từ chỉ cự ly 「近くに」 kết hợp định ngữ 「私の」 , 3) -> Động từ liên kết thể Te 「寄って」bổ nghĩa cho hành động chính 「歩いてください」 ở Suffix.
+part_97.csv:15
+ORIG: Mẫu 「もっとも～が」 dùng để đưa ra lời giải thích bổ sung làm giảm bớt mức độ hoặc đưa ra giới hạn cho câu khẳng định trước đó. Trình tự logic: Liên từ đưa thông tin đính chính 「もっとも、」-> Trạng từ chỉ tình trạng chưa hoàn thành 「まだ」-> Cụm danh từ chỉ số lượng hạn chế 「数ページ」kết hợp với trợ từ giới hạn chỉ mức độ 「だけだ」trước khi kết thúc bằng trợ từ nghịch đối 「が」 ở Suffix.
+part_97.csv:20
+ORIG: Phó từ もともと chỉ bản chất ban đầu hoặc nguồn gốc vốn cóのsự vật (「vốn dĩ/ban đầu」). Thứ tự sắp xếp logic: Phó từ trạng thái 「もともと」-> Tính từ bổ nghĩa 「小さな」bổ nghĩa cho danh từ 「漁村に」đi cùng cấu trúc giới hạn 「すぎな」trước khi kết thúc bằng đuôi phủ định quá khứ ở Suffix.
+part_102.csv:4
+ORIG: Cấu trúc 「V-ようとする」 diễn tả nỗ lực, cố gắng thực hiện hành động. Trình tự logic: Chủ ngữ 「野生のシカは」 + tân ngữ hành động bổ trợ 「雪を」 + hành động bổ trợ 「掘って、」 + tân ngữ hành động chính 「草を」 + động từ hành động chính thể ý chí 「食べようと」 + đuôi cấu trúc 「している」.
+part_102.csv:7
+ORIG: Cấu trúc 「V-ようにもV-れない」 biểu thị muốn làm gì đó nhưng không thể làm được. Trình tự logic: Nguyên nhân khách quan 「猛吹雪で」 + trạng thái cản trở 「前が」 + 「見えず、」 + điểm xuất phát hành động 「家から」 + động từ chính thể ý chí 「出ようにも」 + động từ khả năng dạng phủ định 「出られない」.
+part_102.csv:8
+ORIG: Cụm từ 「要するに」 dùng để tóm tắt vấn đề ở đầu câu. Trình tự logic: Trạng từ đúc kết 「要するに、」 + chủ đề chínhのcâu 「この政策 là」 + sở hữu định ngữ 「国民の」 + tân ngữ chịu tác động 「生活を」 + cụm tính từ bổ nghĩa cho danh từ kết câu 「豊かにするための」 + danh từ hình thức kết luận kết câu 「ものだ」.
+part_102.csv:10
+ORIG: Cấu trúc 「V-た かのように」 biểu thị trạng thái cứ như thể là. Trình tự logic: Vế liên kết nguyên nhân/bối cảnh 「激しい嵐が去り、」 + chủ ngữ chính vế sau 「街は」 + chủ ngữのvế ví von 「時が」 + động từ chia thể quá khứ nghi vấn tự nhiên 「止まったか」 + liên từ so sánh ví von 「のように」 + động từ miêu tả trạng thái tĩnh lặng 「静まり返っていた」.
+part_102.csv:11
+ORIG: Cấu trúc 「Nのように」 dùng để nêu ví dụ điển hình. Trình tự logic: Danh từ ví dụ điển hình 「ポートランドの」 + từ chỉ ví dụ 「ように」 + trạng ngữ chỉ khía cạnh 「環境に」 + tính từ bổ nghĩa danh từ chính 「優しい」 + danh từ chính làm chủ ngữ 「都市が、」 + vế chỉ nguyện vọng hướng tới tương lai 「日本にも増えてほしい」.
+part_102.csv:12
+ORIG: Cấu trúc 「Nのような N」 dùng để ví von bổ nghĩa danh từ. Trình tự logic: Trạng từ chỉ địa điểm bối cảnh 「この部屋には、」 + tính từ bổ nghĩa cho danh từ ví von 「古い」 + danh từ ví von 「図書館の」 + liên từ cấu trúc 「ような」 + tính từ bổ nghĩa tiếp theo 「独特な」 + cụm chủ vị kết thúc câu 「匂いが漂っている」.
+part_102.csv:15
+ORIG: Cấu trúc 「V-たようだ」 thể hiện phán đoán, suy luận dựa trên thông tin có sẵn. Trình tự logic: Cụm chỉ bối cảnh/bằng chứng khách quan 「机の上の」 + 「手紙を見ると、」 + chủ ngữのvế suy đoán 「彼は」 + trạng từ hoàn thành hành động 「すでに」 + động từ chínhのvế phán đoán 「旅立った」 + đuôi phỏng đoán kết thúc 「ようです」.
+part_102.csv:16
+ORIG: Cấu trúc 「～ような気がする」 diễn tả cảm nhận mơ hồ. Trình tự logic: Định ngữ và trạng ngữ chỉ nơi xuất phát 「闇の」 + 「向こうから、」 + tác nhân hành động bị động 「誰かに」 + động từ bị động tiếp diễn 「見つめられている」 + liên từのcấu trúc phán đoán mơ hồ 「ような」 + đuôi chỉ cảm giác 「気がする」.
+part_102.csv:18
+ORIG: Cấu trúc 「～ようでは」 chỉ giả định tiêu cực dẫn đến hậu quả không mong muốn. Trình tự logic: Trạng từ chỉ mức độ 「これほど」 + tính từ bổ nghĩa cho danh từ làm chủ ngữ vế điều kiện 「基礎的な」 + danh từ làm chủ ngữ vế điều kiện 「技術も」 + động từ cụm phủ định 「身につかない」 + đuôi liên kết giả định tiêu cực 「ようでは、」 + vế kết quả hệ quả xấu 「プロとしては通用しない」.
+part_102.csv:20
+ORIG: Cấu trúc song hành 「～ようでもあり、～ようでもある」 biểu thị trạng thái không rõ ràng, mang cả hai tính chất cùng lúc. Trình tự logic: Định ngữ sở hữu 「彼の」 + định ngữ tính chất đột ngột 「突然の」 + chủ ngữ chính 「告白は、」 + danh từ tính chất thứ nhất 「冗談の」 + vế đầu cấu trúc song hành 「ようでもあり、」 + vế sau bổ sung kết thúc tính chất thứ hai 「本気のようでもあった」.
